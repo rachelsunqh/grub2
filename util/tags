@@ -1,0 +1,2124 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACLOCAL	bash-completion.d/Makefile	/^ACLOCAL = ${SHELL} \/android\/tow\/grub\/build-aux\/missing aclocal-1.14$/;"	m
+ACLOCAL_M4	bash-completion.d/Makefile	/^ACLOCAL_M4 = $(top_srcdir)\/aclocal.m4$/;"	m
+ALIGN_ADDR	grub-mkimagexx.c	85;"	d	file:
+ALIGN_ADDR	mkimage.c	51;"	d	file:
+ALLOCA	bash-completion.d/Makefile	/^ALLOCA = $/;"	m
+ALLOCA_H	bash-completion.d/Makefile	/^ALLOCA_H = alloca.h$/;"	m
+AMTAR	bash-completion.d/Makefile	/^AMTAR = $${TAR-tar}$/;"	m
+AM_DEFAULT_VERBOSITY	bash-completion.d/Makefile	/^AM_DEFAULT_VERBOSITY = 1$/;"	m
+AM_V_GEN	bash-completion.d/Makefile	/^AM_V_GEN = $(am__v_GEN_$(V))$/;"	m
+AM_V_P	bash-completion.d/Makefile	/^AM_V_P = $(am__v_P_$(V))$/;"	m
+AM_V_at	bash-completion.d/Makefile	/^AM_V_at = $(am__v_at_$(V))$/;"	m
+APPLE_UNIVERSAL_BUILD	bash-completion.d/Makefile	/^APPLE_UNIVERSAL_BUILD = 0$/;"	m
+AR	bash-completion.d/Makefile	/^AR = ar$/;"	m
+ARFLAGS	bash-completion.d/Makefile	/^ARFLAGS = cru$/;"	m
+ARRAY_SIZE	grub-gen-asciih.c	39;"	d	file:
+ARRAY_SIZE	grub-gen-widthspec.c	39;"	d	file:
+AUTOCONF	bash-completion.d/Makefile	/^AUTOCONF = ${SHELL} \/android\/tow\/grub\/build-aux\/missing autoconf$/;"	m
+AUTOHEADER	bash-completion.d/Makefile	/^AUTOHEADER = ${SHELL} \/android\/tow\/grub\/build-aux\/missing autoheader$/;"	m
+AUTOMAKE	bash-completion.d/Makefile	/^AUTOMAKE = ${SHELL} \/android\/tow\/grub\/build-aux\/missing automake-1.14$/;"	m
+AWK	bash-completion.d/Makefile	/^AWK = gawk$/;"	m
+BITSIZEOF_PTRDIFF_T	bash-completion.d/Makefile	/^BITSIZEOF_PTRDIFF_T = $/;"	m
+BITSIZEOF_SIG_ATOMIC_T	bash-completion.d/Makefile	/^BITSIZEOF_SIG_ATOMIC_T = $/;"	m
+BITSIZEOF_SIZE_T	bash-completion.d/Makefile	/^BITSIZEOF_SIZE_T = $/;"	m
+BITSIZEOF_WCHAR_T	bash-completion.d/Makefile	/^BITSIZEOF_WCHAR_T = $/;"	m
+BITSIZEOF_WINT_T	bash-completion.d/Makefile	/^BITSIZEOF_WINT_T = $/;"	m
+BOOT_SECTOR	setup.c	128;"	d	file:
+BOOT_SECTOR	setup.c	130;"	d	file:
+BOOT_TIME_STATS	bash-completion.d/Makefile	/^BOOT_TIME_STATS = 0$/;"	m
+BSS_START_SYMBOL	bash-completion.d/Makefile	/^BSS_START_SYMBOL = __bss_start$/;"	m
+BUF_SIZE	grub-fstest.c	74;"	d	file:
+BUILD_CC	bash-completion.d/Makefile	/^BUILD_CC = gcc$/;"	m
+BUILD_CFLAGS	bash-completion.d/Makefile	/^BUILD_CFLAGS = $/;"	m
+BUILD_CPPFLAGS	bash-completion.d/Makefile	/^BUILD_CPPFLAGS = $/;"	m
+BUILD_EXEEXT	bash-completion.d/Makefile	/^BUILD_EXEEXT = $/;"	m
+BUILD_FREETYPE	bash-completion.d/Makefile	/^BUILD_FREETYPE = $/;"	m
+BUILD_LDFLAGS	bash-completion.d/Makefile	/^BUILD_LDFLAGS = $/;"	m
+BUILD_LIBM	bash-completion.d/Makefile	/^BUILD_LIBM = -lm$/;"	m
+BUILD_SIZEOF_LONG	bash-completion.d/Makefile	/^BUILD_SIZEOF_LONG = 4$/;"	m
+BUILD_SIZEOF_VOID_P	bash-completion.d/Makefile	/^BUILD_SIZEOF_VOID_P = 4$/;"	m
+BUILD_WORDS_BIGENDIAN	bash-completion.d/Makefile	/^BUILD_WORDS_BIGENDIAN = 0$/;"	m
+CC	bash-completion.d/Makefile	/^CC = gcc$/;"	m
+CCAS	bash-completion.d/Makefile	/^CCAS = gcc$/;"	m
+CCASDEPMODE	bash-completion.d/Makefile	/^CCASDEPMODE = depmode=gcc3$/;"	m
+CCASFLAGS	bash-completion.d/Makefile	/^CCASFLAGS = $/;"	m
+CCDEPMODE	bash-completion.d/Makefile	/^CCDEPMODE = depmode=gcc3$/;"	m
+CFLAGS	bash-completion.d/Makefile	/^CFLAGS = $/;"	m
+CLEANFILES	bash-completion.d/Makefile	/^CLEANFILES = $(bash_completion_script) config.log$/;"	m
+CMD_BLOCKLIST	grub-fstest.c	/^  CMD_BLOCKLIST,$/;"	e	enum:__anon14	file:
+CMD_CAT	grub-fstest.c	/^  CMD_CAT,$/;"	e	enum:__anon14	file:
+CMD_CMP	grub-fstest.c	/^  CMD_CMP,$/;"	e	enum:__anon14	file:
+CMD_CP	grub-fstest.c	/^  CMD_CP,$/;"	e	enum:__anon14	file:
+CMD_CRC	grub-fstest.c	/^  CMD_CRC,$/;"	e	enum:__anon14	file:
+CMD_HEX	grub-fstest.c	/^  CMD_HEX,$/;"	e	enum:__anon14	file:
+CMD_LS	grub-fstest.c	/^  CMD_LS = 1,$/;"	e	enum:__anon14	file:
+CMD_TESTLOAD	grub-fstest.c	/^  CMD_TESTLOAD,$/;"	e	enum:__anon14	file:
+CMD_XNU_UUID	grub-fstest.c	/^  CMD_XNU_UUID$/;"	e	enum:__anon14	file:
+CMD_ZFSINFO	grub-fstest.c	/^  CMD_ZFSINFO,$/;"	e	enum:__anon14	file:
+CMP	bash-completion.d/Makefile	/^CMP = cmp$/;"	m
+CONFIG_CLEAN_FILES	bash-completion.d/Makefile	/^CONFIG_CLEAN_FILES =$/;"	m
+CONFIG_CLEAN_VPATH_FILES	bash-completion.d/Makefile	/^CONFIG_CLEAN_VPATH_FILES =$/;"	m
+CONFIG_HEADER	bash-completion.d/Makefile	/^CONFIG_HEADER = $(top_builddir)\/config-util.h$/;"	m
+CPP	bash-completion.d/Makefile	/^CPP = gcc -E$/;"	m
+CPPFLAGS	bash-completion.d/Makefile	/^CPPFLAGS =  -D_FILE_OFFSET_BITS=64$/;"	m
+CXX	bash-completion.d/Makefile	/^CXX = g++$/;"	m
+CXXDEPMODE	bash-completion.d/Makefile	/^CXXDEPMODE = depmode=gcc3$/;"	m
+CXXFLAGS	bash-completion.d/Makefile	/^CXXFLAGS = -g -O2$/;"	m
+CYGPATH_W	bash-completion.d/Makefile	/^CYGPATH_W = echo$/;"	m
+DATA	bash-completion.d/Makefile	/^DATA = $(bashcompletion_DATA)$/;"	m
+DEBUG	spkmodem-recv.c	34;"	d	file:
+DEFAULT_BOOT_FILE	grub-setup.c	68;"	d	file:
+DEFAULT_CORE_FILE	grub-setup.c	69;"	d	file:
+DEFAULT_ENVBLK_PATH	grub-editenv.c	42;"	d	file:
+DEFAULT_ENVBLK_SIZE	editenv.c	32;"	d	file:
+DEFS	bash-completion.d/Makefile	/^DEFS = -DHAVE_CONFIG_H$/;"	m
+DEPDIR	bash-completion.d/Makefile	/^DEPDIR = .deps$/;"	m
+DISK_CACHE_STATS	bash-completion.d/Makefile	/^DISK_CACHE_STATS = 0$/;"	m
+DISTFILES	bash-completion.d/Makefile	/^DISTFILES = $(DIST_COMMON) $(DIST_SOURCES) $(TEXINFOS) $(EXTRA_DIST)$/;"	m
+DIST_COMMON	bash-completion.d/Makefile	/^DIST_COMMON = $(srcdir)\/Makefile.in $(srcdir)\/Makefile.am$/;"	m
+DIST_SOURCES	bash-completion.d/Makefile	/^DIST_SOURCES =$/;"	m
+DJVU_FONT_SOURCE	bash-completion.d/Makefile	/^DJVU_FONT_SOURCE = $/;"	m
+ECHO_C	bash-completion.d/Makefile	/^ECHO_C = $/;"	m
+ECHO_N	bash-completion.d/Makefile	/^ECHO_N = -n$/;"	m
+ECHO_T	bash-completion.d/Makefile	/^ECHO_T = $/;"	m
+EFI32_HEADER_SIZE	mkimage.c	64;"	d	file:
+EFI64_HEADER_SIZE	mkimage.c	71;"	d	file:
+EFIEMU64_LINK_FORMAT	bash-completion.d/Makefile	/^EFIEMU64_LINK_FORMAT = -Wl,-melf_x86_64$/;"	m
+EGREP	bash-completion.d/Makefile	/^EGREP = \/bin\/grep -E$/;"	m
+ELFCLASSXX	grub-mkimage32.c	4;"	d	file:
+ELFCLASSXX	grub-mkimage64.c	4;"	d	file:
+ELFCLASSXX	grub-module-verifierXX.c	27;"	d	file:
+ELFCLASSXX	grub-module-verifierXX.c	9;"	d	file:
+ELF_R_SYM	grub-mkimage32.c	17;"	d	file:
+ELF_R_SYM	grub-mkimage64.c	17;"	d	file:
+ELF_R_SYM	grub-module-verifierXX.c	22;"	d	file:
+ELF_R_SYM	grub-module-verifierXX.c	40;"	d	file:
+ELF_R_TYPE	grub-mkimage32.c	18;"	d	file:
+ELF_R_TYPE	grub-mkimage64.c	18;"	d	file:
+ELF_R_TYPE	grub-module-verifierXX.c	23;"	d	file:
+ELF_R_TYPE	grub-module-verifierXX.c	41;"	d	file:
+ELF_ST_TYPE	grub-mkimage32.c	19;"	d	file:
+ELF_ST_TYPE	grub-mkimage64.c	19;"	d	file:
+ELF_ST_TYPE	grub-module-verifierXX.c	24;"	d	file:
+ELF_ST_TYPE	grub-module-verifierXX.c	42;"	d	file:
+EMULTIHOP_HIDDEN	bash-completion.d/Makefile	/^EMULTIHOP_HIDDEN = $/;"	m
+EMULTIHOP_VALUE	bash-completion.d/Makefile	/^EMULTIHOP_VALUE = $/;"	m
+ENABLE_RELOCATABLE	misc.c	45;"	d	file:
+END_SYMBOL	bash-completion.d/Makefile	/^END_SYMBOL = end$/;"	m
+ENOLINK_HIDDEN	bash-completion.d/Makefile	/^ENOLINK_HIDDEN = $/;"	m
+ENOLINK_VALUE	bash-completion.d/Makefile	/^ENOLINK_VALUE = $/;"	m
+EOVERFLOW_HIDDEN	bash-completion.d/Makefile	/^EOVERFLOW_HIDDEN = $/;"	m
+EOVERFLOW_VALUE	bash-completion.d/Makefile	/^EOVERFLOW_VALUE = $/;"	m
+ERRNO_H	bash-completion.d/Makefile	/^ERRNO_H = $/;"	m
+EXEEXT	bash-completion.d/Makefile	/^EXEEXT = $/;"	m
+EXTRA_DIST	bash-completion.d/Makefile	/^EXTRA_DIST = $(bash_completion_source)$/;"	m
+Elf_Addr	grub-mkimage32.c	8;"	d	file:
+Elf_Addr	grub-mkimage64.c	8;"	d	file:
+Elf_Addr	grub-module-verifierXX.c	13;"	d	file:
+Elf_Addr	grub-module-verifierXX.c	31;"	d	file:
+Elf_Ehdr	grub-mkimage32.c	5;"	d	file:
+Elf_Ehdr	grub-mkimage64.c	5;"	d	file:
+Elf_Ehdr	grub-module-verifierXX.c	10;"	d	file:
+Elf_Ehdr	grub-module-verifierXX.c	28;"	d	file:
+Elf_Half	grub-mkimage32.c	15;"	d	file:
+Elf_Half	grub-mkimage64.c	15;"	d	file:
+Elf_Half	grub-module-verifierXX.c	20;"	d	file:
+Elf_Half	grub-module-verifierXX.c	38;"	d	file:
+Elf_Nhdr	grub-mkimage32.c	7;"	d	file:
+Elf_Nhdr	grub-mkimage64.c	7;"	d	file:
+Elf_Nhdr	grub-module-verifierXX.c	12;"	d	file:
+Elf_Nhdr	grub-module-verifierXX.c	30;"	d	file:
+Elf_Off	grub-mkimage32.c	10;"	d	file:
+Elf_Off	grub-mkimage64.c	10;"	d	file:
+Elf_Off	grub-module-verifierXX.c	15;"	d	file:
+Elf_Off	grub-module-verifierXX.c	33;"	d	file:
+Elf_Phdr	grub-mkimage32.c	6;"	d	file:
+Elf_Phdr	grub-mkimage64.c	6;"	d	file:
+Elf_Phdr	grub-module-verifierXX.c	11;"	d	file:
+Elf_Phdr	grub-module-verifierXX.c	29;"	d	file:
+Elf_Rel	grub-mkimage32.c	13;"	d	file:
+Elf_Rel	grub-mkimage64.c	13;"	d	file:
+Elf_Rel	grub-module-verifierXX.c	18;"	d	file:
+Elf_Rel	grub-module-verifierXX.c	36;"	d	file:
+Elf_Rela	grub-mkimage32.c	12;"	d	file:
+Elf_Rela	grub-mkimage64.c	12;"	d	file:
+Elf_Rela	grub-module-verifierXX.c	17;"	d	file:
+Elf_Rela	grub-module-verifierXX.c	35;"	d	file:
+Elf_Section	grub-mkimage32.c	16;"	d	file:
+Elf_Section	grub-mkimage64.c	16;"	d	file:
+Elf_Section	grub-module-verifierXX.c	21;"	d	file:
+Elf_Section	grub-module-verifierXX.c	39;"	d	file:
+Elf_Shdr	grub-mkimage32.c	11;"	d	file:
+Elf_Shdr	grub-mkimage64.c	11;"	d	file:
+Elf_Shdr	grub-module-verifierXX.c	16;"	d	file:
+Elf_Shdr	grub-module-verifierXX.c	34;"	d	file:
+Elf_Sym	grub-mkimage32.c	9;"	d	file:
+Elf_Sym	grub-mkimage64.c	9;"	d	file:
+Elf_Sym	grub-module-verifierXX.c	14;"	d	file:
+Elf_Sym	grub-module-verifierXX.c	32;"	d	file:
+Elf_Word	grub-mkimage32.c	14;"	d	file:
+Elf_Word	grub-mkimage64.c	14;"	d	file:
+Elf_Word	grub-module-verifierXX.c	19;"	d	file:
+Elf_Word	grub-module-verifierXX.c	37;"	d	file:
+FEATURE_AALT	grub-mkfont.c	388;"	d	file:
+FEATURE_FINA	grub-mkfont.c	385;"	d	file:
+FEATURE_INIT	grub-mkfont.c	386;"	d	file:
+FEATURE_LIGA	grub-mkfont.c	389;"	d	file:
+FEATURE_MEDI	grub-mkfont.c	387;"	d	file:
+FEATURE_RLIG	grub-mkfont.c	390;"	d	file:
+FLOAT_H	bash-completion.d/Makefile	/^FLOAT_H = $/;"	m
+FLUSH_TIMEOUT	spkmodem-recv.c	35;"	d	file:
+FNMATCH_H	bash-completion.d/Makefile	/^FNMATCH_H = $/;"	m
+FONT_SOURCE	bash-completion.d/Makefile	/^FONT_SOURCE = $/;"	m
+FREETYPE	bash-completion.d/Makefile	/^FREETYPE = $/;"	m
+FREQ_DATA_MAX	spkmodem-recv.c	31;"	d	file:
+FREQ_DATA_MIN	spkmodem-recv.c	29;"	d	file:
+FREQ_DATA_THRESHOLD	spkmodem-recv.c	30;"	d	file:
+FREQ_SEP_MAX	spkmodem-recv.c	28;"	d	file:
+FREQ_SEP_MIN	spkmodem-recv.c	27;"	d	file:
+FT_ERRORDEF	grub-gen-asciih.c	33;"	d	file:
+FT_ERRORDEF	grub-gen-widthspec.c	33;"	d	file:
+FT_ERRORDEF	grub-mkfont.c	54;"	d	file:
+FT_ERROR_END_LIST	grub-gen-asciih.c	34;"	d	file:
+FT_ERROR_END_LIST	grub-gen-widthspec.c	34;"	d	file:
+FT_ERROR_END_LIST	grub-mkfont.c	55;"	d	file:
+FT_ERROR_START_LIST	grub-gen-asciih.c	32;"	d	file:
+FT_ERROR_START_LIST	grub-gen-widthspec.c	32;"	d	file:
+FT_ERROR_START_LIST	grub-mkfont.c	53;"	d	file:
+FUSE_USE_VERSION	grub-mount.c	19;"	d	file:
+GETOPT_H	bash-completion.d/Makefile	/^GETOPT_H = getopt.h$/;"	m
+GETTEXT_MACRO_VERSION	bash-completion.d/Makefile	/^GETTEXT_MACRO_VERSION = 0.18$/;"	m
+GLIBC21	bash-completion.d/Makefile	/^GLIBC21 = yes$/;"	m
+GMSGFMT	bash-completion.d/Makefile	/^GMSGFMT = \/usr\/bin\/msgfmt$/;"	m
+GMSGFMT_015	bash-completion.d/Makefile	/^GMSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+GNULIB_ATOLL	bash-completion.d/Makefile	/^GNULIB_ATOLL = 0$/;"	m
+GNULIB_BTOWC	bash-completion.d/Makefile	/^GNULIB_BTOWC = 1$/;"	m
+GNULIB_CALLOC_POSIX	bash-completion.d/Makefile	/^GNULIB_CALLOC_POSIX = 0$/;"	m
+GNULIB_CANONICALIZE_FILE_NAME	bash-completion.d/Makefile	/^GNULIB_CANONICALIZE_FILE_NAME = 0$/;"	m
+GNULIB_CHDIR	bash-completion.d/Makefile	/^GNULIB_CHDIR = 0$/;"	m
+GNULIB_CHOWN	bash-completion.d/Makefile	/^GNULIB_CHOWN = 0$/;"	m
+GNULIB_CLOSE	bash-completion.d/Makefile	/^GNULIB_CLOSE = 0$/;"	m
+GNULIB_DPRINTF	bash-completion.d/Makefile	/^GNULIB_DPRINTF = 0$/;"	m
+GNULIB_DUP	bash-completion.d/Makefile	/^GNULIB_DUP = 0$/;"	m
+GNULIB_DUP2	bash-completion.d/Makefile	/^GNULIB_DUP2 = 0$/;"	m
+GNULIB_DUP3	bash-completion.d/Makefile	/^GNULIB_DUP3 = 0$/;"	m
+GNULIB_DUPLOCALE	bash-completion.d/Makefile	/^GNULIB_DUPLOCALE = 0$/;"	m
+GNULIB_ENVIRON	bash-completion.d/Makefile	/^GNULIB_ENVIRON = 0$/;"	m
+GNULIB_EUIDACCESS	bash-completion.d/Makefile	/^GNULIB_EUIDACCESS = 0$/;"	m
+GNULIB_FACCESSAT	bash-completion.d/Makefile	/^GNULIB_FACCESSAT = 0$/;"	m
+GNULIB_FCHDIR	bash-completion.d/Makefile	/^GNULIB_FCHDIR = 0$/;"	m
+GNULIB_FCHOWNAT	bash-completion.d/Makefile	/^GNULIB_FCHOWNAT = 0$/;"	m
+GNULIB_FCLOSE	bash-completion.d/Makefile	/^GNULIB_FCLOSE = 0$/;"	m
+GNULIB_FDATASYNC	bash-completion.d/Makefile	/^GNULIB_FDATASYNC = 0$/;"	m
+GNULIB_FDOPEN	bash-completion.d/Makefile	/^GNULIB_FDOPEN = 0$/;"	m
+GNULIB_FFLUSH	bash-completion.d/Makefile	/^GNULIB_FFLUSH = 0$/;"	m
+GNULIB_FFS	bash-completion.d/Makefile	/^GNULIB_FFS = 0$/;"	m
+GNULIB_FFSL	bash-completion.d/Makefile	/^GNULIB_FFSL = 0$/;"	m
+GNULIB_FFSLL	bash-completion.d/Makefile	/^GNULIB_FFSLL = 0$/;"	m
+GNULIB_FGETC	bash-completion.d/Makefile	/^GNULIB_FGETC = 1$/;"	m
+GNULIB_FGETS	bash-completion.d/Makefile	/^GNULIB_FGETS = 1$/;"	m
+GNULIB_FOPEN	bash-completion.d/Makefile	/^GNULIB_FOPEN = 0$/;"	m
+GNULIB_FPRINTF	bash-completion.d/Makefile	/^GNULIB_FPRINTF = 1$/;"	m
+GNULIB_FPRINTF_POSIX	bash-completion.d/Makefile	/^GNULIB_FPRINTF_POSIX = 0$/;"	m
+GNULIB_FPURGE	bash-completion.d/Makefile	/^GNULIB_FPURGE = 0$/;"	m
+GNULIB_FPUTC	bash-completion.d/Makefile	/^GNULIB_FPUTC = 1$/;"	m
+GNULIB_FPUTS	bash-completion.d/Makefile	/^GNULIB_FPUTS = 1$/;"	m
+GNULIB_FREAD	bash-completion.d/Makefile	/^GNULIB_FREAD = 1$/;"	m
+GNULIB_FREOPEN	bash-completion.d/Makefile	/^GNULIB_FREOPEN = 0$/;"	m
+GNULIB_FSCANF	bash-completion.d/Makefile	/^GNULIB_FSCANF = 1$/;"	m
+GNULIB_FSEEK	bash-completion.d/Makefile	/^GNULIB_FSEEK = 0$/;"	m
+GNULIB_FSEEKO	bash-completion.d/Makefile	/^GNULIB_FSEEKO = 0$/;"	m
+GNULIB_FSYNC	bash-completion.d/Makefile	/^GNULIB_FSYNC = 0$/;"	m
+GNULIB_FTELL	bash-completion.d/Makefile	/^GNULIB_FTELL = 0$/;"	m
+GNULIB_FTELLO	bash-completion.d/Makefile	/^GNULIB_FTELLO = 0$/;"	m
+GNULIB_FTRUNCATE	bash-completion.d/Makefile	/^GNULIB_FTRUNCATE = 0$/;"	m
+GNULIB_FWRITE	bash-completion.d/Makefile	/^GNULIB_FWRITE = 1$/;"	m
+GNULIB_GETC	bash-completion.d/Makefile	/^GNULIB_GETC = 1$/;"	m
+GNULIB_GETCHAR	bash-completion.d/Makefile	/^GNULIB_GETCHAR = 1$/;"	m
+GNULIB_GETCWD	bash-completion.d/Makefile	/^GNULIB_GETCWD = 0$/;"	m
+GNULIB_GETDELIM	bash-completion.d/Makefile	/^GNULIB_GETDELIM = 1$/;"	m
+GNULIB_GETDOMAINNAME	bash-completion.d/Makefile	/^GNULIB_GETDOMAINNAME = 0$/;"	m
+GNULIB_GETDTABLESIZE	bash-completion.d/Makefile	/^GNULIB_GETDTABLESIZE = 0$/;"	m
+GNULIB_GETGROUPS	bash-completion.d/Makefile	/^GNULIB_GETGROUPS = 0$/;"	m
+GNULIB_GETHOSTNAME	bash-completion.d/Makefile	/^GNULIB_GETHOSTNAME = 0$/;"	m
+GNULIB_GETLINE	bash-completion.d/Makefile	/^GNULIB_GETLINE = 1$/;"	m
+GNULIB_GETLOADAVG	bash-completion.d/Makefile	/^GNULIB_GETLOADAVG = 0$/;"	m
+GNULIB_GETLOGIN	bash-completion.d/Makefile	/^GNULIB_GETLOGIN = 0$/;"	m
+GNULIB_GETLOGIN_R	bash-completion.d/Makefile	/^GNULIB_GETLOGIN_R = 0$/;"	m
+GNULIB_GETPAGESIZE	bash-completion.d/Makefile	/^GNULIB_GETPAGESIZE = 0$/;"	m
+GNULIB_GETSUBOPT	bash-completion.d/Makefile	/^GNULIB_GETSUBOPT = 0$/;"	m
+GNULIB_GETUSERSHELL	bash-completion.d/Makefile	/^GNULIB_GETUSERSHELL = 0$/;"	m
+GNULIB_GL_UNISTD_H_GETOPT	bash-completion.d/Makefile	/^GNULIB_GL_UNISTD_H_GETOPT = 1$/;"	m
+GNULIB_GRANTPT	bash-completion.d/Makefile	/^GNULIB_GRANTPT = 0$/;"	m
+GNULIB_GROUP_MEMBER	bash-completion.d/Makefile	/^GNULIB_GROUP_MEMBER = 0$/;"	m
+GNULIB_ISATTY	bash-completion.d/Makefile	/^GNULIB_ISATTY = 0$/;"	m
+GNULIB_ISWBLANK	bash-completion.d/Makefile	/^GNULIB_ISWBLANK = 0$/;"	m
+GNULIB_ISWCTYPE	bash-completion.d/Makefile	/^GNULIB_ISWCTYPE = 0$/;"	m
+GNULIB_LCHOWN	bash-completion.d/Makefile	/^GNULIB_LCHOWN = 0$/;"	m
+GNULIB_LINK	bash-completion.d/Makefile	/^GNULIB_LINK = 0$/;"	m
+GNULIB_LINKAT	bash-completion.d/Makefile	/^GNULIB_LINKAT = 0$/;"	m
+GNULIB_LOCALECONV	bash-completion.d/Makefile	/^GNULIB_LOCALECONV = 1$/;"	m
+GNULIB_LSEEK	bash-completion.d/Makefile	/^GNULIB_LSEEK = 0$/;"	m
+GNULIB_MALLOC_POSIX	bash-completion.d/Makefile	/^GNULIB_MALLOC_POSIX = 1$/;"	m
+GNULIB_MBRLEN	bash-completion.d/Makefile	/^GNULIB_MBRLEN = 0$/;"	m
+GNULIB_MBRTOWC	bash-completion.d/Makefile	/^GNULIB_MBRTOWC = 1$/;"	m
+GNULIB_MBSCASECMP	bash-completion.d/Makefile	/^GNULIB_MBSCASECMP = 0$/;"	m
+GNULIB_MBSCASESTR	bash-completion.d/Makefile	/^GNULIB_MBSCASESTR = 0$/;"	m
+GNULIB_MBSCHR	bash-completion.d/Makefile	/^GNULIB_MBSCHR = 0$/;"	m
+GNULIB_MBSCSPN	bash-completion.d/Makefile	/^GNULIB_MBSCSPN = 0$/;"	m
+GNULIB_MBSINIT	bash-completion.d/Makefile	/^GNULIB_MBSINIT = 1$/;"	m
+GNULIB_MBSLEN	bash-completion.d/Makefile	/^GNULIB_MBSLEN = 0$/;"	m
+GNULIB_MBSNCASECMP	bash-completion.d/Makefile	/^GNULIB_MBSNCASECMP = 0$/;"	m
+GNULIB_MBSNLEN	bash-completion.d/Makefile	/^GNULIB_MBSNLEN = 0$/;"	m
+GNULIB_MBSNRTOWCS	bash-completion.d/Makefile	/^GNULIB_MBSNRTOWCS = 0$/;"	m
+GNULIB_MBSPBRK	bash-completion.d/Makefile	/^GNULIB_MBSPBRK = 0$/;"	m
+GNULIB_MBSPCASECMP	bash-completion.d/Makefile	/^GNULIB_MBSPCASECMP = 0$/;"	m
+GNULIB_MBSRCHR	bash-completion.d/Makefile	/^GNULIB_MBSRCHR = 0$/;"	m
+GNULIB_MBSRTOWCS	bash-completion.d/Makefile	/^GNULIB_MBSRTOWCS = 1$/;"	m
+GNULIB_MBSSEP	bash-completion.d/Makefile	/^GNULIB_MBSSEP = 0$/;"	m
+GNULIB_MBSSPN	bash-completion.d/Makefile	/^GNULIB_MBSSPN = 0$/;"	m
+GNULIB_MBSSTR	bash-completion.d/Makefile	/^GNULIB_MBSSTR = 0$/;"	m
+GNULIB_MBSTOK_R	bash-completion.d/Makefile	/^GNULIB_MBSTOK_R = 0$/;"	m
+GNULIB_MBTOWC	bash-completion.d/Makefile	/^GNULIB_MBTOWC = 1$/;"	m
+GNULIB_MEMCHR	bash-completion.d/Makefile	/^GNULIB_MEMCHR = 1$/;"	m
+GNULIB_MEMMEM	bash-completion.d/Makefile	/^GNULIB_MEMMEM = 0$/;"	m
+GNULIB_MEMPCPY	bash-completion.d/Makefile	/^GNULIB_MEMPCPY = 1$/;"	m
+GNULIB_MEMRCHR	bash-completion.d/Makefile	/^GNULIB_MEMRCHR = 0$/;"	m
+GNULIB_MKDTEMP	bash-completion.d/Makefile	/^GNULIB_MKDTEMP = 0$/;"	m
+GNULIB_MKOSTEMP	bash-completion.d/Makefile	/^GNULIB_MKOSTEMP = 0$/;"	m
+GNULIB_MKOSTEMPS	bash-completion.d/Makefile	/^GNULIB_MKOSTEMPS = 0$/;"	m
+GNULIB_MKSTEMP	bash-completion.d/Makefile	/^GNULIB_MKSTEMP = 0$/;"	m
+GNULIB_MKSTEMPS	bash-completion.d/Makefile	/^GNULIB_MKSTEMPS = 0$/;"	m
+GNULIB_NL_LANGINFO	bash-completion.d/Makefile	/^GNULIB_NL_LANGINFO = 1$/;"	m
+GNULIB_OBSTACK_PRINTF	bash-completion.d/Makefile	/^GNULIB_OBSTACK_PRINTF = 0$/;"	m
+GNULIB_OBSTACK_PRINTF_POSIX	bash-completion.d/Makefile	/^GNULIB_OBSTACK_PRINTF_POSIX = 0$/;"	m
+GNULIB_PCLOSE	bash-completion.d/Makefile	/^GNULIB_PCLOSE = 0$/;"	m
+GNULIB_PERROR	bash-completion.d/Makefile	/^GNULIB_PERROR = 0$/;"	m
+GNULIB_PIPE	bash-completion.d/Makefile	/^GNULIB_PIPE = 0$/;"	m
+GNULIB_PIPE2	bash-completion.d/Makefile	/^GNULIB_PIPE2 = 0$/;"	m
+GNULIB_POPEN	bash-completion.d/Makefile	/^GNULIB_POPEN = 0$/;"	m
+GNULIB_POSIX_OPENPT	bash-completion.d/Makefile	/^GNULIB_POSIX_OPENPT = 0$/;"	m
+GNULIB_PREAD	bash-completion.d/Makefile	/^GNULIB_PREAD = 0$/;"	m
+GNULIB_PRINTF	bash-completion.d/Makefile	/^GNULIB_PRINTF = 1$/;"	m
+GNULIB_PRINTF_POSIX	bash-completion.d/Makefile	/^GNULIB_PRINTF_POSIX = 0$/;"	m
+GNULIB_PTSNAME	bash-completion.d/Makefile	/^GNULIB_PTSNAME = 0$/;"	m
+GNULIB_PTSNAME_R	bash-completion.d/Makefile	/^GNULIB_PTSNAME_R = 0$/;"	m
+GNULIB_PUTC	bash-completion.d/Makefile	/^GNULIB_PUTC = 1$/;"	m
+GNULIB_PUTCHAR	bash-completion.d/Makefile	/^GNULIB_PUTCHAR = 1$/;"	m
+GNULIB_PUTENV	bash-completion.d/Makefile	/^GNULIB_PUTENV = 0$/;"	m
+GNULIB_PUTS	bash-completion.d/Makefile	/^GNULIB_PUTS = 1$/;"	m
+GNULIB_PWRITE	bash-completion.d/Makefile	/^GNULIB_PWRITE = 0$/;"	m
+GNULIB_RANDOM	bash-completion.d/Makefile	/^GNULIB_RANDOM = 0$/;"	m
+GNULIB_RANDOM_R	bash-completion.d/Makefile	/^GNULIB_RANDOM_R = 0$/;"	m
+GNULIB_RAWMEMCHR	bash-completion.d/Makefile	/^GNULIB_RAWMEMCHR = 1$/;"	m
+GNULIB_READ	bash-completion.d/Makefile	/^GNULIB_READ = 0$/;"	m
+GNULIB_READLINK	bash-completion.d/Makefile	/^GNULIB_READLINK = 0$/;"	m
+GNULIB_READLINKAT	bash-completion.d/Makefile	/^GNULIB_READLINKAT = 0$/;"	m
+GNULIB_REALLOC_POSIX	bash-completion.d/Makefile	/^GNULIB_REALLOC_POSIX = 1$/;"	m
+GNULIB_REALPATH	bash-completion.d/Makefile	/^GNULIB_REALPATH = 0$/;"	m
+GNULIB_REMOVE	bash-completion.d/Makefile	/^GNULIB_REMOVE = 0$/;"	m
+GNULIB_RENAME	bash-completion.d/Makefile	/^GNULIB_RENAME = 0$/;"	m
+GNULIB_RENAMEAT	bash-completion.d/Makefile	/^GNULIB_RENAMEAT = 0$/;"	m
+GNULIB_RMDIR	bash-completion.d/Makefile	/^GNULIB_RMDIR = 0$/;"	m
+GNULIB_RPMATCH	bash-completion.d/Makefile	/^GNULIB_RPMATCH = 0$/;"	m
+GNULIB_SCANF	bash-completion.d/Makefile	/^GNULIB_SCANF = 1$/;"	m
+GNULIB_SECURE_GETENV	bash-completion.d/Makefile	/^GNULIB_SECURE_GETENV = 0$/;"	m
+GNULIB_SETENV	bash-completion.d/Makefile	/^GNULIB_SETENV = 0$/;"	m
+GNULIB_SETHOSTNAME	bash-completion.d/Makefile	/^GNULIB_SETHOSTNAME = 0$/;"	m
+GNULIB_SETLOCALE	bash-completion.d/Makefile	/^GNULIB_SETLOCALE = 0$/;"	m
+GNULIB_SLEEP	bash-completion.d/Makefile	/^GNULIB_SLEEP = 1$/;"	m
+GNULIB_SNPRINTF	bash-completion.d/Makefile	/^GNULIB_SNPRINTF = 0$/;"	m
+GNULIB_SPRINTF_POSIX	bash-completion.d/Makefile	/^GNULIB_SPRINTF_POSIX = 0$/;"	m
+GNULIB_STDIO_H_NONBLOCKING	bash-completion.d/Makefile	/^GNULIB_STDIO_H_NONBLOCKING = 0$/;"	m
+GNULIB_STDIO_H_SIGPIPE	bash-completion.d/Makefile	/^GNULIB_STDIO_H_SIGPIPE = 0$/;"	m
+GNULIB_STPCPY	bash-completion.d/Makefile	/^GNULIB_STPCPY = 0$/;"	m
+GNULIB_STPNCPY	bash-completion.d/Makefile	/^GNULIB_STPNCPY = 0$/;"	m
+GNULIB_STRCASESTR	bash-completion.d/Makefile	/^GNULIB_STRCASESTR = 0$/;"	m
+GNULIB_STRCHRNUL	bash-completion.d/Makefile	/^GNULIB_STRCHRNUL = 1$/;"	m
+GNULIB_STRDUP	bash-completion.d/Makefile	/^GNULIB_STRDUP = 0$/;"	m
+GNULIB_STRERROR	bash-completion.d/Makefile	/^GNULIB_STRERROR = 1$/;"	m
+GNULIB_STRERROR_R	bash-completion.d/Makefile	/^GNULIB_STRERROR_R = 0$/;"	m
+GNULIB_STRNCAT	bash-completion.d/Makefile	/^GNULIB_STRNCAT = 0$/;"	m
+GNULIB_STRNDUP	bash-completion.d/Makefile	/^GNULIB_STRNDUP = 1$/;"	m
+GNULIB_STRNLEN	bash-completion.d/Makefile	/^GNULIB_STRNLEN = 1$/;"	m
+GNULIB_STRPBRK	bash-completion.d/Makefile	/^GNULIB_STRPBRK = 0$/;"	m
+GNULIB_STRSEP	bash-completion.d/Makefile	/^GNULIB_STRSEP = 0$/;"	m
+GNULIB_STRSIGNAL	bash-completion.d/Makefile	/^GNULIB_STRSIGNAL = 0$/;"	m
+GNULIB_STRSTR	bash-completion.d/Makefile	/^GNULIB_STRSTR = 0$/;"	m
+GNULIB_STRTOD	bash-completion.d/Makefile	/^GNULIB_STRTOD = 0$/;"	m
+GNULIB_STRTOK_R	bash-completion.d/Makefile	/^GNULIB_STRTOK_R = 0$/;"	m
+GNULIB_STRTOLL	bash-completion.d/Makefile	/^GNULIB_STRTOLL = 0$/;"	m
+GNULIB_STRTOULL	bash-completion.d/Makefile	/^GNULIB_STRTOULL = 0$/;"	m
+GNULIB_STRVERSCMP	bash-completion.d/Makefile	/^GNULIB_STRVERSCMP = 0$/;"	m
+GNULIB_SYMLINK	bash-completion.d/Makefile	/^GNULIB_SYMLINK = 0$/;"	m
+GNULIB_SYMLINKAT	bash-completion.d/Makefile	/^GNULIB_SYMLINKAT = 0$/;"	m
+GNULIB_SYSTEM_POSIX	bash-completion.d/Makefile	/^GNULIB_SYSTEM_POSIX = 0$/;"	m
+GNULIB_TMPFILE	bash-completion.d/Makefile	/^GNULIB_TMPFILE = 0$/;"	m
+GNULIB_TOWCTRANS	bash-completion.d/Makefile	/^GNULIB_TOWCTRANS = 0$/;"	m
+GNULIB_TTYNAME_R	bash-completion.d/Makefile	/^GNULIB_TTYNAME_R = 0$/;"	m
+GNULIB_UNISTD_H_NONBLOCKING	bash-completion.d/Makefile	/^GNULIB_UNISTD_H_NONBLOCKING = 0$/;"	m
+GNULIB_UNISTD_H_SIGPIPE	bash-completion.d/Makefile	/^GNULIB_UNISTD_H_SIGPIPE = 0$/;"	m
+GNULIB_UNLINK	bash-completion.d/Makefile	/^GNULIB_UNLINK = 0$/;"	m
+GNULIB_UNLINKAT	bash-completion.d/Makefile	/^GNULIB_UNLINKAT = 0$/;"	m
+GNULIB_UNLOCKPT	bash-completion.d/Makefile	/^GNULIB_UNLOCKPT = 0$/;"	m
+GNULIB_UNSETENV	bash-completion.d/Makefile	/^GNULIB_UNSETENV = 0$/;"	m
+GNULIB_USLEEP	bash-completion.d/Makefile	/^GNULIB_USLEEP = 0$/;"	m
+GNULIB_VASPRINTF	bash-completion.d/Makefile	/^GNULIB_VASPRINTF = 0$/;"	m
+GNULIB_VDPRINTF	bash-completion.d/Makefile	/^GNULIB_VDPRINTF = 0$/;"	m
+GNULIB_VFPRINTF	bash-completion.d/Makefile	/^GNULIB_VFPRINTF = 1$/;"	m
+GNULIB_VFPRINTF_POSIX	bash-completion.d/Makefile	/^GNULIB_VFPRINTF_POSIX = 0$/;"	m
+GNULIB_VFSCANF	bash-completion.d/Makefile	/^GNULIB_VFSCANF = 0$/;"	m
+GNULIB_VPRINTF	bash-completion.d/Makefile	/^GNULIB_VPRINTF = 1$/;"	m
+GNULIB_VPRINTF_POSIX	bash-completion.d/Makefile	/^GNULIB_VPRINTF_POSIX = 0$/;"	m
+GNULIB_VSCANF	bash-completion.d/Makefile	/^GNULIB_VSCANF = 0$/;"	m
+GNULIB_VSNPRINTF	bash-completion.d/Makefile	/^GNULIB_VSNPRINTF = 1$/;"	m
+GNULIB_VSPRINTF_POSIX	bash-completion.d/Makefile	/^GNULIB_VSPRINTF_POSIX = 0$/;"	m
+GNULIB_WCPCPY	bash-completion.d/Makefile	/^GNULIB_WCPCPY = 0$/;"	m
+GNULIB_WCPNCPY	bash-completion.d/Makefile	/^GNULIB_WCPNCPY = 0$/;"	m
+GNULIB_WCRTOMB	bash-completion.d/Makefile	/^GNULIB_WCRTOMB = 1$/;"	m
+GNULIB_WCSCASECMP	bash-completion.d/Makefile	/^GNULIB_WCSCASECMP = 0$/;"	m
+GNULIB_WCSCAT	bash-completion.d/Makefile	/^GNULIB_WCSCAT = 0$/;"	m
+GNULIB_WCSCHR	bash-completion.d/Makefile	/^GNULIB_WCSCHR = 0$/;"	m
+GNULIB_WCSCMP	bash-completion.d/Makefile	/^GNULIB_WCSCMP = 0$/;"	m
+GNULIB_WCSCOLL	bash-completion.d/Makefile	/^GNULIB_WCSCOLL = 0$/;"	m
+GNULIB_WCSCPY	bash-completion.d/Makefile	/^GNULIB_WCSCPY = 0$/;"	m
+GNULIB_WCSCSPN	bash-completion.d/Makefile	/^GNULIB_WCSCSPN = 0$/;"	m
+GNULIB_WCSDUP	bash-completion.d/Makefile	/^GNULIB_WCSDUP = 0$/;"	m
+GNULIB_WCSLEN	bash-completion.d/Makefile	/^GNULIB_WCSLEN = 0$/;"	m
+GNULIB_WCSNCASECMP	bash-completion.d/Makefile	/^GNULIB_WCSNCASECMP = 0$/;"	m
+GNULIB_WCSNCAT	bash-completion.d/Makefile	/^GNULIB_WCSNCAT = 0$/;"	m
+GNULIB_WCSNCMP	bash-completion.d/Makefile	/^GNULIB_WCSNCMP = 0$/;"	m
+GNULIB_WCSNCPY	bash-completion.d/Makefile	/^GNULIB_WCSNCPY = 0$/;"	m
+GNULIB_WCSNLEN	bash-completion.d/Makefile	/^GNULIB_WCSNLEN = 0$/;"	m
+GNULIB_WCSNRTOMBS	bash-completion.d/Makefile	/^GNULIB_WCSNRTOMBS = 0$/;"	m
+GNULIB_WCSPBRK	bash-completion.d/Makefile	/^GNULIB_WCSPBRK = 0$/;"	m
+GNULIB_WCSRCHR	bash-completion.d/Makefile	/^GNULIB_WCSRCHR = 0$/;"	m
+GNULIB_WCSRTOMBS	bash-completion.d/Makefile	/^GNULIB_WCSRTOMBS = 0$/;"	m
+GNULIB_WCSSPN	bash-completion.d/Makefile	/^GNULIB_WCSSPN = 0$/;"	m
+GNULIB_WCSSTR	bash-completion.d/Makefile	/^GNULIB_WCSSTR = 0$/;"	m
+GNULIB_WCSTOK	bash-completion.d/Makefile	/^GNULIB_WCSTOK = 0$/;"	m
+GNULIB_WCSWIDTH	bash-completion.d/Makefile	/^GNULIB_WCSWIDTH = 0$/;"	m
+GNULIB_WCSXFRM	bash-completion.d/Makefile	/^GNULIB_WCSXFRM = 0$/;"	m
+GNULIB_WCTOB	bash-completion.d/Makefile	/^GNULIB_WCTOB = 0$/;"	m
+GNULIB_WCTOMB	bash-completion.d/Makefile	/^GNULIB_WCTOMB = 0$/;"	m
+GNULIB_WCTRANS	bash-completion.d/Makefile	/^GNULIB_WCTRANS = 0$/;"	m
+GNULIB_WCTYPE	bash-completion.d/Makefile	/^GNULIB_WCTYPE = 0$/;"	m
+GNULIB_WCWIDTH	bash-completion.d/Makefile	/^GNULIB_WCWIDTH = 1$/;"	m
+GNULIB_WMEMCHR	bash-completion.d/Makefile	/^GNULIB_WMEMCHR = 0$/;"	m
+GNULIB_WMEMCMP	bash-completion.d/Makefile	/^GNULIB_WMEMCMP = 0$/;"	m
+GNULIB_WMEMCPY	bash-completion.d/Makefile	/^GNULIB_WMEMCPY = 0$/;"	m
+GNULIB_WMEMMOVE	bash-completion.d/Makefile	/^GNULIB_WMEMMOVE = 0$/;"	m
+GNULIB_WMEMSET	bash-completion.d/Makefile	/^GNULIB_WMEMSET = 0$/;"	m
+GNULIB_WRITE	bash-completion.d/Makefile	/^GNULIB_WRITE = 0$/;"	m
+GNULIB__EXIT	bash-completion.d/Makefile	/^GNULIB__EXIT = 0$/;"	m
+GREP	bash-completion.d/Makefile	/^GREP = \/bin\/grep$/;"	m
+GRUB_BOOT_MACHINE_LINK_ADDR	bash-completion.d/Makefile	/^GRUB_BOOT_MACHINE_LINK_ADDR = $/;"	m
+GRUB_FONT_DEFAULT_SIZE	grub-gen-asciih.c	37;"	d	file:
+GRUB_FONT_DEFAULT_SIZE	grub-gen-widthspec.c	37;"	d	file:
+GRUB_FONT_DEFAULT_SIZE	grub-mkfont.c	66;"	d	file:
+GRUB_FONT_FLAG_BOLD	grub-mkfont.c	/^    GRUB_FONT_FLAG_BOLD	= 1,$/;"	e	enum:__anon9	file:
+GRUB_FONT_FLAG_FORCEHINT	grub-mkfont.c	/^    GRUB_FONT_FLAG_FORCEHINT = 8$/;"	e	enum:__anon9	file:
+GRUB_FONT_FLAG_NOBITMAP	grub-mkfont.c	/^    GRUB_FONT_FLAG_NOBITMAP = 2,$/;"	e	enum:__anon9	file:
+GRUB_FONT_FLAG_NOHINTING	grub-mkfont.c	/^    GRUB_FONT_FLAG_NOHINTING = 4,$/;"	e	enum:__anon9	file:
+GRUB_FONT_RANGE_BLOCK	grub-mkfont.c	68;"	d	file:
+GRUB_IEEE1275_NOTE_NAME	grub-mkimagexx.c	66;"	d	file:
+GRUB_IEEE1275_NOTE_TYPE	grub-mkimagexx.c	67;"	d	file:
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_coverage_list
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_coverage_ranges
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_feature
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_features
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_header
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_lookup
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_lookup_list
+GRUB_PACKED	grub-mkfont.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:gsub_substitution
+GRUB_PACKED	grub-mkstandalone.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:head
+GRUB_PACKED	render-label.c	/^} GRUB_PACKED;$/;"	v	typeref:struct:header
+GRUB_PE32_MACHINE	grub-pe2elf.c	53;"	d	file:
+GRUB_PE32_MACHINE	grub-pe2elf.c	56;"	d	file:
+GRUB_PLATFORM	bash-completion.d/Makefile	/^GRUB_PLATFORM = pc$/;"	m
+GRUB_SETUP_BIOS	setup_bios.c	1;"	d	file:
+GRUB_SETUP_SPARC64	setup_sparc.c	1;"	d	file:
+GRUB_TARGET_CPU	bash-completion.d/Makefile	/^GRUB_TARGET_CPU = i386$/;"	m
+GRUB_XEN_NOTE_NAME	grub-mkimagexx.c	76;"	d	file:
+GSUB_COVERAGE_LIST	grub-mkfont.c	456;"	d	file:
+GSUB_COVERAGE_RANGE	grub-mkfont.c	457;"	d	file:
+GSUB_RTL_CHAR	grub-mkfont.c	459;"	d	file:
+GSUB_SINGLE_SUBSTITUTION	grub-mkfont.c	451;"	d	file:
+GSUB_SUBSTITUTION_DELTA	grub-mkfont.c	453;"	d	file:
+GSUB_SUBSTITUTION_MAP	grub-mkfont.c	454;"	d	file:
+HAVE_ASM_USCORE	bash-completion.d/Makefile	/^HAVE_ASM_USCORE = 0$/;"	m
+HAVE_ATOLL	bash-completion.d/Makefile	/^HAVE_ATOLL = 1$/;"	m
+HAVE_BTOWC	bash-completion.d/Makefile	/^HAVE_BTOWC = 1$/;"	m
+HAVE_CANONICALIZE_FILE_NAME	bash-completion.d/Makefile	/^HAVE_CANONICALIZE_FILE_NAME = 1$/;"	m
+HAVE_CHOWN	bash-completion.d/Makefile	/^HAVE_CHOWN = 1$/;"	m
+HAVE_CXX	bash-completion.d/Makefile	/^HAVE_CXX = yes$/;"	m
+HAVE_DECL_ENVIRON	bash-completion.d/Makefile	/^HAVE_DECL_ENVIRON = 1$/;"	m
+HAVE_DECL_FCHDIR	bash-completion.d/Makefile	/^HAVE_DECL_FCHDIR = 1$/;"	m
+HAVE_DECL_FDATASYNC	bash-completion.d/Makefile	/^HAVE_DECL_FDATASYNC = 1$/;"	m
+HAVE_DECL_FPURGE	bash-completion.d/Makefile	/^HAVE_DECL_FPURGE = 1$/;"	m
+HAVE_DECL_FSEEKO	bash-completion.d/Makefile	/^HAVE_DECL_FSEEKO = 1$/;"	m
+HAVE_DECL_FTELLO	bash-completion.d/Makefile	/^HAVE_DECL_FTELLO = 1$/;"	m
+HAVE_DECL_GETDELIM	bash-completion.d/Makefile	/^HAVE_DECL_GETDELIM = 1$/;"	m
+HAVE_DECL_GETDOMAINNAME	bash-completion.d/Makefile	/^HAVE_DECL_GETDOMAINNAME = 1$/;"	m
+HAVE_DECL_GETLINE	bash-completion.d/Makefile	/^HAVE_DECL_GETLINE = 1$/;"	m
+HAVE_DECL_GETLOADAVG	bash-completion.d/Makefile	/^HAVE_DECL_GETLOADAVG = 1$/;"	m
+HAVE_DECL_GETLOGIN_R	bash-completion.d/Makefile	/^HAVE_DECL_GETLOGIN_R = 1$/;"	m
+HAVE_DECL_GETPAGESIZE	bash-completion.d/Makefile	/^HAVE_DECL_GETPAGESIZE = 1$/;"	m
+HAVE_DECL_GETUSERSHELL	bash-completion.d/Makefile	/^HAVE_DECL_GETUSERSHELL = 1$/;"	m
+HAVE_DECL_MEMMEM	bash-completion.d/Makefile	/^HAVE_DECL_MEMMEM = 1$/;"	m
+HAVE_DECL_MEMRCHR	bash-completion.d/Makefile	/^HAVE_DECL_MEMRCHR = 1$/;"	m
+HAVE_DECL_OBSTACK_PRINTF	bash-completion.d/Makefile	/^HAVE_DECL_OBSTACK_PRINTF = 1$/;"	m
+HAVE_DECL_SETENV	bash-completion.d/Makefile	/^HAVE_DECL_SETENV = 1$/;"	m
+HAVE_DECL_SETHOSTNAME	bash-completion.d/Makefile	/^HAVE_DECL_SETHOSTNAME = 1$/;"	m
+HAVE_DECL_SNPRINTF	bash-completion.d/Makefile	/^HAVE_DECL_SNPRINTF = 1$/;"	m
+HAVE_DECL_STRDUP	bash-completion.d/Makefile	/^HAVE_DECL_STRDUP = 1$/;"	m
+HAVE_DECL_STRERROR_R	bash-completion.d/Makefile	/^HAVE_DECL_STRERROR_R = 1$/;"	m
+HAVE_DECL_STRNCASECMP	bash-completion.d/Makefile	/^HAVE_DECL_STRNCASECMP = 1$/;"	m
+HAVE_DECL_STRNDUP	bash-completion.d/Makefile	/^HAVE_DECL_STRNDUP = 1$/;"	m
+HAVE_DECL_STRNLEN	bash-completion.d/Makefile	/^HAVE_DECL_STRNLEN = 1$/;"	m
+HAVE_DECL_STRSIGNAL	bash-completion.d/Makefile	/^HAVE_DECL_STRSIGNAL = 1$/;"	m
+HAVE_DECL_STRTOK_R	bash-completion.d/Makefile	/^HAVE_DECL_STRTOK_R = 1$/;"	m
+HAVE_DECL_TTYNAME_R	bash-completion.d/Makefile	/^HAVE_DECL_TTYNAME_R = 1$/;"	m
+HAVE_DECL_UNSETENV	bash-completion.d/Makefile	/^HAVE_DECL_UNSETENV = 1$/;"	m
+HAVE_DECL_VSNPRINTF	bash-completion.d/Makefile	/^HAVE_DECL_VSNPRINTF = 1$/;"	m
+HAVE_DECL_WCTOB	bash-completion.d/Makefile	/^HAVE_DECL_WCTOB = 1$/;"	m
+HAVE_DECL_WCWIDTH	bash-completion.d/Makefile	/^HAVE_DECL_WCWIDTH = 1$/;"	m
+HAVE_DPRINTF	bash-completion.d/Makefile	/^HAVE_DPRINTF = 1$/;"	m
+HAVE_DUP2	bash-completion.d/Makefile	/^HAVE_DUP2 = 1$/;"	m
+HAVE_DUP3	bash-completion.d/Makefile	/^HAVE_DUP3 = 1$/;"	m
+HAVE_DUPLOCALE	bash-completion.d/Makefile	/^HAVE_DUPLOCALE = 1$/;"	m
+HAVE_EUIDACCESS	bash-completion.d/Makefile	/^HAVE_EUIDACCESS = 1$/;"	m
+HAVE_FACCESSAT	bash-completion.d/Makefile	/^HAVE_FACCESSAT = 1$/;"	m
+HAVE_FCHDIR	bash-completion.d/Makefile	/^HAVE_FCHDIR = 1$/;"	m
+HAVE_FCHOWNAT	bash-completion.d/Makefile	/^HAVE_FCHOWNAT = 1$/;"	m
+HAVE_FDATASYNC	bash-completion.d/Makefile	/^HAVE_FDATASYNC = 1$/;"	m
+HAVE_FEATURES_H	bash-completion.d/Makefile	/^HAVE_FEATURES_H = 1$/;"	m
+HAVE_FFS	bash-completion.d/Makefile	/^HAVE_FFS = 1$/;"	m
+HAVE_FFSL	bash-completion.d/Makefile	/^HAVE_FFSL = 1$/;"	m
+HAVE_FFSLL	bash-completion.d/Makefile	/^HAVE_FFSLL = 1$/;"	m
+HAVE_FONT_SOURCE	bash-completion.d/Makefile	/^HAVE_FONT_SOURCE = 0$/;"	m
+HAVE_FSEEKO	bash-completion.d/Makefile	/^HAVE_FSEEKO = 1$/;"	m
+HAVE_FSYNC	bash-completion.d/Makefile	/^HAVE_FSYNC = 1$/;"	m
+HAVE_FTELLO	bash-completion.d/Makefile	/^HAVE_FTELLO = 1$/;"	m
+HAVE_FTRUNCATE	bash-completion.d/Makefile	/^HAVE_FTRUNCATE = 1$/;"	m
+HAVE_GETDTABLESIZE	bash-completion.d/Makefile	/^HAVE_GETDTABLESIZE = 1$/;"	m
+HAVE_GETGROUPS	bash-completion.d/Makefile	/^HAVE_GETGROUPS = 1$/;"	m
+HAVE_GETHOSTNAME	bash-completion.d/Makefile	/^HAVE_GETHOSTNAME = 1$/;"	m
+HAVE_GETLOGIN	bash-completion.d/Makefile	/^HAVE_GETLOGIN = 1$/;"	m
+HAVE_GETOPT_H	bash-completion.d/Makefile	/^HAVE_GETOPT_H = 1$/;"	m
+HAVE_GETPAGESIZE	bash-completion.d/Makefile	/^HAVE_GETPAGESIZE = 1$/;"	m
+HAVE_GETSUBOPT	bash-completion.d/Makefile	/^HAVE_GETSUBOPT = 1$/;"	m
+HAVE_GRANTPT	bash-completion.d/Makefile	/^HAVE_GRANTPT = 1$/;"	m
+HAVE_GROUP_MEMBER	bash-completion.d/Makefile	/^HAVE_GROUP_MEMBER = 1$/;"	m
+HAVE_INTTYPES_H	bash-completion.d/Makefile	/^HAVE_INTTYPES_H = 1$/;"	m
+HAVE_ISWBLANK	bash-completion.d/Makefile	/^HAVE_ISWBLANK = 1$/;"	m
+HAVE_ISWCNTRL	bash-completion.d/Makefile	/^HAVE_ISWCNTRL = 1$/;"	m
+HAVE_LANGINFO_CODESET	bash-completion.d/Makefile	/^HAVE_LANGINFO_CODESET = 1$/;"	m
+HAVE_LANGINFO_ERA	bash-completion.d/Makefile	/^HAVE_LANGINFO_ERA = 1$/;"	m
+HAVE_LANGINFO_H	bash-completion.d/Makefile	/^HAVE_LANGINFO_H = 1$/;"	m
+HAVE_LANGINFO_T_FMT_AMPM	bash-completion.d/Makefile	/^HAVE_LANGINFO_T_FMT_AMPM = 1$/;"	m
+HAVE_LANGINFO_YESEXPR	bash-completion.d/Makefile	/^HAVE_LANGINFO_YESEXPR = 1$/;"	m
+HAVE_LCHOWN	bash-completion.d/Makefile	/^HAVE_LCHOWN = 1$/;"	m
+HAVE_LINK	bash-completion.d/Makefile	/^HAVE_LINK = 1$/;"	m
+HAVE_LINKAT	bash-completion.d/Makefile	/^HAVE_LINKAT = 1$/;"	m
+HAVE_LONG_LONG_INT	bash-completion.d/Makefile	/^HAVE_LONG_LONG_INT = 1$/;"	m
+HAVE_MBRLEN	bash-completion.d/Makefile	/^HAVE_MBRLEN = 1$/;"	m
+HAVE_MBRTOWC	bash-completion.d/Makefile	/^HAVE_MBRTOWC = 1$/;"	m
+HAVE_MBSINIT	bash-completion.d/Makefile	/^HAVE_MBSINIT = 1$/;"	m
+HAVE_MBSLEN	bash-completion.d/Makefile	/^HAVE_MBSLEN = 0$/;"	m
+HAVE_MBSNRTOWCS	bash-completion.d/Makefile	/^HAVE_MBSNRTOWCS = 1$/;"	m
+HAVE_MBSRTOWCS	bash-completion.d/Makefile	/^HAVE_MBSRTOWCS = 1$/;"	m
+HAVE_MEMCHR	bash-completion.d/Makefile	/^HAVE_MEMCHR = 1$/;"	m
+HAVE_MEMPCPY	bash-completion.d/Makefile	/^HAVE_MEMPCPY = 1$/;"	m
+HAVE_MKDTEMP	bash-completion.d/Makefile	/^HAVE_MKDTEMP = 1$/;"	m
+HAVE_MKOSTEMP	bash-completion.d/Makefile	/^HAVE_MKOSTEMP = 1$/;"	m
+HAVE_MKOSTEMPS	bash-completion.d/Makefile	/^HAVE_MKOSTEMPS = 1$/;"	m
+HAVE_MKSTEMP	bash-completion.d/Makefile	/^HAVE_MKSTEMP = 1$/;"	m
+HAVE_MKSTEMPS	bash-completion.d/Makefile	/^HAVE_MKSTEMPS = 1$/;"	m
+HAVE_MSVC_INVALID_PARAMETER_HANDLER	bash-completion.d/Makefile	/^HAVE_MSVC_INVALID_PARAMETER_HANDLER = 0$/;"	m
+HAVE_NL_LANGINFO	bash-completion.d/Makefile	/^HAVE_NL_LANGINFO = 1$/;"	m
+HAVE_OS_H	bash-completion.d/Makefile	/^HAVE_OS_H = 0$/;"	m
+HAVE_PCLOSE	bash-completion.d/Makefile	/^HAVE_PCLOSE = 1$/;"	m
+HAVE_PIPE	bash-completion.d/Makefile	/^HAVE_PIPE = 1$/;"	m
+HAVE_PIPE2	bash-completion.d/Makefile	/^HAVE_PIPE2 = 1$/;"	m
+HAVE_POPEN	bash-completion.d/Makefile	/^HAVE_POPEN = 1$/;"	m
+HAVE_POSIX_OPENPT	bash-completion.d/Makefile	/^HAVE_POSIX_OPENPT = 1$/;"	m
+HAVE_PREAD	bash-completion.d/Makefile	/^HAVE_PREAD = 1$/;"	m
+HAVE_PTSNAME	bash-completion.d/Makefile	/^HAVE_PTSNAME = 1$/;"	m
+HAVE_PTSNAME_R	bash-completion.d/Makefile	/^HAVE_PTSNAME_R = 1$/;"	m
+HAVE_PWRITE	bash-completion.d/Makefile	/^HAVE_PWRITE = 1$/;"	m
+HAVE_RANDOM	bash-completion.d/Makefile	/^HAVE_RANDOM = 1$/;"	m
+HAVE_RANDOM_H	bash-completion.d/Makefile	/^HAVE_RANDOM_H = 1$/;"	m
+HAVE_RANDOM_R	bash-completion.d/Makefile	/^HAVE_RANDOM_R = 1$/;"	m
+HAVE_RAWMEMCHR	bash-completion.d/Makefile	/^HAVE_RAWMEMCHR = 1$/;"	m
+HAVE_READLINK	bash-completion.d/Makefile	/^HAVE_READLINK = 1$/;"	m
+HAVE_READLINKAT	bash-completion.d/Makefile	/^HAVE_READLINKAT = 1$/;"	m
+HAVE_REALPATH	bash-completion.d/Makefile	/^HAVE_REALPATH = 1$/;"	m
+HAVE_RENAMEAT	bash-completion.d/Makefile	/^HAVE_RENAMEAT = 1$/;"	m
+HAVE_RPMATCH	bash-completion.d/Makefile	/^HAVE_RPMATCH = 1$/;"	m
+HAVE_SECURE_GETENV	bash-completion.d/Makefile	/^HAVE_SECURE_GETENV = 1$/;"	m
+HAVE_SETENV	bash-completion.d/Makefile	/^HAVE_SETENV = 1$/;"	m
+HAVE_SETHOSTNAME	bash-completion.d/Makefile	/^HAVE_SETHOSTNAME = 1$/;"	m
+HAVE_SIGNED_SIG_ATOMIC_T	bash-completion.d/Makefile	/^HAVE_SIGNED_SIG_ATOMIC_T = $/;"	m
+HAVE_SIGNED_WCHAR_T	bash-completion.d/Makefile	/^HAVE_SIGNED_WCHAR_T = $/;"	m
+HAVE_SIGNED_WINT_T	bash-completion.d/Makefile	/^HAVE_SIGNED_WINT_T = $/;"	m
+HAVE_SLEEP	bash-completion.d/Makefile	/^HAVE_SLEEP = 1$/;"	m
+HAVE_STDINT_H	bash-completion.d/Makefile	/^HAVE_STDINT_H = 1$/;"	m
+HAVE_STPCPY	bash-completion.d/Makefile	/^HAVE_STPCPY = 1$/;"	m
+HAVE_STPNCPY	bash-completion.d/Makefile	/^HAVE_STPNCPY = 1$/;"	m
+HAVE_STRCASECMP	bash-completion.d/Makefile	/^HAVE_STRCASECMP = 1$/;"	m
+HAVE_STRCASESTR	bash-completion.d/Makefile	/^HAVE_STRCASESTR = 1$/;"	m
+HAVE_STRCHRNUL	bash-completion.d/Makefile	/^HAVE_STRCHRNUL = 1$/;"	m
+HAVE_STRINGS_H	bash-completion.d/Makefile	/^HAVE_STRINGS_H = 1$/;"	m
+HAVE_STRPBRK	bash-completion.d/Makefile	/^HAVE_STRPBRK = 1$/;"	m
+HAVE_STRSEP	bash-completion.d/Makefile	/^HAVE_STRSEP = 1$/;"	m
+HAVE_STRTOD	bash-completion.d/Makefile	/^HAVE_STRTOD = 1$/;"	m
+HAVE_STRTOLL	bash-completion.d/Makefile	/^HAVE_STRTOLL = 1$/;"	m
+HAVE_STRTOULL	bash-completion.d/Makefile	/^HAVE_STRTOULL = 1$/;"	m
+HAVE_STRUCT_RANDOM_DATA	bash-completion.d/Makefile	/^HAVE_STRUCT_RANDOM_DATA = 1$/;"	m
+HAVE_STRVERSCMP	bash-completion.d/Makefile	/^HAVE_STRVERSCMP = 1$/;"	m
+HAVE_SYMLINK	bash-completion.d/Makefile	/^HAVE_SYMLINK = 1$/;"	m
+HAVE_SYMLINKAT	bash-completion.d/Makefile	/^HAVE_SYMLINKAT = 1$/;"	m
+HAVE_SYSEXITS_H	bash-completion.d/Makefile	/^HAVE_SYSEXITS_H = 1$/;"	m
+HAVE_SYS_BITYPES_H	bash-completion.d/Makefile	/^HAVE_SYS_BITYPES_H = $/;"	m
+HAVE_SYS_INTTYPES_H	bash-completion.d/Makefile	/^HAVE_SYS_INTTYPES_H = $/;"	m
+HAVE_SYS_LOADAVG_H	bash-completion.d/Makefile	/^HAVE_SYS_LOADAVG_H = 0$/;"	m
+HAVE_SYS_PARAM_H	bash-completion.d/Makefile	/^HAVE_SYS_PARAM_H = 0$/;"	m
+HAVE_SYS_TYPES_H	bash-completion.d/Makefile	/^HAVE_SYS_TYPES_H = 1$/;"	m
+HAVE_UNISTD_H	bash-completion.d/Makefile	/^HAVE_UNISTD_H = 1$/;"	m
+HAVE_UNLINKAT	bash-completion.d/Makefile	/^HAVE_UNLINKAT = 1$/;"	m
+HAVE_UNLOCKPT	bash-completion.d/Makefile	/^HAVE_UNLOCKPT = 1$/;"	m
+HAVE_UNSIGNED_LONG_LONG_INT	bash-completion.d/Makefile	/^HAVE_UNSIGNED_LONG_LONG_INT = 1$/;"	m
+HAVE_USLEEP	bash-completion.d/Makefile	/^HAVE_USLEEP = 1$/;"	m
+HAVE_VASPRINTF	bash-completion.d/Makefile	/^HAVE_VASPRINTF = 1$/;"	m
+HAVE_VDPRINTF	bash-completion.d/Makefile	/^HAVE_VDPRINTF = 1$/;"	m
+HAVE_WCHAR_H	bash-completion.d/Makefile	/^HAVE_WCHAR_H = 1$/;"	m
+HAVE_WCHAR_T	bash-completion.d/Makefile	/^HAVE_WCHAR_T = 1$/;"	m
+HAVE_WCPCPY	bash-completion.d/Makefile	/^HAVE_WCPCPY = 1$/;"	m
+HAVE_WCPNCPY	bash-completion.d/Makefile	/^HAVE_WCPNCPY = 1$/;"	m
+HAVE_WCRTOMB	bash-completion.d/Makefile	/^HAVE_WCRTOMB = 1$/;"	m
+HAVE_WCSCASECMP	bash-completion.d/Makefile	/^HAVE_WCSCASECMP = 1$/;"	m
+HAVE_WCSCAT	bash-completion.d/Makefile	/^HAVE_WCSCAT = 1$/;"	m
+HAVE_WCSCHR	bash-completion.d/Makefile	/^HAVE_WCSCHR = 1$/;"	m
+HAVE_WCSCMP	bash-completion.d/Makefile	/^HAVE_WCSCMP = 1$/;"	m
+HAVE_WCSCOLL	bash-completion.d/Makefile	/^HAVE_WCSCOLL = 1$/;"	m
+HAVE_WCSCPY	bash-completion.d/Makefile	/^HAVE_WCSCPY = 1$/;"	m
+HAVE_WCSCSPN	bash-completion.d/Makefile	/^HAVE_WCSCSPN = 1$/;"	m
+HAVE_WCSDUP	bash-completion.d/Makefile	/^HAVE_WCSDUP = 1$/;"	m
+HAVE_WCSLEN	bash-completion.d/Makefile	/^HAVE_WCSLEN = 1$/;"	m
+HAVE_WCSNCASECMP	bash-completion.d/Makefile	/^HAVE_WCSNCASECMP = 1$/;"	m
+HAVE_WCSNCAT	bash-completion.d/Makefile	/^HAVE_WCSNCAT = 1$/;"	m
+HAVE_WCSNCMP	bash-completion.d/Makefile	/^HAVE_WCSNCMP = 1$/;"	m
+HAVE_WCSNCPY	bash-completion.d/Makefile	/^HAVE_WCSNCPY = 1$/;"	m
+HAVE_WCSNLEN	bash-completion.d/Makefile	/^HAVE_WCSNLEN = 1$/;"	m
+HAVE_WCSNRTOMBS	bash-completion.d/Makefile	/^HAVE_WCSNRTOMBS = 1$/;"	m
+HAVE_WCSPBRK	bash-completion.d/Makefile	/^HAVE_WCSPBRK = 1$/;"	m
+HAVE_WCSRCHR	bash-completion.d/Makefile	/^HAVE_WCSRCHR = 1$/;"	m
+HAVE_WCSRTOMBS	bash-completion.d/Makefile	/^HAVE_WCSRTOMBS = 1$/;"	m
+HAVE_WCSSPN	bash-completion.d/Makefile	/^HAVE_WCSSPN = 1$/;"	m
+HAVE_WCSSTR	bash-completion.d/Makefile	/^HAVE_WCSSTR = 1$/;"	m
+HAVE_WCSTOK	bash-completion.d/Makefile	/^HAVE_WCSTOK = 1$/;"	m
+HAVE_WCSWIDTH	bash-completion.d/Makefile	/^HAVE_WCSWIDTH = 1$/;"	m
+HAVE_WCSXFRM	bash-completion.d/Makefile	/^HAVE_WCSXFRM = 1$/;"	m
+HAVE_WCTRANS_T	bash-completion.d/Makefile	/^HAVE_WCTRANS_T = 1$/;"	m
+HAVE_WCTYPE_H	bash-completion.d/Makefile	/^HAVE_WCTYPE_H = 1$/;"	m
+HAVE_WCTYPE_T	bash-completion.d/Makefile	/^HAVE_WCTYPE_T = 1$/;"	m
+HAVE_WINSOCK2_H	bash-completion.d/Makefile	/^HAVE_WINSOCK2_H = $/;"	m
+HAVE_WINT_T	bash-completion.d/Makefile	/^HAVE_WINT_T = 1$/;"	m
+HAVE_WMEMCHR	bash-completion.d/Makefile	/^HAVE_WMEMCHR = 1$/;"	m
+HAVE_WMEMCMP	bash-completion.d/Makefile	/^HAVE_WMEMCMP = 1$/;"	m
+HAVE_WMEMCPY	bash-completion.d/Makefile	/^HAVE_WMEMCPY = 1$/;"	m
+HAVE_WMEMMOVE	bash-completion.d/Makefile	/^HAVE_WMEMMOVE = 1$/;"	m
+HAVE_WMEMSET	bash-completion.d/Makefile	/^HAVE_WMEMSET = 1$/;"	m
+HAVE_XLOCALE_H	bash-completion.d/Makefile	/^HAVE_XLOCALE_H = 1$/;"	m
+HAVE__BOOL	bash-completion.d/Makefile	/^HAVE__BOOL = 1$/;"	m
+HAVE__EXIT	bash-completion.d/Makefile	/^HAVE__EXIT = 1$/;"	m
+HELP2MAN	bash-completion.d/Makefile	/^HELP2MAN = $/;"	m
+HOST_CC	bash-completion.d/Makefile	/^HOST_CC = gcc$/;"	m
+HOST_CCASFLAGS	bash-completion.d/Makefile	/^HOST_CCASFLAGS = $/;"	m
+HOST_CFLAGS	bash-completion.d/Makefile	/^HOST_CFLAGS =  -Wall -W -Wshadow -Wpointer-arith -Wundef -Wchar-subscripts -Wcomment -Wdeprecated-declarations -Wdisabled-optimization -Wdiv-by-zero -Wfloat-equal -Wformat-extra-args -Wformat-security -Wformat-y2k -Wimplicit -Wimplicit-function-declaration -Wimplicit-int -Wmain -Wmissing-braces -Wmissing-format-attribute -Wmultichar -Wparentheses -Wreturn-type -Wsequence-point -Wshadow -Wsign-compare -Wswitch -Wtrigraphs -Wunknown-pragmas -Wunused -Wunused-function -Wunused-label -Wunused-parameter -Wunused-value  -Wunused-variable -Wwrite-strings -Wnested-externs -Wstrict-prototypes -Wcast-align  -Wextra -Wattributes -Wendif-labels -Winit-self -Wint-to-pointer-cast -Winvalid-pch -Wmissing-field-initializers -Wnonnull -Woverflow -Wvla -Wpointer-to-int-cast -Wstrict-aliasing -Wvariadic-macros -Wvolatile-register-var -Wpointer-sign -Wmissing-include-dirs -Wmissing-prototypes -Wmissing-declarations -Wformat=2 -Werror$/;"	m
+HOST_CPPFLAGS	bash-completion.d/Makefile	/^HOST_CPPFLAGS =  -Wall -W -DGRUB_UTIL=1 -D_FILE_OFFSET_BITS=64 -I$(top_builddir)\/include$/;"	m
+HOST_LDFLAGS	bash-completion.d/Makefile	/^HOST_LDFLAGS = $/;"	m
+INCLUDE_NEXT	bash-completion.d/Makefile	/^INCLUDE_NEXT = include_next$/;"	m
+INCLUDE_NEXT_AS_FIRST_DIRECTIVE	bash-completion.d/Makefile	/^INCLUDE_NEXT_AS_FIRST_DIRECTIVE = include_next$/;"	m
+INSTALL	bash-completion.d/Makefile	/^INSTALL = \/usr\/bin\/install -c$/;"	m
+INSTALL_DATA	bash-completion.d/Makefile	/^INSTALL_DATA = ${INSTALL} -m 644$/;"	m
+INSTALL_HEADER	bash-completion.d/Makefile	/^INSTALL_HEADER = $(INSTALL_DATA)$/;"	m
+INSTALL_PROGRAM	bash-completion.d/Makefile	/^INSTALL_PROGRAM = ${INSTALL}$/;"	m
+INSTALL_SCRIPT	bash-completion.d/Makefile	/^INSTALL_SCRIPT = ${INSTALL}$/;"	m
+INSTALL_STRIP_PROGRAM	bash-completion.d/Makefile	/^INSTALL_STRIP_PROGRAM = $(install_sh) -c -s$/;"	m
+INTLLIBS	bash-completion.d/Makefile	/^INTLLIBS = $/;"	m
+INTL_MACOSX_LIBS	bash-completion.d/Makefile	/^INTL_MACOSX_LIBS = $/;"	m
+LDFLAGS	bash-completion.d/Makefile	/^LDFLAGS = $/;"	m
+LEX	bash-completion.d/Makefile	/^LEX = flex$/;"	m
+LEXLIB	bash-completion.d/Makefile	/^LEXLIB = -lfl$/;"	m
+LEX_OUTPUT_ROOT	bash-completion.d/Makefile	/^LEX_OUTPUT_ROOT = lex.yy$/;"	m
+LIBDEVMAPPER	bash-completion.d/Makefile	/^LIBDEVMAPPER = $/;"	m
+LIBGEOM	bash-completion.d/Makefile	/^LIBGEOM = $/;"	m
+LIBGNU_LIBDEPS	bash-completion.d/Makefile	/^LIBGNU_LIBDEPS = $/;"	m
+LIBGNU_LTLIBDEPS	bash-completion.d/Makefile	/^LIBGNU_LTLIBDEPS = $/;"	m
+LIBICONV	bash-completion.d/Makefile	/^LIBICONV = -liconv$/;"	m
+LIBINTL	bash-completion.d/Makefile	/^LIBINTL = $/;"	m
+LIBLZMA	bash-completion.d/Makefile	/^LIBLZMA = $/;"	m
+LIBNVPAIR	bash-completion.d/Makefile	/^LIBNVPAIR = $/;"	m
+LIBOBJS	bash-completion.d/Makefile	/^LIBOBJS = $/;"	m
+LIBPCIACCESS	bash-completion.d/Makefile	/^LIBPCIACCESS = $/;"	m
+LIBS	bash-completion.d/Makefile	/^LIBS = $/;"	m
+LIBSDL	bash-completion.d/Makefile	/^LIBSDL = $/;"	m
+LIBUNISTRING_UNITYPES_H	bash-completion.d/Makefile	/^LIBUNISTRING_UNITYPES_H = unitypes.h$/;"	m
+LIBUNISTRING_UNIWIDTH_H	bash-completion.d/Makefile	/^LIBUNISTRING_UNIWIDTH_H = uniwidth.h$/;"	m
+LIBUTIL	bash-completion.d/Makefile	/^LIBUTIL = $/;"	m
+LIBZFS	bash-completion.d/Makefile	/^LIBZFS = $/;"	m
+LN_S	bash-completion.d/Makefile	/^LN_S = ln -s$/;"	m
+LOCALCHARSET_TESTS_ENVIRONMENT	bash-completion.d/Makefile	/^LOCALCHARSET_TESTS_ENVIRONMENT = CHARSETALIASDIR="$(abs_top_builddir)\/grub-core\/gnulib"$/;"	m
+LOCALE_FR	bash-completion.d/Makefile	/^LOCALE_FR = none$/;"	m
+LOCALE_FR_UTF8	bash-completion.d/Makefile	/^LOCALE_FR_UTF8 = none$/;"	m
+LOCALE_JA	bash-completion.d/Makefile	/^LOCALE_JA = none$/;"	m
+LOCALE_ZH_CN	bash-completion.d/Makefile	/^LOCALE_ZH_CN = none$/;"	m
+LTLIBICONV	bash-completion.d/Makefile	/^LTLIBICONV = -liconv$/;"	m
+LTLIBINTL	bash-completion.d/Makefile	/^LTLIBINTL = $/;"	m
+LTLIBOBJS	bash-completion.d/Makefile	/^LTLIBOBJS = $/;"	m
+MAGIC	grub-mkstandalone.c	120;"	d	file:
+MAKEINFO	bash-completion.d/Makefile	/^MAKEINFO = \/usr\/bin\/makeinfo$/;"	m
+MASK19	grub-mkimagexx.c	721;"	d	file:
+MAX_CODE	grub-gen-widthspec.c	41;"	d	file:
+MKDIR_P	bash-completion.d/Makefile	/^MKDIR_P = \/bin\/mkdir -p$/;"	m
+MKIMAGE_ELF32	grub-mkimage32.c	1;"	d	file:
+MKIMAGE_ELF64	grub-mkimage64.c	1;"	d	file:
+MODULEVERIFIER_ELF32	grub-module-verifier32.c	1;"	d	file:
+MODULEVERIFIER_ELF64	grub-module-verifier64.c	1;"	d	file:
+MSGFMT	bash-completion.d/Makefile	/^MSGFMT = \/usr\/bin\/msgfmt$/;"	m
+MSGFMT_015	bash-completion.d/Makefile	/^MSGFMT_015 = \/usr\/bin\/msgfmt$/;"	m
+MSGMERGE	bash-completion.d/Makefile	/^MSGMERGE = \/usr\/bin\/msgmerge$/;"	m
+MY_ARGP_ERR_UNKNOWN	grub-mkfont.c	968;"	d	file:
+MY_ARGP_ERR_UNKNOWN	grub-mkfont.c	974;"	d	file:
+MY_ARGP_KEY_ARG	grub-mkfont.c	966;"	d	file:
+MY_ARGP_KEY_ARG	grub-mkfont.c	975;"	d	file:
+NEXT_AS_FIRST_DIRECTIVE_ERRNO_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_ERRNO_H = $/;"	m
+NEXT_AS_FIRST_DIRECTIVE_FLOAT_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_FLOAT_H = $/;"	m
+NEXT_AS_FIRST_DIRECTIVE_GETOPT_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_GETOPT_H = <getopt.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_LANGINFO_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_LANGINFO_H = <langinfo.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_LOCALE_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_LOCALE_H = <locale.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_STDDEF_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_STDDEF_H = $/;"	m
+NEXT_AS_FIRST_DIRECTIVE_STDINT_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_STDINT_H = <stdint.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_STDIO_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_STDIO_H = <stdio.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_STDLIB_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_STDLIB_H = <stdlib.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_STRINGS_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_STRINGS_H = <strings.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_STRING_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_STRING_H = <string.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_SYSEXITS_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_SYSEXITS_H = <sysexits.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_SYS_TYPES_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_SYS_TYPES_H = <sys\/types.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_UNISTD_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_UNISTD_H = <unistd.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_WCHAR_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_WCHAR_H = <wchar.h>$/;"	m
+NEXT_AS_FIRST_DIRECTIVE_WCTYPE_H	bash-completion.d/Makefile	/^NEXT_AS_FIRST_DIRECTIVE_WCTYPE_H = <wctype.h>$/;"	m
+NEXT_ERRNO_H	bash-completion.d/Makefile	/^NEXT_ERRNO_H = $/;"	m
+NEXT_FLOAT_H	bash-completion.d/Makefile	/^NEXT_FLOAT_H = $/;"	m
+NEXT_GETOPT_H	bash-completion.d/Makefile	/^NEXT_GETOPT_H = <getopt.h>$/;"	m
+NEXT_LANGINFO_H	bash-completion.d/Makefile	/^NEXT_LANGINFO_H = <langinfo.h>$/;"	m
+NEXT_LOCALE_H	bash-completion.d/Makefile	/^NEXT_LOCALE_H = <locale.h>$/;"	m
+NEXT_STDDEF_H	bash-completion.d/Makefile	/^NEXT_STDDEF_H = $/;"	m
+NEXT_STDINT_H	bash-completion.d/Makefile	/^NEXT_STDINT_H = <stdint.h>$/;"	m
+NEXT_STDIO_H	bash-completion.d/Makefile	/^NEXT_STDIO_H = <stdio.h>$/;"	m
+NEXT_STDLIB_H	bash-completion.d/Makefile	/^NEXT_STDLIB_H = <stdlib.h>$/;"	m
+NEXT_STRINGS_H	bash-completion.d/Makefile	/^NEXT_STRINGS_H = <strings.h>$/;"	m
+NEXT_STRING_H	bash-completion.d/Makefile	/^NEXT_STRING_H = <string.h>$/;"	m
+NEXT_SYSEXITS_H	bash-completion.d/Makefile	/^NEXT_SYSEXITS_H = <sysexits.h>$/;"	m
+NEXT_SYS_TYPES_H	bash-completion.d/Makefile	/^NEXT_SYS_TYPES_H = <sys\/types.h>$/;"	m
+NEXT_UNISTD_H	bash-completion.d/Makefile	/^NEXT_UNISTD_H = <unistd.h>$/;"	m
+NEXT_WCHAR_H	bash-completion.d/Makefile	/^NEXT_WCHAR_H = <wchar.h>$/;"	m
+NEXT_WCTYPE_H	bash-completion.d/Makefile	/^NEXT_WCTYPE_H = <wctype.h>$/;"	m
+NORMAL_INSTALL	bash-completion.d/Makefile	/^NORMAL_INSTALL = :$/;"	m
+NORMAL_UNINSTALL	bash-completion.d/Makefile	/^NORMAL_UNINSTALL = :$/;"	m
+NO_RS_CODES_KEY	grub-setup.c	/^  NO_RS_CODES_KEY = 0x100,$/;"	e	enum:__anon2	file:
+OBJEXT	bash-completion.d/Makefile	/^OBJEXT = o$/;"	m
+OPTION_ALLOW_FLOPPY	grub-install.c	/^    OPTION_ALLOW_FLOPPY, $/;"	e	enum:__anon7	file:
+OPTION_ARCS_BOOT	grub-mkrescue.c	/^    OPTION_ARCS_BOOT$/;"	e	enum:__anon3	file:
+OPTION_BOOTLOADER_ID	grub-install.c	/^    OPTION_BOOTLOADER_ID, $/;"	e	enum:__anon7	file:
+OPTION_BOOT_DIRECTORY	grub-install.c	/^    OPTION_BOOT_DIRECTORY = 0x301,$/;"	e	enum:__anon7	file:
+OPTION_DEBUG	grub-install.c	/^    OPTION_DEBUG,$/;"	e	enum:__anon7	file:
+OPTION_DEBUG	grub-mknetdir.c	/^    OPTION_DEBUG,$/;"	e	enum:__anon5	file:
+OPTION_DEBUG_IMAGE	grub-install.c	/^    OPTION_DEBUG_IMAGE,$/;"	e	enum:__anon7	file:
+OPTION_DEBUG_IMAGE	grub-mknetdir.c	/^    OPTION_DEBUG_IMAGE$/;"	e	enum:__anon5	file:
+OPTION_DISK_MODULE	grub-install.c	/^    OPTION_DISK_MODULE,$/;"	e	enum:__anon7	file:
+OPTION_EDITENV	grub-install.c	/^    OPTION_EDITENV, $/;"	e	enum:__anon7	file:
+OPTION_EFI_DIRECTORY	grub-install.c	/^    OPTION_EFI_DIRECTORY,$/;"	e	enum:__anon7	file:
+OPTION_FONT	grub-install.c	/^    OPTION_FONT,$/;"	e	enum:__anon7	file:
+OPTION_FORCE	grub-install.c	/^    OPTION_FORCE,$/;"	e	enum:__anon7	file:
+OPTION_FORCE_FILE_ID	grub-install.c	/^    OPTION_FORCE_FILE_ID,$/;"	e	enum:__anon7	file:
+OPTION_FORMAT	grub-mkstandalone.c	/^    OPTION_FORMAT = 'O'$/;"	e	enum:__anon8	file:
+OPTION_GLUE_EFI	grub-mkrescue.c	/^    OPTION_GLUE_EFI,$/;"	e	enum:__anon3	file:
+OPTION_LABEL_BGCOLOR	grub-install.c	/^    OPTION_LABEL_BGCOLOR,$/;"	e	enum:__anon7	file:
+OPTION_LABEL_BGCOLOR	grub-mkrescue.c	/^    OPTION_LABEL_BGCOLOR,$/;"	e	enum:__anon3	file:
+OPTION_LABEL_COLOR	grub-install.c	/^    OPTION_LABEL_COLOR,$/;"	e	enum:__anon7	file:
+OPTION_LABEL_COLOR	grub-mkrescue.c	/^    OPTION_LABEL_COLOR,$/;"	e	enum:__anon3	file:
+OPTION_LABEL_FONT	grub-install.c	/^    OPTION_LABEL_FONT,$/;"	e	enum:__anon7	file:
+OPTION_LABEL_FONT	grub-mkrescue.c	/^    OPTION_LABEL_FONT,$/;"	e	enum:__anon3	file:
+OPTION_MACPPC_DIRECTORY	grub-install.c	/^    OPTION_MACPPC_DIRECTORY,$/;"	e	enum:__anon7	file:
+OPTION_MKDEVICEMAP	grub-install.c	/^    OPTION_MKDEVICEMAP, $/;"	e	enum:__anon7	file:
+OPTION_MKRELPATH	grub-install.c	/^    OPTION_MKRELPATH, $/;"	e	enum:__anon7	file:
+OPTION_NET_DIRECTORY	grub-mknetdir.c	/^    OPTION_NET_DIRECTORY = 0x301,$/;"	e	enum:__anon5	file:
+OPTION_NO_BOOTSECTOR	grub-install.c	/^    OPTION_NO_BOOTSECTOR,$/;"	e	enum:__anon7	file:
+OPTION_NO_FLOPPY	grub-install.c	/^    OPTION_NO_FLOPPY,$/;"	e	enum:__anon7	file:
+OPTION_NO_NVRAM	grub-install.c	/^    OPTION_NO_NVRAM, $/;"	e	enum:__anon7	file:
+OPTION_NO_RS_CODES	grub-install.c	/^    OPTION_NO_RS_CODES,$/;"	e	enum:__anon7	file:
+OPTION_OUTPUT	grub-mkrescue.c	/^    OPTION_OUTPUT = 'o',$/;"	e	enum:__anon3	file:
+OPTION_OUTPUT	grub-mkstandalone.c	/^    OPTION_OUTPUT = 'o',$/;"	e	enum:__anon8	file:
+OPTION_PROBE	grub-install.c	/^    OPTION_PROBE, $/;"	e	enum:__anon7	file:
+OPTION_PRODUCT_NAME	grub-mkrescue.c	/^    OPTION_PRODUCT_NAME,$/;"	e	enum:__anon3	file:
+OPTION_PRODUCT_VERSION	grub-install.c	/^    OPTION_PRODUCT_VERSION$/;"	e	enum:__anon7	file:
+OPTION_PRODUCT_VERSION	grub-mkrescue.c	/^    OPTION_PRODUCT_VERSION,$/;"	e	enum:__anon3	file:
+OPTION_RECHECK	grub-install.c	/^    OPTION_RECHECK, $/;"	e	enum:__anon7	file:
+OPTION_REMOVABLE	grub-install.c	/^    OPTION_REMOVABLE, $/;"	e	enum:__anon7	file:
+OPTION_RENDER_LABEL	grub-mkrescue.c	/^    OPTION_RENDER_LABEL,$/;"	e	enum:__anon3	file:
+OPTION_ROM_DIRECTORY	grub-mkrescue.c	/^    OPTION_ROM_DIRECTORY = 0x301,$/;"	e	enum:__anon3	file:
+OPTION_ROOT_DIRECTORY	grub-install.c	/^    OPTION_ROOT_DIRECTORY,$/;"	e	enum:__anon7	file:
+OPTION_SETUP	grub-install.c	/^    OPTION_SETUP,$/;"	e	enum:__anon7	file:
+OPTION_SPARC_BOOT	grub-mkrescue.c	/^    OPTION_SPARC_BOOT,$/;"	e	enum:__anon3	file:
+OPTION_SUBDIR	grub-mknetdir.c	/^    OPTION_SUBDIR,$/;"	e	enum:__anon5	file:
+OPTION_TARGET	grub-install.c	/^    OPTION_TARGET,$/;"	e	enum:__anon7	file:
+OPTION_XORRISO	grub-mkrescue.c	/^    OPTION_XORRISO,$/;"	e	enum:__anon3	file:
+PACKAGE	bash-completion.d/Makefile	/^PACKAGE = grub$/;"	m
+PACKAGE_BUGREPORT	bash-completion.d/Makefile	/^PACKAGE_BUGREPORT = bug-grub@gnu.org$/;"	m
+PACKAGE_NAME	bash-completion.d/Makefile	/^PACKAGE_NAME = GRUB$/;"	m
+PACKAGE_STRING	bash-completion.d/Makefile	/^PACKAGE_STRING = GRUB 2.02~rc1$/;"	m
+PACKAGE_TARNAME	bash-completion.d/Makefile	/^PACKAGE_TARNAME = grub$/;"	m
+PACKAGE_URL	bash-completion.d/Makefile	/^PACKAGE_URL = $/;"	m
+PACKAGE_VERSION	bash-completion.d/Makefile	/^PACKAGE_VERSION = 2.02~rc1$/;"	m
+PATH_SEPARATOR	bash-completion.d/Makefile	/^PATH_SEPARATOR = :$/;"	m
+PF2	grub-mkfont.c	/^  PF2$/;"	e	enum:file_formats	file:
+POST_INSTALL	bash-completion.d/Makefile	/^POST_INSTALL = :$/;"	m
+POST_UNINSTALL	bash-completion.d/Makefile	/^POST_UNINSTALL = :$/;"	m
+POSUB	bash-completion.d/Makefile	/^POSUB = po$/;"	m
+PRAGMA_COLUMNS	bash-completion.d/Makefile	/^PRAGMA_COLUMNS = $/;"	m
+PRAGMA_SYSTEM_HEADER	bash-completion.d/Makefile	/^PRAGMA_SYSTEM_HEADER = #pragma GCC system_header$/;"	m
+PRE_INSTALL	bash-completion.d/Makefile	/^PRE_INSTALL = :$/;"	m
+PRE_UNINSTALL	bash-completion.d/Makefile	/^PRE_UNINSTALL = :$/;"	m
+PRINT_ABSTRACTION	grub-probe.c	/^  PRINT_ABSTRACTION,$/;"	e	enum:__anon15	file:
+PRINT_ARC_HINT	grub-probe.c	/^  PRINT_ARC_HINT,$/;"	e	enum:__anon15	file:
+PRINT_BAREMETAL_HINT	grub-probe.c	/^  PRINT_BAREMETAL_HINT,$/;"	e	enum:__anon15	file:
+PRINT_BIOS_HINT	grub-probe.c	/^  PRINT_BIOS_HINT,$/;"	e	enum:__anon15	file:
+PRINT_COMPATIBILITY_HINT	grub-probe.c	/^  PRINT_COMPATIBILITY_HINT,$/;"	e	enum:__anon15	file:
+PRINT_CRYPTODISK_UUID	grub-probe.c	/^  PRINT_CRYPTODISK_UUID,$/;"	e	enum:__anon15	file:
+PRINT_DEVICE	grub-probe.c	/^  PRINT_DEVICE,$/;"	e	enum:__anon15	file:
+PRINT_DISK	grub-probe.c	/^  PRINT_DISK$/;"	e	enum:__anon15	file:
+PRINT_DRIVE	grub-probe.c	/^  PRINT_DRIVE,$/;"	e	enum:__anon15	file:
+PRINT_EFI_HINT	grub-probe.c	/^  PRINT_EFI_HINT,$/;"	e	enum:__anon15	file:
+PRINT_FS	grub-probe.c	/^  PRINT_FS,$/;"	e	enum:__anon15	file:
+PRINT_FS_LABEL	grub-probe.c	/^  PRINT_FS_LABEL,$/;"	e	enum:__anon15	file:
+PRINT_FS_UUID	grub-probe.c	/^  PRINT_FS_UUID,$/;"	e	enum:__anon15	file:
+PRINT_GPT_PARTTYPE	grub-probe.c	/^  PRINT_GPT_PARTTYPE,$/;"	e	enum:__anon15	file:
+PRINT_HINT_STR	grub-probe.c	/^  PRINT_HINT_STR,$/;"	e	enum:__anon15	file:
+PRINT_IEEE1275_HINT	grub-probe.c	/^  PRINT_IEEE1275_HINT,$/;"	e	enum:__anon15	file:
+PRINT_MSDOS_PARTTYPE	grub-probe.c	/^  PRINT_MSDOS_PARTTYPE,$/;"	e	enum:__anon15	file:
+PRINT_PARTMAP	grub-probe.c	/^  PRINT_PARTMAP,$/;"	e	enum:__anon15	file:
+PRINT_ZERO_CHECK	grub-probe.c	/^  PRINT_ZERO_CHECK,$/;"	e	enum:__anon15	file:
+PTRDIFF_T_SUFFIX	bash-completion.d/Makefile	/^PTRDIFF_T_SUFFIX = $/;"	m
+RANLIB	bash-completion.d/Makefile	/^RANLIB = ranlib$/;"	m
+RAW_END_MARKER	grub-mkimagexx.c	1557;"	d	file:
+RAW_RELOC_32	grub-mkimagexx.c	/^    RAW_RELOC_32 = 0,$/;"	e	enum:raw_reloc::raw_reloc_type	file:
+RAW_RELOC_MAX	grub-mkimagexx.c	/^    RAW_RELOC_MAX = 1,$/;"	e	enum:raw_reloc::raw_reloc_type	file:
+RAW_RELOC_NONE	grub-mkimagexx.c	/^    RAW_RELOC_NONE = -1,$/;"	e	enum:raw_reloc::raw_reloc_type	file:
+RAW_SEPARATOR	grub-mkimagexx.c	1556;"	d	file:
+REPLACE_BTOWC	bash-completion.d/Makefile	/^REPLACE_BTOWC = 0$/;"	m
+REPLACE_CALLOC	bash-completion.d/Makefile	/^REPLACE_CALLOC = 0$/;"	m
+REPLACE_CANONICALIZE_FILE_NAME	bash-completion.d/Makefile	/^REPLACE_CANONICALIZE_FILE_NAME = 0$/;"	m
+REPLACE_CHOWN	bash-completion.d/Makefile	/^REPLACE_CHOWN = 0$/;"	m
+REPLACE_CLOSE	bash-completion.d/Makefile	/^REPLACE_CLOSE = 0$/;"	m
+REPLACE_DPRINTF	bash-completion.d/Makefile	/^REPLACE_DPRINTF = 0$/;"	m
+REPLACE_DUP	bash-completion.d/Makefile	/^REPLACE_DUP = 0$/;"	m
+REPLACE_DUP2	bash-completion.d/Makefile	/^REPLACE_DUP2 = 0$/;"	m
+REPLACE_DUPLOCALE	bash-completion.d/Makefile	/^REPLACE_DUPLOCALE = 0$/;"	m
+REPLACE_FCHOWNAT	bash-completion.d/Makefile	/^REPLACE_FCHOWNAT = 0$/;"	m
+REPLACE_FCLOSE	bash-completion.d/Makefile	/^REPLACE_FCLOSE = 0$/;"	m
+REPLACE_FDOPEN	bash-completion.d/Makefile	/^REPLACE_FDOPEN = 0$/;"	m
+REPLACE_FFLUSH	bash-completion.d/Makefile	/^REPLACE_FFLUSH = 0$/;"	m
+REPLACE_FOPEN	bash-completion.d/Makefile	/^REPLACE_FOPEN = 0$/;"	m
+REPLACE_FPRINTF	bash-completion.d/Makefile	/^REPLACE_FPRINTF = 0$/;"	m
+REPLACE_FPURGE	bash-completion.d/Makefile	/^REPLACE_FPURGE = 0$/;"	m
+REPLACE_FREOPEN	bash-completion.d/Makefile	/^REPLACE_FREOPEN = 0$/;"	m
+REPLACE_FSEEK	bash-completion.d/Makefile	/^REPLACE_FSEEK = 0$/;"	m
+REPLACE_FSEEKO	bash-completion.d/Makefile	/^REPLACE_FSEEKO = 0$/;"	m
+REPLACE_FTELL	bash-completion.d/Makefile	/^REPLACE_FTELL = 0$/;"	m
+REPLACE_FTELLO	bash-completion.d/Makefile	/^REPLACE_FTELLO = 0$/;"	m
+REPLACE_FTRUNCATE	bash-completion.d/Makefile	/^REPLACE_FTRUNCATE = 0$/;"	m
+REPLACE_GETCWD	bash-completion.d/Makefile	/^REPLACE_GETCWD = 0$/;"	m
+REPLACE_GETDELIM	bash-completion.d/Makefile	/^REPLACE_GETDELIM = 0$/;"	m
+REPLACE_GETDOMAINNAME	bash-completion.d/Makefile	/^REPLACE_GETDOMAINNAME = 0$/;"	m
+REPLACE_GETGROUPS	bash-completion.d/Makefile	/^REPLACE_GETGROUPS = 0$/;"	m
+REPLACE_GETLINE	bash-completion.d/Makefile	/^REPLACE_GETLINE = 0$/;"	m
+REPLACE_GETLOGIN_R	bash-completion.d/Makefile	/^REPLACE_GETLOGIN_R = 0$/;"	m
+REPLACE_GETPAGESIZE	bash-completion.d/Makefile	/^REPLACE_GETPAGESIZE = 0$/;"	m
+REPLACE_ISATTY	bash-completion.d/Makefile	/^REPLACE_ISATTY = 0$/;"	m
+REPLACE_ISWBLANK	bash-completion.d/Makefile	/^REPLACE_ISWBLANK = 0$/;"	m
+REPLACE_ISWCNTRL	bash-completion.d/Makefile	/^REPLACE_ISWCNTRL = 0$/;"	m
+REPLACE_ITOLD	bash-completion.d/Makefile	/^REPLACE_ITOLD = 0$/;"	m
+REPLACE_LCHOWN	bash-completion.d/Makefile	/^REPLACE_LCHOWN = 0$/;"	m
+REPLACE_LINK	bash-completion.d/Makefile	/^REPLACE_LINK = 0$/;"	m
+REPLACE_LINKAT	bash-completion.d/Makefile	/^REPLACE_LINKAT = 0$/;"	m
+REPLACE_LOCALECONV	bash-completion.d/Makefile	/^REPLACE_LOCALECONV = 0$/;"	m
+REPLACE_LSEEK	bash-completion.d/Makefile	/^REPLACE_LSEEK = 0$/;"	m
+REPLACE_MALLOC	bash-completion.d/Makefile	/^REPLACE_MALLOC = 0$/;"	m
+REPLACE_MBRLEN	bash-completion.d/Makefile	/^REPLACE_MBRLEN = 0$/;"	m
+REPLACE_MBRTOWC	bash-completion.d/Makefile	/^REPLACE_MBRTOWC = 0$/;"	m
+REPLACE_MBSINIT	bash-completion.d/Makefile	/^REPLACE_MBSINIT = 0$/;"	m
+REPLACE_MBSNRTOWCS	bash-completion.d/Makefile	/^REPLACE_MBSNRTOWCS = 0$/;"	m
+REPLACE_MBSRTOWCS	bash-completion.d/Makefile	/^REPLACE_MBSRTOWCS = 0$/;"	m
+REPLACE_MBSTATE_T	bash-completion.d/Makefile	/^REPLACE_MBSTATE_T = 0$/;"	m
+REPLACE_MBTOWC	bash-completion.d/Makefile	/^REPLACE_MBTOWC = 0$/;"	m
+REPLACE_MEMCHR	bash-completion.d/Makefile	/^REPLACE_MEMCHR = 0$/;"	m
+REPLACE_MEMMEM	bash-completion.d/Makefile	/^REPLACE_MEMMEM = 0$/;"	m
+REPLACE_MKSTEMP	bash-completion.d/Makefile	/^REPLACE_MKSTEMP = 0$/;"	m
+REPLACE_NL_LANGINFO	bash-completion.d/Makefile	/^REPLACE_NL_LANGINFO = 0$/;"	m
+REPLACE_NULL	bash-completion.d/Makefile	/^REPLACE_NULL = 0$/;"	m
+REPLACE_OBSTACK_PRINTF	bash-completion.d/Makefile	/^REPLACE_OBSTACK_PRINTF = 0$/;"	m
+REPLACE_PERROR	bash-completion.d/Makefile	/^REPLACE_PERROR = 0$/;"	m
+REPLACE_POPEN	bash-completion.d/Makefile	/^REPLACE_POPEN = 0$/;"	m
+REPLACE_PREAD	bash-completion.d/Makefile	/^REPLACE_PREAD = 0$/;"	m
+REPLACE_PRINTF	bash-completion.d/Makefile	/^REPLACE_PRINTF = 0$/;"	m
+REPLACE_PTSNAME	bash-completion.d/Makefile	/^REPLACE_PTSNAME = 0$/;"	m
+REPLACE_PTSNAME_R	bash-completion.d/Makefile	/^REPLACE_PTSNAME_R = 0$/;"	m
+REPLACE_PUTENV	bash-completion.d/Makefile	/^REPLACE_PUTENV = 0$/;"	m
+REPLACE_PWRITE	bash-completion.d/Makefile	/^REPLACE_PWRITE = 0$/;"	m
+REPLACE_RANDOM_R	bash-completion.d/Makefile	/^REPLACE_RANDOM_R = 0$/;"	m
+REPLACE_READ	bash-completion.d/Makefile	/^REPLACE_READ = 0$/;"	m
+REPLACE_READLINK	bash-completion.d/Makefile	/^REPLACE_READLINK = 0$/;"	m
+REPLACE_REALLOC	bash-completion.d/Makefile	/^REPLACE_REALLOC = 0$/;"	m
+REPLACE_REALPATH	bash-completion.d/Makefile	/^REPLACE_REALPATH = 0$/;"	m
+REPLACE_REMOVE	bash-completion.d/Makefile	/^REPLACE_REMOVE = 0$/;"	m
+REPLACE_RENAME	bash-completion.d/Makefile	/^REPLACE_RENAME = 0$/;"	m
+REPLACE_RENAMEAT	bash-completion.d/Makefile	/^REPLACE_RENAMEAT = 0$/;"	m
+REPLACE_RMDIR	bash-completion.d/Makefile	/^REPLACE_RMDIR = 0$/;"	m
+REPLACE_SETENV	bash-completion.d/Makefile	/^REPLACE_SETENV = 0$/;"	m
+REPLACE_SETLOCALE	bash-completion.d/Makefile	/^REPLACE_SETLOCALE = 0$/;"	m
+REPLACE_SLEEP	bash-completion.d/Makefile	/^REPLACE_SLEEP = 0$/;"	m
+REPLACE_SNPRINTF	bash-completion.d/Makefile	/^REPLACE_SNPRINTF = 0$/;"	m
+REPLACE_SPRINTF	bash-completion.d/Makefile	/^REPLACE_SPRINTF = 0$/;"	m
+REPLACE_STDIO_READ_FUNCS	bash-completion.d/Makefile	/^REPLACE_STDIO_READ_FUNCS = 0$/;"	m
+REPLACE_STDIO_WRITE_FUNCS	bash-completion.d/Makefile	/^REPLACE_STDIO_WRITE_FUNCS = 0$/;"	m
+REPLACE_STPNCPY	bash-completion.d/Makefile	/^REPLACE_STPNCPY = 0$/;"	m
+REPLACE_STRCASESTR	bash-completion.d/Makefile	/^REPLACE_STRCASESTR = 0$/;"	m
+REPLACE_STRCHRNUL	bash-completion.d/Makefile	/^REPLACE_STRCHRNUL = 0$/;"	m
+REPLACE_STRDUP	bash-completion.d/Makefile	/^REPLACE_STRDUP = 0$/;"	m
+REPLACE_STRERROR	bash-completion.d/Makefile	/^REPLACE_STRERROR = 0$/;"	m
+REPLACE_STRERROR_R	bash-completion.d/Makefile	/^REPLACE_STRERROR_R = 0$/;"	m
+REPLACE_STRNCAT	bash-completion.d/Makefile	/^REPLACE_STRNCAT = 0$/;"	m
+REPLACE_STRNDUP	bash-completion.d/Makefile	/^REPLACE_STRNDUP = 0$/;"	m
+REPLACE_STRNLEN	bash-completion.d/Makefile	/^REPLACE_STRNLEN = 0$/;"	m
+REPLACE_STRSIGNAL	bash-completion.d/Makefile	/^REPLACE_STRSIGNAL = 0$/;"	m
+REPLACE_STRSTR	bash-completion.d/Makefile	/^REPLACE_STRSTR = 0$/;"	m
+REPLACE_STRTOD	bash-completion.d/Makefile	/^REPLACE_STRTOD = 0$/;"	m
+REPLACE_STRTOK_R	bash-completion.d/Makefile	/^REPLACE_STRTOK_R = 0$/;"	m
+REPLACE_STRUCT_LCONV	bash-completion.d/Makefile	/^REPLACE_STRUCT_LCONV = 0$/;"	m
+REPLACE_SYMLINK	bash-completion.d/Makefile	/^REPLACE_SYMLINK = 0$/;"	m
+REPLACE_TMPFILE	bash-completion.d/Makefile	/^REPLACE_TMPFILE = 0$/;"	m
+REPLACE_TOWLOWER	bash-completion.d/Makefile	/^REPLACE_TOWLOWER = 0$/;"	m
+REPLACE_TTYNAME_R	bash-completion.d/Makefile	/^REPLACE_TTYNAME_R = 0$/;"	m
+REPLACE_UNLINK	bash-completion.d/Makefile	/^REPLACE_UNLINK = 0$/;"	m
+REPLACE_UNLINKAT	bash-completion.d/Makefile	/^REPLACE_UNLINKAT = 0$/;"	m
+REPLACE_UNSETENV	bash-completion.d/Makefile	/^REPLACE_UNSETENV = 0$/;"	m
+REPLACE_USLEEP	bash-completion.d/Makefile	/^REPLACE_USLEEP = 0$/;"	m
+REPLACE_VASPRINTF	bash-completion.d/Makefile	/^REPLACE_VASPRINTF = 0$/;"	m
+REPLACE_VDPRINTF	bash-completion.d/Makefile	/^REPLACE_VDPRINTF = 0$/;"	m
+REPLACE_VFPRINTF	bash-completion.d/Makefile	/^REPLACE_VFPRINTF = 0$/;"	m
+REPLACE_VPRINTF	bash-completion.d/Makefile	/^REPLACE_VPRINTF = 0$/;"	m
+REPLACE_VSNPRINTF	bash-completion.d/Makefile	/^REPLACE_VSNPRINTF = 0$/;"	m
+REPLACE_VSPRINTF	bash-completion.d/Makefile	/^REPLACE_VSPRINTF = 0$/;"	m
+REPLACE_WCRTOMB	bash-completion.d/Makefile	/^REPLACE_WCRTOMB = 0$/;"	m
+REPLACE_WCSNRTOMBS	bash-completion.d/Makefile	/^REPLACE_WCSNRTOMBS = 0$/;"	m
+REPLACE_WCSRTOMBS	bash-completion.d/Makefile	/^REPLACE_WCSRTOMBS = 0$/;"	m
+REPLACE_WCSWIDTH	bash-completion.d/Makefile	/^REPLACE_WCSWIDTH = 0$/;"	m
+REPLACE_WCTOB	bash-completion.d/Makefile	/^REPLACE_WCTOB = 0$/;"	m
+REPLACE_WCTOMB	bash-completion.d/Makefile	/^REPLACE_WCTOMB = 0$/;"	m
+REPLACE_WCWIDTH	bash-completion.d/Makefile	/^REPLACE_WCWIDTH = 0$/;"	m
+REPLACE_WRITE	bash-completion.d/Makefile	/^REPLACE_WRITE = 0$/;"	m
+SAMPLES_PER_TRAME	spkmodem-recv.c	26;"	d	file:
+SETUP	setup.c	/^SETUP (const char *dir,$/;"	f
+SETUP	setup.c	240;"	d	file:
+SETUP	setup.c	242;"	d	file:
+SET_MAKE	bash-completion.d/Makefile	/^SET_MAKE = $/;"	m
+SHELL	bash-completion.d/Makefile	/^SHELL = \/bin\/bash$/;"	m
+SIG_ATOMIC_T_SUFFIX	bash-completion.d/Makefile	/^SIG_ATOMIC_T_SUFFIX = $/;"	m
+SIZE_T_SUFFIX	bash-completion.d/Makefile	/^SIZE_T_SUFFIX = $/;"	m
+SOURCES	bash-completion.d/Makefile	/^SOURCES =$/;"	m
+STABLE_EMBEDDING_TIMESTAMP	mkimage.c	62;"	d	file:
+STDALIGN_H	bash-completion.d/Makefile	/^STDALIGN_H = stdalign.h$/;"	m
+STDBOOL_H	bash-completion.d/Makefile	/^STDBOOL_H = $/;"	m
+STDDEF_H	bash-completion.d/Makefile	/^STDDEF_H = $/;"	m
+STDINT_H	bash-completion.d/Makefile	/^STDINT_H = $/;"	m
+STRIP	bash-completion.d/Makefile	/^STRIP = $/;"	m
+STRTAB_BLOCK	grub-pe2elf.c	59;"	d	file:
+SUFFIX	grub-mkimage32.c	3;"	d	file:
+SUFFIX	grub-mkimage64.c	3;"	d	file:
+SUFFIX	grub-module-verifierXX.c	26;"	d	file:
+SUFFIX	grub-module-verifierXX.c	8;"	d	file:
+SYSEXITS_H	bash-completion.d/Makefile	/^SYSEXITS_H = $/;"	m
+SYS_AREA_ARCS	grub-mkrescue.c	/^  SYS_AREA_ARCS$/;"	e	enum:__anon4	file:
+SYS_AREA_AUTO	grub-mkrescue.c	/^  SYS_AREA_AUTO,$/;"	e	enum:__anon4	file:
+SYS_AREA_COMMON	grub-mkrescue.c	/^  SYS_AREA_COMMON,$/;"	e	enum:__anon4	file:
+SYS_AREA_SPARC	grub-mkrescue.c	/^  SYS_AREA_SPARC,$/;"	e	enum:__anon4	file:
+SzAlloc	mkimage.c	/^static void *SzAlloc(void *p __attribute__ ((unused)), size_t size) { return xmalloc(size); }$/;"	f	file:
+SzFree	mkimage.c	/^static void SzFree(void *p __attribute__ ((unused)), void *address) { free(address); }$/;"	f	file:
+TARGET_APPLE_LINKER	bash-completion.d/Makefile	/^TARGET_APPLE_LINKER = 0$/;"	m
+TARGET_CC	bash-completion.d/Makefile	/^TARGET_CC = gcc$/;"	m
+TARGET_CCAS	bash-completion.d/Makefile	/^TARGET_CCAS = gcc$/;"	m
+TARGET_CCASFLAGS	bash-completion.d/Makefile	/^TARGET_CCASFLAGS =  -g  -m32 -msoft-float$/;"	m
+TARGET_CC_VERSION	bash-completion.d/Makefile	/^TARGET_CC_VERSION = gcc (Ubuntu 4.8.4-2ubuntu1~14.04.3) 4.8.4$/;"	m
+TARGET_CFLAGS	bash-completion.d/Makefile	/^TARGET_CFLAGS =  -Os -Wall -W -Wshadow -Wpointer-arith -Wundef -Wchar-subscripts -Wcomment -Wdeprecated-declarations -Wdisabled-optimization -Wdiv-by-zero -Wfloat-equal -Wformat-extra-args -Wformat-security -Wformat-y2k -Wimplicit -Wimplicit-function-declaration -Wimplicit-int -Wmain -Wmissing-braces -Wmissing-format-attribute -Wmultichar -Wparentheses -Wreturn-type -Wsequence-point -Wshadow -Wsign-compare -Wswitch -Wtrigraphs -Wunknown-pragmas -Wunused -Wunused-function -Wunused-label -Wunused-parameter -Wunused-value  -Wunused-variable -Wwrite-strings -Wnested-externs -Wstrict-prototypes -g -Wredundant-decls -Wmissing-prototypes -Wmissing-declarations  -Wextra -Wattributes -Wendif-labels -Winit-self -Wint-to-pointer-cast -Winvalid-pch -Wmissing-field-initializers -Wnonnull -Woverflow -Wvla -Wpointer-to-int-cast -Wstrict-aliasing -Wvariadic-macros -Wvolatile-register-var -Wpointer-sign -Wmissing-include-dirs -Wmissing-prototypes -Wmissing-declarations -Wformat=2 -march=i386 -m32 -mrtd -mregparm=3 -falign-jumps=1 -falign-loops=1 -falign-functions=1 -freg-struct-return -mno-mmx -mno-sse -mno-sse2 -mno-sse3 -mno-3dnow -msoft-float -fno-dwarf2-cfi-asm -mno-stack-arg-probe -fno-asynchronous-unwind-tables -fno-unwind-tables -Qn -fno-stack-protector -Wtrampolines -Werror$/;"	m
+TARGET_CPP	bash-completion.d/Makefile	/^TARGET_CPP = gcc -E$/;"	m
+TARGET_CPPFLAGS	bash-completion.d/Makefile	/^TARGET_CPPFLAGS =  -Wall -W  -DGRUB_MACHINE_PCBIOS=1 -DGRUB_MACHINE=I386_PC -m32 -nostdinc -isystem \/usr\/lib\/gcc\/i686-linux-gnu\/4.8\/include -I$(top_srcdir)\/include -I$(top_builddir)\/include$/;"	m
+TARGET_DECOMPRESSOR_LINK_ADDR	bash-completion.d/Makefile	/^TARGET_DECOMPRESSOR_LINK_ADDR = $/;"	m
+TARGET_IMG_BASE_LDOPT	bash-completion.d/Makefile	/^TARGET_IMG_BASE_LDOPT = -Wl,-Ttext$/;"	m
+TARGET_IMG_CFLAGS	bash-completion.d/Makefile	/^TARGET_IMG_CFLAGS = $/;"	m
+TARGET_IMG_LDFLAGS	bash-completion.d/Makefile	/^TARGET_IMG_LDFLAGS = -Wl,-N$/;"	m
+TARGET_LDFLAGS	bash-completion.d/Makefile	/^TARGET_LDFLAGS =  -m32 -Wl,-melf_i386 -Wl,--build-id=none$/;"	m
+TARGET_LDFLAGS_OLDMAGIC	bash-completion.d/Makefile	/^TARGET_LDFLAGS_OLDMAGIC = -Wl,-N$/;"	m
+TARGET_LINK_ADDR	bash-completion.d/Makefile	/^TARGET_LINK_ADDR = $/;"	m
+TARGET_MODULE_FORMAT	bash-completion.d/Makefile	/^TARGET_MODULE_FORMAT = elf32$/;"	m
+TARGET_NM	bash-completion.d/Makefile	/^TARGET_NM = nm$/;"	m
+TARGET_NMFLAGS_DEFINED_ONLY	bash-completion.d/Makefile	/^TARGET_NMFLAGS_DEFINED_ONLY = --defined-only$/;"	m
+TARGET_NMFLAGS_MINUS_P	bash-completion.d/Makefile	/^TARGET_NMFLAGS_MINUS_P = -P$/;"	m
+TARGET_NO_FIELD	mkimage.c	59;"	d	file:
+TARGET_OBJ2ELF	bash-completion.d/Makefile	/^TARGET_OBJ2ELF = $/;"	m
+TARGET_OBJCONV	bash-completion.d/Makefile	/^TARGET_OBJCONV = $/;"	m
+TARGET_OBJCOPY	bash-completion.d/Makefile	/^TARGET_OBJCOPY = objcopy$/;"	m
+TARGET_RANLIB	bash-completion.d/Makefile	/^TARGET_RANLIB = ranlib$/;"	m
+TARGET_STRIP	bash-completion.d/Makefile	/^TARGET_STRIP = strip$/;"	m
+THRESHOLD	spkmodem-recv.c	32;"	d	file:
+UNDEFINE_STRTOK_R	bash-completion.d/Makefile	/^UNDEFINE_STRTOK_R = 0$/;"	m
+UNISTD_H_HAVE_WINSOCK2_H	bash-completion.d/Makefile	/^UNISTD_H_HAVE_WINSOCK2_H = 0$/;"	m
+UNISTD_H_HAVE_WINSOCK2_H_AND_USE_SOCKETS	bash-completion.d/Makefile	/^UNISTD_H_HAVE_WINSOCK2_H_AND_USE_SOCKETS = 0$/;"	m
+USE_NLS	bash-completion.d/Makefile	/^USE_NLS = yes$/;"	m
+VERSION	bash-completion.d/Makefile	/^VERSION = 2.02~rc1$/;"	m
+WCHAR_T_SUFFIX	bash-completion.d/Makefile	/^WCHAR_T_SUFFIX = $/;"	m
+WINDOWS_64_BIT_OFF_T	bash-completion.d/Makefile	/^WINDOWS_64_BIT_OFF_T = 0$/;"	m
+WINT_T_SUFFIX	bash-completion.d/Makefile	/^WINT_T_SUFFIX = $/;"	m
+XEN_NOTE_SIZE	grub-mkimage32.c	20;"	d	file:
+XEN_NOTE_SIZE	grub-mkimage64.c	20;"	d	file:
+XGETTEXT	bash-completion.d/Makefile	/^XGETTEXT = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_015	bash-completion.d/Makefile	/^XGETTEXT_015 = \/usr\/bin\/xgettext$/;"	m
+XGETTEXT_EXTRA_OPTIONS	bash-completion.d/Makefile	/^XGETTEXT_EXTRA_OPTIONS =  --flag=argp_error:2:c-format --flag=argp_failure:4:c-format --flag=error:3:c-format --flag=error_at_line:5:c-format$/;"	m
+YACC	bash-completion.d/Makefile	/^YACC = bison$/;"	m
+YFLAGS	bash-completion.d/Makefile	/^YFLAGS = $/;"	m
+_GNU_SOURCE	glue-efi.c	27;"	d	file:
+_GNU_SOURCE	grub-file.c	32;"	d	file:
+_GNU_SOURCE	grub-glue-efi.c	27;"	d	file:
+_GNU_SOURCE	grub-macbless.c	47;"	d	file:
+_GNU_SOURCE	grub-mkfont.c	35;"	d	file:
+_GNU_SOURCE	grub-mkimage.c	50;"	d	file:
+_GNU_SOURCE	grub-mklayout.c	26;"	d	file:
+_GNU_SOURCE	grub-mkpasswd-pbkdf2.c	34;"	d	file:
+_GNU_SOURCE	grub-mkrelpath.c	28;"	d	file:
+_GNU_SOURCE	grub-probe.c	48;"	d	file:
+_GNU_SOURCE	grub-render-label.c	31;"	d	file:
+_GNU_SOURCE	grub-script-check.c	30;"	d	file:
+_GNU_SOURCE	grub-setup.c	22;"	d	file:
+_GNU_SOURCE	grub-syslinux2cfg.c	28;"	d	file:
+_GNU_SOURCE	render-label.c	31;"	d	file:
+__FTERRORS_H__	grub-gen-asciih.c	31;"	d	file:
+__FTERRORS_H__	grub-gen-widthspec.c	31;"	d	file:
+__FTERRORS_H__	grub-mkfont.c	52;"	d	file:
+__libzfs_handle	getroot.c	/^static libzfs_handle_t *__libzfs_handle;$/;"	v	file:
+abs_builddir	bash-completion.d/Makefile	/^abs_builddir = \/android\/tow\/grub\/util\/bash-completion.d$/;"	m
+abs_srcdir	bash-completion.d/Makefile	/^abs_srcdir = \/android\/tow\/grub\/util\/bash-completion.d$/;"	m
+abs_top_builddir	bash-completion.d/Makefile	/^abs_top_builddir = \/android\/tow\/grub$/;"	m
+abs_top_srcdir	bash-completion.d/Makefile	/^abs_top_srcdir = \/android\/tow\/grub$/;"	m
+ac_ct_CC	bash-completion.d/Makefile	/^ac_ct_CC = gcc$/;"	m
+ac_ct_CXX	bash-completion.d/Makefile	/^ac_ct_CXX = g++$/;"	m
+ac_ct_FREETYPE	bash-completion.d/Makefile	/^ac_ct_FREETYPE = $/;"	m
+ac_ct_TARGET_CC	bash-completion.d/Makefile	/^ac_ct_TARGET_CC = $/;"	m
+add_char	grub-mkfont.c	/^add_char (struct grub_font_info *font_info, FT_Face face,$/;"	f	file:
+add_fixup_entry	grub-mkimagexx.c	/^add_fixup_entry (struct fixup_block_list **cblock, grub_uint16_t type,$/;"	f	file:
+add_font	grub-mkfont.c	/^add_font (struct grub_font_info *font_info, FT_Face face, int nocut)$/;"	f	file:
+add_glyph	grub-gen-asciih.c	/^add_glyph (FT_UInt glyph_idx, FT_Face face,$/;"	f	file:
+add_glyph	grub-gen-widthspec.c	/^add_glyph (FT_Face face,$/;"	f	file:
+add_glyph	grub-mkfont.c	/^add_glyph (struct grub_font_info *font_info, FT_UInt glyph_idx, FT_Face face,$/;"	f	file:
+add_module	resolve.c	/^add_module (const char *dir,$/;"	f	file:
+add_pixel	grub-gen-asciih.c	/^add_pixel (unsigned char **data, int *mask, int not_blank)$/;"	f	file:
+add_pixel	grub-mkfont.c	/^add_pixel (grub_uint8_t **data, int *mask, int not_blank)$/;"	f	file:
+add_rs_codes	grub-install.c	/^static int add_rs_codes = 1;$/;"	v	file:
+add_rs_codes	grub-setup.c	/^  int add_rs_codes;$/;"	m	struct:arguments	file:
+add_special_keys	grub-mklayout.c	/^add_special_keys (struct grub_keyboard_layout *layout)$/;"	f	file:
+add_subst	grub-mkfont.c	/^add_subst (grub_uint32_t from, grub_uint32_t to, struct glyph_replace **target)$/;"	f	file:
+add_tar_file	grub-mkstandalone.c	/^add_tar_file (const char *from,$/;"	f	file:
+allow_floppy	grub-install.c	/^static int allow_floppy = 0;$/;"	v	file:
+allow_floppy	grub-setup.c	/^  int allow_floppy;$/;"	m	struct:arguments	file:
+am__aclocal_m4_deps	bash-completion.d/Makefile	/^am__aclocal_m4_deps = $(top_srcdir)\/m4\/00gnulib.m4 \\$/;"	m
+am__base_list	bash-completion.d/Makefile	/^am__base_list = \\$/;"	m
+am__can_run_installinfo	bash-completion.d/Makefile	/^am__can_run_installinfo = \\$/;"	m
+am__cd	bash-completion.d/Makefile	/^am__cd = CDPATH="$${ZSH_VERSION+.}$(PATH_SEPARATOR)" && cd$/;"	m
+am__configure_deps	bash-completion.d/Makefile	/^am__configure_deps = $(am__aclocal_m4_deps) $(CONFIGURE_DEPENDENCIES) \\$/;"	m
+am__include	bash-completion.d/Makefile	/^am__include = include$/;"	m
+am__install_max	bash-completion.d/Makefile	/^am__install_max = 40$/;"	m
+am__installdirs	bash-completion.d/Makefile	/^am__installdirs = "$(DESTDIR)$(bashcompletiondir)"$/;"	m
+am__is_gnu_make	bash-completion.d/Makefile	/^am__is_gnu_make = test -n '$(MAKEFILE_LIST)' && test -n '$(MAKELEVEL)'$/;"	m
+am__leading_dot	bash-completion.d/Makefile	/^am__leading_dot = .$/;"	m
+am__make_dryrun	bash-completion.d/Makefile	/^am__make_dryrun = (target_option=n; $(am__make_running_with_option))$/;"	m
+am__make_keepgoing	bash-completion.d/Makefile	/^am__make_keepgoing = (target_option=k; $(am__make_running_with_option))$/;"	m
+am__make_running_with_option	bash-completion.d/Makefile	/^am__make_running_with_option = \\$/;"	m
+am__nobase_list	bash-completion.d/Makefile	/^am__nobase_list = $(am__nobase_strip_setup); \\$/;"	m
+am__nobase_strip	bash-completion.d/Makefile	/^am__nobase_strip = \\$/;"	m
+am__nobase_strip_setup	bash-completion.d/Makefile	/^am__nobase_strip_setup = \\$/;"	m
+am__quote	bash-completion.d/Makefile	/^am__quote = $/;"	m
+am__strip_dir	bash-completion.d/Makefile	/^am__strip_dir = f=`echo $$p | sed -e 's|^.*\/||'`;$/;"	m
+am__tagged_files	bash-completion.d/Makefile	/^am__tagged_files = $(HEADERS) $(SOURCES) $(TAGS_FILES) $(LISP)$/;"	m
+am__tar	bash-completion.d/Makefile	/^am__tar = $${TAR-tar} chof - "$$tardir"$/;"	m
+am__uninstall_files_from_dir	bash-completion.d/Makefile	/^am__uninstall_files_from_dir = { \\$/;"	m
+am__untar	bash-completion.d/Makefile	/^am__untar = $${TAR-tar} xf -$/;"	m
+am__v_GEN_	bash-completion.d/Makefile	/^am__v_GEN_ = $(am__v_GEN_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_GEN_0	bash-completion.d/Makefile	/^am__v_GEN_0 = @echo "  GEN     " $@;$/;"	m
+am__v_GEN_1	bash-completion.d/Makefile	/^am__v_GEN_1 = $/;"	m
+am__v_P_	bash-completion.d/Makefile	/^am__v_P_ = $(am__v_P_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_P_0	bash-completion.d/Makefile	/^am__v_P_0 = false$/;"	m
+am__v_P_1	bash-completion.d/Makefile	/^am__v_P_1 = :$/;"	m
+am__v_at_	bash-completion.d/Makefile	/^am__v_at_ = $(am__v_at_$(AM_DEFAULT_VERBOSITY))$/;"	m
+am__v_at_0	bash-completion.d/Makefile	/^am__v_at_0 = @$/;"	m
+am__v_at_1	bash-completion.d/Makefile	/^am__v_at_1 = $/;"	m
+am__vpath_adj	bash-completion.d/Makefile	/^am__vpath_adj = case $$p in \\$/;"	m
+am__vpath_adj_setup	bash-completion.d/Makefile	/^am__vpath_adj_setup = srcdirstrip=`echo "$(srcdir)" | sed 's|.|.|g'`;$/;"	m
+amplitude	spkmodem-recv.c	/^static int amplitude = 0;$/;"	v	file:
+arabicsubst	import_unicode.py	/^arabicsubst = {}$/;"	v
+arabname	import_unicode.py	/^            arabname = arabname[0:len (arabname) - len (" FINAL FORM")]$/;"	v
+arabname	import_unicode.py	/^            arabname = arabname[0:len (arabname) - len (" INITIAL FORM")]$/;"	v
+arabname	import_unicode.py	/^            arabname = arabname[0:len (arabname) - len (" ISOLATED FORM")]$/;"	v
+arabname	import_unicode.py	/^            arabname = arabname[0:len (arabname) - len (" MEDIAL FORM")]$/;"	v
+arabname	import_unicode.py	/^        arabname = sp[1][len ("ARABIC LETTER "):]$/;"	v
+arch	grub-module-verifier.c	/^  const char *arch;$/;"	m	struct:platform_whitelist	file:
+archs	grub-module-verifier.c	/^struct grub_module_verifier_arch archs[] = {$/;"	v	typeref:struct:grub_module_verifier_arch
+arg	grub-macbless.c	/^  char *arg;$/;"	m	struct:arguments	file:
+argp	grub-editenv.c	/^struct argp argp = {$/;"	v	typeref:struct:argp
+argp	grub-fstest.c	/^struct argp argp = {$/;"	v	typeref:struct:argp
+argp	grub-glue-efi.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-install.c	/^struct argp argp = {$/;"	v	typeref:struct:argp
+argp	grub-macbless.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-mkfont.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-mkimage.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-mklayout.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-mknetdir.c	/^struct argp argp = {$/;"	v	typeref:struct:argp
+argp	grub-mkpasswd-pbkdf2.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-mkrelpath.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-mkrescue.c	/^struct argp argp = {$/;"	v	typeref:struct:argp
+argp	grub-mkstandalone.c	/^struct argp argp = {$/;"	v	typeref:struct:argp
+argp	grub-mount.c	/^struct argp argp = {$/;"	v	typeref:struct:argp
+argp	grub-probe.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-render-label.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-script-check.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-setup.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp	grub-syslinux2cfg.c	/^static struct argp argp = {$/;"	v	typeref:struct:argp	file:
+argp_parser	grub-editenv.c	/^static error_t argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-fstest.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-glue-efi.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-install.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-macbless.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mkfont.c	/^argp_parser (int key, char *arg, struct my_argp_state *state)$/;"	f	file:
+argp_parser	grub-mkimage.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mklayout.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mknetdir.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mkpasswd-pbkdf2.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mkrelpath.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mkrescue.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mkstandalone.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-mount.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-probe.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-render-label.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-script-check.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-setup.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_parser	grub-syslinux2cfg.c	/^argp_parser (int key, char *arg, struct argp_state *state)$/;"	f	file:
+argp_program_bug_address	grub-editenv.c	/^const char *argp_program_bug_address = "<"PACKAGE_BUGREPORT">";$/;"	v
+argp_program_version_hook	grub-editenv.c	/^void (*argp_program_version_hook) (FILE *, struct argp_state *) = print_version;$/;"	v
+argp_program_version_hook	grub-fstest.c	/^void (*argp_program_version_hook) (FILE *, struct argp_state *) = print_version;$/;"	v
+argp_program_version_hook	grub-mount.c	/^void (*argp_program_version_hook) (FILE *, struct argp_state *) = print_version;$/;"	v
+args	grub-fstest.c	/^static char **args = NULL;$/;"	v	file:
+args_count	grub-fstest.c	/^static int args_count = 0;$/;"	v	file:
+args_to_eat	grub-mkrescue.c	/^args_to_eat (const char *arg)$/;"	f	file:
+argument_is_device	grub-probe.c	/^static unsigned int argument_is_device = 0;$/;"	v	file:
+arguments	grub-glue-efi.c	/^struct arguments$/;"	s	file:
+arguments	grub-macbless.c	/^struct arguments$/;"	s	file:
+arguments	grub-mkfont.c	/^struct arguments$/;"	s	file:
+arguments	grub-mkimage.c	/^struct arguments$/;"	s	file:
+arguments	grub-mklayout.c	/^struct arguments$/;"	s	file:
+arguments	grub-mkpasswd-pbkdf2.c	/^struct arguments$/;"	s	file:
+arguments	grub-mkrelpath.c	/^struct arguments$/;"	s	file:
+arguments	grub-probe.c	/^struct arguments$/;"	s	file:
+arguments	grub-render-label.c	/^struct arguments$/;"	s	file:
+arguments	grub-script-check.c	/^  struct arguments arguments;$/;"	m	struct:main_ctx	typeref:struct:main_ctx::arguments	file:
+arguments	grub-script-check.c	/^struct arguments$/;"	s	file:
+arguments	grub-setup.c	/^struct arguments$/;"	s	file:
+arguments	grub-syslinux2cfg.c	/^struct arguments$/;"	s	file:
+arm_get_trampoline_size	grub-mkimagexx.c	/^arm_get_trampoline_size (Elf_Ehdr *e,$/;"	f	file:
+asce	grub-mkfont.c	/^  int asce;$/;"	m	struct:grub_font_info	file:
+b	grub-mkimagexx.c	/^  struct grub_pe32_fixup_block b;$/;"	m	struct:fixup_block_list	typeref:struct:fixup_block_list::grub_pe32_fixup_block	file:
+base	grub-mknetdir.c	/^static char *base;$/;"	v	file:
+basedir	import_gcry.py	/^basedir = os.path.join (outdir, "lib\/libgcrypt-grub")$/;"	v
+bash_completion_script	bash-completion.d/Makefile	/^bash_completion_script = grub$/;"	m
+bash_completion_source	bash-completion.d/Makefile	/^bash_completion_source = grub-completion.bash.in$/;"	m
+bashcompletion_DATA	bash-completion.d/Makefile	/^bashcompletion_DATA = $(bash_completion_script)$/;"	m
+bashcompletiondir	bash-completion.d/Makefile	/^bashcompletiondir = $(sysconfdir)\/bash_completion.d$/;"	m
+begincode	import_unicode.py	/^        begincode = curcode$/;"	v
+begincode	import_unicode.py	/^begincode = -2$/;"	v
+bgcolor	grub-render-label.c	/^  char *bgcolor;$/;"	m	struct:arguments	file:
+bindir	bash-completion.d/Makefile	/^bindir = ${exec_prefix}\/bin$/;"	m
+bitmap	grub-gen-asciih.c	/^  unsigned char *bitmap;$/;"	m	struct:grub_glyph_info	file:
+bitmap	grub-mkfont.c	/^  grub_uint8_t *bitmap;$/;"	m	struct:grub_glyph_info	file:
+bitmap_size	grub-gen-asciih.c	/^  int bitmap_size;$/;"	m	struct:grub_glyph_info	file:
+bitmap_size	grub-mkfont.c	/^  int bitmap_size;$/;"	m	struct:grub_glyph_info	file:
+bless	grub-install.c	/^bless (grub_device_t dev, const char *path, int x86)$/;"	f	file:
+bless	grub-macbless.c	/^bless (const char *path, int x86)$/;"	f	file:
+block	setup.c	/^  struct grub_boot_blocklist *first_block, *block;$/;"	m	struct:blocklists	typeref:struct:blocklists::	file:
+blocklists	setup.c	/^struct blocklists$/;"	s	file:
+boot_file	grub-setup.c	/^  char *boot_file;$/;"	m	struct:arguments	file:
+boot_grub	grub-mkrescue.c	/^static char *boot_grub;$/;"	v	file:
+bootdir	grub-install.c	/^static char *bootdir = NULL;$/;"	v	file:
+bootdirname	bash-completion.d/Makefile	/^bootdirname = boot$/;"	m
+bootloader_id	grub-install.c	/^static char * bootloader_id;$/;"	v	file:
+buf	grub-mount.c	/^  void *buf;$/;"	m	struct:fuse_readdir_ctx	file:
+buf	resolve.c	/^static char buf[1024];$/;"	v	file:
+buffer	garbage-gen.c	/^static unsigned long long buffer[1048576];$/;"	v	file:
+buflen	grub-mkpasswd-pbkdf2.c	/^  unsigned int buflen;$/;"	m	struct:arguments	file:
+build	bash-completion.d/Makefile	/^build = i686-pc-linux-gnu$/;"	m
+build_alias	bash-completion.d/Makefile	/^build_alias = $/;"	m
+build_cpu	bash-completion.d/Makefile	/^build_cpu = i686$/;"	m
+build_freetype_cflags	bash-completion.d/Makefile	/^build_freetype_cflags = $/;"	m
+build_freetype_libs	bash-completion.d/Makefile	/^build_freetype_libs = $/;"	m
+build_os	bash-completion.d/Makefile	/^build_os = linux-gnu$/;"	m
+build_triplet	bash-completion.d/Makefile	/^build_triplet = i686-pc-linux-gnu$/;"	m
+build_vendor	bash-completion.d/Makefile	/^build_vendor = pc$/;"	m
+builddir	bash-completion.d/Makefile	/^builddir = .$/;"	m
+cat_hook	grub-fstest.c	/^cat_hook (grub_off_t ofs, char *buf, int len, void *_arg __attribute__ ((unused)))$/;"	f	file:
+char_code	grub-mkfont.c	/^  grub_uint32_t char_code;$/;"	m	struct:grub_glyph_info	file:
+check_elf_header	grub-mkimagexx.c	/^SUFFIX (check_elf_header) (Elf_Ehdr *e, size_t size, const struct grub_install_image_target_desc *image_target)$/;"	f	file:
+check_license	grub-module-verifierXX.c	/^check_license (const struct grub_module_verifier_arch *arch, Elf_Ehdr *e)$/;"	f	file:
+check_relocations	grub-module-verifierXX.c	/^check_relocations (const struct grub_module_verifier_arch *arch, Elf_Ehdr *e)$/;"	f	file:
+check_symbols	grub-module-verifierXX.c	/^check_symbols (const struct grub_module_verifier_arch *arch,$/;"	f	file:
+check_xorriso	grub-mkrescue.c	/^check_xorriso (const char *val)$/;"	f	file:
+chksum	grub-mkstandalone.c	/^  char chksum[8];$/;"	m	struct:head	file:
+chlog	import_gcry.py	/^                chlog = "%s%s\\n" % (chlog, chlognew)$/;"	v
+chlog	import_gcry.py	/^            chlog = "%s\\n	* %s: Removed" % (chlog, cipher_file)$/;"	v
+chlog	import_gcry.py	/^        chlog = "%s%s: Removed\\n" % (chlog, chlognew)$/;"	v
+chlog	import_gcry.py	/^    chlog = "%s%sSkipped unknown file\\n" % (chlog, chlognew)$/;"	v
+chlog	import_gcry.py	/^chlog = ""$/;"	v
+chlog	import_gcry.py	/^chlog = "%s	* cipher.h: Likewise.\\n" % chlog$/;"	v
+chlog	import_gcry.py	/^chlog = "%s	* crypto.lst: New file.\\n" % chlog$/;"	v
+chlog	import_gcry.py	/^chlog = "%s	* g10lib.h: Likewise.\\n" % chlog$/;"	v
+chlog	import_gcry.py	/^chlog = "%s	* memory.h: New file.\\n" % chlog$/;"	v
+chlog	import_gcry.py	/^chlog = "%s	* types.h: New file.\\n" % chlog$/;"	v
+chlognew	import_gcry.py	/^                        chlognew = "%s %s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^                        chlognew = "%s\\n	%s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^                    chlognew = "%s %s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^                    chlognew = "%s: %s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^                    chlognew = "%s\\n	%s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^                chlognew = "%s%s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^                chlognew = "%s\\n	%s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^            chlognew = "%s\\n	%s" % (chlognew, chmsg)$/;"	v
+chlognew	import_gcry.py	/^    chlognew = "	* %s" % cipher_file$/;"	v
+chmsg	import_gcry.py	/^                    chmsg = "(%s): Removed." % fname$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "(%s): Removed declaration." % fname$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "(%s): Removed." % fname$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "(gen_k): Removed declaration."$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "(progress_cb): Removed declaration."$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "(secret): Removed declaration."$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "(test_keys): Removed declaration."$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "Register cipher %s" % ciphername$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "Register digest %s" % mdname$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "Register pk %s" % mdname$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "Removed including of %s" % m.groups ()[0]$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "Unregister MD %s" % mdname$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "Unregister cipher %s" % ciphername$/;"	v
+chmsg	import_gcry.py	/^                chmsg = "Unregister pk %s" % mdname$/;"	v
+chmsg	import_gcry.py	/^            chmsg = "(GRUB_MOD_FINI(%s)): New function\\n" % modname$/;"	v
+chmsg	import_gcry.py	/^            chmsg = "(GRUB_MOD_INIT(%s)): New function\\n" % modname$/;"	v
+cipher_dir_in	import_gcry.py	/^cipher_dir_in = os.path.join (indir, "cipher")$/;"	v
+cipher_dir_out	import_gcry.py	/^cipher_dir_out = os.path.join (basedir, "cipher")$/;"	v
+cipher_files	import_gcry.py	/^cipher_files = sorted (os.listdir (cipher_dir_in))$/;"	v
+ciphername	import_gcry.py	/^                ciphername = line [len ("gcry_cipher_spec_t"):].strip ()$/;"	v
+ciphername	import_gcry.py	/^                ciphername = re.match("[a-zA-Z0-9_]*",ciphername).group ()$/;"	v
+ciphernames	import_gcry.py	/^        ciphernames = []$/;"	v
+classify_raw_reloc	grub-mkimagexx.c	/^classify_raw_reloc (Elf_Addr info,$/;"	f	file:
+clean_grub_dir	grub-install-common.c	/^clean_grub_dir (const char *di)$/;"	f	file:
+cmd	grub-fstest.c	/^static int cmd = 0;$/;"	v	file:
+cmd_cat	grub-fstest.c	/^cmd_cat (char *src)$/;"	f	file:
+cmd_cmp	grub-fstest.c	/^cmd_cmp (char *src, char *dest)$/;"	f	file:
+cmd_cp	grub-fstest.c	/^cmd_cp (char *src, const char *dest)$/;"	f	file:
+cmd_crc	grub-fstest.c	/^cmd_crc (char *pathname)$/;"	f	file:
+cmd_hex	grub-fstest.c	/^cmd_hex (char *pathname)$/;"	f	file:
+cmp_hook	grub-fstest.c	/^cmp_hook (grub_off_t ofs, char *buf, int len, void *ff_in)$/;"	f	file:
+code1	import_unicode.py	/^    code1 = int (sp[0], 16)$/;"	v
+code2	import_unicode.py	/^    code2 = int (sp[1], 16)$/;"	v
+comp	grub-mkimage.c	/^  grub_compression_t comp;$/;"	m	struct:arguments	file:
+compress_func	grub-install-common.c	/^static int (*compress_func) (const char *src, const char *dest) = NULL;$/;"	v	file:
+compress_kernel	mkimage.c	/^compress_kernel (const struct grub_install_image_target_desc *image_target, char *kernel_img,$/;"	f	file:
+compress_kernel_lzma	mkimage.c	/^compress_kernel_lzma (char *kernel_img, size_t kernel_size,$/;"	f	file:
+compress_kernel_xz	mkimage.c	/^compress_kernel_xz (char *kernel_img, size_t kernel_size,$/;"	f	file:
+compression	grub-install-common.c	/^static grub_compression_t compression;$/;"	v	file:
+compute_checksum	grub-mkstandalone.c	/^compute_checksum (struct head *hd)$/;"	f	file:
+conf	import_gcry.py	/^conf = codecs.open (os.path.join ("grub-core", "Makefile.gcry.def"), "w", "utf-8")$/;"	v
+config	grub-install.c	/^static struct grub_util_config config;$/;"	v	typeref:struct:grub_util_config	file:
+config	grub-mkimage.c	/^  char *config;$/;"	m	struct:arguments	file:
+confutil	import_gcry.py	/^confutil = codecs.open ("Makefile.utilgcry.def", "w", "utf-8")$/;"	v
+console_grub_equivalence	grub-mklayout.c	/^struct console_grub_equivalence$/;"	s	file:
+console_grub_equivalences_common	grub-mklayout.c	/^static struct console_grub_equivalence console_grub_equivalences_common[] = {$/;"	v	typeref:struct:console_grub_equivalence	file:
+console_grub_equivalences_shift	grub-mklayout.c	/^static struct console_grub_equivalence console_grub_equivalences_shift[] = {$/;"	v	typeref:struct:console_grub_equivalence	file:
+console_grub_equivalences_unshift	grub-mklayout.c	/^static struct console_grub_equivalence console_grub_equivalences_unshift[] = {$/;"	v	typeref:struct:console_grub_equivalence	file:
+container	setup.c	/^  grub_partition_t container;$/;"	m	struct:identify_partmap_ctx	file:
+convert_pe	grub-pe2elf.c	/^convert_pe (FILE* fp, const char *name, char *image)$/;"	f	file:
+convert_system_partition_to_system_disk	getroot.c	/^convert_system_partition_to_system_disk (const char *os_dev, int *is_part)$/;"	f	file:
+copy_all	grub-install-common.c	/^copy_all (const char *srcd,$/;"	f	file:
+copy_by_ext	grub-install-common.c	/^copy_by_ext (const char *srcd,$/;"	f	file:
+copy_locales	grub-install-common.c	/^copy_locales (const char *dstd)$/;"	f	file:
+core_file	grub-setup.c	/^  char *core_file;$/;"	m	struct:arguments	file:
+count	grub-mkfont.c	/^      grub_int16_t count;$/;"	m	struct:gsub_substitution::__anon11::__anon12	file:
+count	grub-mkfont.c	/^  grub_uint16_t count;$/;"	m	struct:gsub_coverage_list	file:
+count	grub-mkfont.c	/^  grub_uint16_t count;$/;"	m	struct:gsub_coverage_ranges	file:
+count	grub-mkfont.c	/^  grub_uint16_t count;$/;"	m	struct:gsub_features	file:
+count	grub-mkfont.c	/^  grub_uint16_t count;$/;"	m	struct:gsub_lookup_list	file:
+count	grub-mkpasswd-pbkdf2.c	/^  unsigned int count;$/;"	m	struct:arguments	file:
+count_funcs	grub-mkimagexx.c	/^SUFFIX (count_funcs) (Elf_Ehdr *e, Elf_Shdr *symtab_section,$/;"	f	file:
+coverage_off	grub-mkfont.c	/^  grub_uint16_t coverage_off;$/;"	m	struct:gsub_substitution	file:
+cp_hook	grub-fstest.c	/^cp_hook (grub_off_t ofs, char *buf, int len, void *_ctx)$/;"	f	file:
+cp_hook_ctx	grub-fstest.c	/^struct cp_hook_ctx$/;"	s	file:
+cpu	grub-install-common.c	/^  const char *cpu;$/;"	m	struct:__anon1	file:
+crc_hook	grub-fstest.c	/^crc_hook (grub_off_t ofs, char *buf, int len, void *crc_ctx)$/;"	f	file:
+create_u64_fixups	grub-mkimagexx.c	/^create_u64_fixups (struct translate_context *ctx,$/;"	f	file:
+cryptolist	import_gcry.py	/^cryptolist = codecs.open (os.path.join (cipher_dir_out, "crypto.lst"), "w", "utf-8")$/;"	v
+curbiditype	import_unicode.py	/^    curbiditype = sp[4]$/;"	v
+curcode	import_unicode.py	/^    curcode = int (sp[0], 16)$/;"	v
+curcombtype	import_unicode.py	/^        curcombtype = 253$/;"	v
+curcombtype	import_unicode.py	/^        curcombtype = 254$/;"	v
+curcombtype	import_unicode.py	/^        curcombtype = 255$/;"	v
+curcombtype	import_unicode.py	/^    curcombtype = int (sp[3], 10)$/;"	v
+curjoin	import_unicode.py	/^        curjoin = "NONJOINING"$/;"	v
+curjoin	import_unicode.py	/^        curjoin = "TRANSPARENT"$/;"	v
+curjoin	import_unicode.py	/^        curjoin = joining[curcode]$/;"	v
+curmirrortype	import_unicode.py	/^    curmirrortype = (sp[9] == "Y")$/;"	v
+current_address	grub-mkimagexx.c	/^  Elf_Addr current_address;$/;"	m	struct:translate_context	file:
+current_segment	setup.c	/^  grub_uint16_t current_segment;$/;"	m	struct:blocklists	file:
+cwd	grub-syslinux2cfg.c	/^  char *cwd;$/;"	m	struct:arguments	file:
+datadir	bash-completion.d/Makefile	/^datadir = ${datarootdir}$/;"	m
+datarootdir	bash-completion.d/Makefile	/^datarootdir = \/usr\/local\/share$/;"	m
+debug_image	grub-install.c	/^static char *debug_image = NULL;$/;"	v	file:
+debug_image	grub-mknetdir.c	/^static char *debug_image = NULL;$/;"	v	file:
+debug_str	grub-fstest.c	/^static char *debug_str = NULL;$/;"	v	file:
+debug_str	grub-mount.c	/^static char *debug_str = NULL;$/;"	v	file:
+decompressors	grub-install-common.c	/^decompressors (void)$/;"	f	file:
+delta	grub-mkfont.c	/^    grub_int16_t delta;$/;"	m	union:gsub_substitution::__anon11	file:
+dep_list	resolve.c	/^struct dep_list$/;"	s	file:
+desc	grub-mkfont.c	/^  int desc;$/;"	m	struct:grub_font_info	file:
+descriptor	grub-mkimagexx.c	/^  struct grub_ieee1275_note_desc descriptor;$/;"	m	struct:grub_ieee1275_note	typeref:struct:grub_ieee1275_note::grub_ieee1275_note_desc	file:
+dest	grub-fstest.c	/^  const char *dest;$/;"	m	struct:cp_hook_ctx	file:
+dest_partmap	setup.c	/^  grub_partition_map_t dest_partmap;$/;"	m	struct:identify_partmap_ctx	file:
+dev	grub-mount.c	/^grub_device_t dev = NULL;$/;"	v
+dev_map	grub-probe.c	/^  char *dev_map;$/;"	m	struct:arguments	file:
+dev_map	grub-setup.c	/^  char *dev_map;$/;"	m	struct:arguments	file:
+device	grub-setup.c	/^  char *device;$/;"	m	struct:arguments	file:
+device_map_check_duplicates	grub-install.c	/^device_map_check_duplicates (const char *dev_map)$/;"	f	file:
+device_max	grub-probe.c	/^  size_t device_max;$/;"	m	struct:arguments	file:
+device_width	grub-gen-asciih.c	/^  int device_width;$/;"	m	struct:grub_glyph_info	file:
+device_width	grub-mkfont.c	/^  int device_width;$/;"	m	struct:grub_glyph_info	file:
+devices	grub-probe.c	/^  char **devices;$/;"	m	struct:arguments	file:
+devmajor	grub-mkstandalone.c	/^  char devmajor[8];$/;"	m	struct:head	file:
+devminor	grub-mkstandalone.c	/^  char devminor[8];$/;"	m	struct:head	file:
+dir	grub-mkimage.c	/^  char *dir;$/;"	m	struct:arguments	file:
+dir	grub-setup.c	/^  char *dir;$/;"	m	struct:arguments	file:
+disk_module	grub-install.c	/^static char *disk_module = NULL;$/;"	v	file:
+do_print	grub-probe.c	/^do_print (const char *x, void *data)$/;"	f	file:
+docdir	bash-completion.d/Makefile	/^docdir = ${datarootdir}\/doc\/${PACKAGE_TARNAME}$/;"	m
+dt	import_gcry.py	/^dt = datetime.date.today ()$/;"	v
+dvidir	bash-completion.d/Makefile	/^dvidir = ${docdir}$/;"	m
+efidir	grub-install.c	/^static char *efidir = NULL;$/;"	v	file:
+ehdr	grub-pe2elf.c	/^static Elf_Ehdr ehdr;$/;"	v	file:
+elf_reloc_t	grub-pe2elf.c	/^typedef Elf32_Rel elf_reloc_t;$/;"	t	file:
+elf_reloc_t	grub-pe2elf.c	/^typedef Elf64_Rela elf_reloc_t;$/;"	t	file:
+enable_efiemu	bash-completion.d/Makefile	/^enable_efiemu = yes$/;"	m
+enable_grub_emu_pci	bash-completion.d/Makefile	/^enable_grub_emu_pci = no$/;"	m
+enable_grub_emu_sdl	bash-completion.d/Makefile	/^enable_grub_emu_sdl = no$/;"	m
+enable_grub_mkfont	bash-completion.d/Makefile	/^enable_grub_mkfont = no$/;"	m
+enable_grub_mount	bash-completion.d/Makefile	/^enable_grub_mount = no$/;"	m
+end	grub-mkfont.c	/^    grub_uint16_t end;$/;"	m	struct:gsub_coverage_ranges::__anon13	file:
+entries	grub-install-common.c	/^  char **entries;$/;"	m	struct:install_list	file:
+escape	grub-install.c	/^escape (const char *in)$/;"	f	file:
+escape_of_path	probe.c	/^escape_of_path (const char *orig_path)$/;"	f	file:
+exec_prefix	bash-completion.d/Makefile	/^exec_prefix = \/usr\/local$/;"	m
+execute_command	grub-fstest.c	/^execute_command (const char *name, int n, char **args)$/;"	f	file:
+execute_command	grub-mount.c	/^execute_command (const char *name, int n, char **args)$/;"	f	file:
+ext	grub-mknetdir.c	/^  const char *ext;$/;"	m	struct:__anon6	file:
+f	import_gcry.py	/^        f = codecs.open (infile, "r", "utf-8")$/;"	v
+f	import_gcry.py	/^    f = codecs.open (infile, "r", "utf-8")$/;"	v
+f	import_gcry.py	/^f=codecs.open (infile, "r", "utf-8")$/;"	v
+f1	spkmodem-recv.c	/^static int pos, f1, f2;$/;"	v	file:
+f2	spkmodem-recv.c	/^static int pos, f1, f2;$/;"	v	file:
+feature_tag	grub-mkfont.c	/^    grub_uint32_t feature_tag;$/;"	m	struct:gsub_features::__anon10	file:
+features	grub-mkfont.c	/^  } GRUB_PACKED features[0];$/;"	m	struct:gsub_features	typeref:struct:gsub_features::__anon10	file:
+features_off	grub-mkfont.c	/^  grub_uint16_t features_off;$/;"	m	struct:gsub_header	file:
+ff	grub-fstest.c	/^  FILE *ff;$/;"	m	struct:cp_hook_ctx	file:
+fgcolor	grub-render-label.c	/^  char *fgcolor;$/;"	m	struct:arguments	file:
+file	grub-script-check.c	/^  FILE *file;$/;"	m	struct:main_ctx	file:
+file_exists	grub-mount.c	/^  int file_exists;$/;"	m	struct:fuse_getattr_ctx	file:
+file_format	grub-mkfont.c	/^  enum file_formats file_format;$/;"	m	struct:arguments	typeref:enum:arguments::file_formats	file:
+file_formats	grub-mkfont.c	/^enum file_formats$/;"	g	file:
+file_info	grub-mount.c	/^  struct grub_dirhook_info file_info;$/;"	m	struct:fuse_getattr_ctx	typeref:struct:fuse_getattr_ctx::grub_dirhook_info	file:
+filename	grub-mount.c	/^  char *filename;$/;"	m	struct:fuse_getattr_ctx	file:
+filename	grub-script-check.c	/^  char *filename;$/;"	m	struct:arguments	file:
+files	grub-mkfont.c	/^  char **files;$/;"	m	struct:arguments	file:
+files	grub-mkstandalone.c	/^static char **files;$/;"	v	file:
+files	grub-mount.c	/^static grub_file_t files[65536];$/;"	v	file:
+files_max	grub-mkfont.c	/^  size_t files_max;$/;"	m	struct:arguments	file:
+fill	grub-mount.c	/^  fuse_fill_dir_t fill;$/;"	m	struct:fuse_readdir_ctx	file:
+fill_core_services	grub-install.c	/^fill_core_services (const char *core_services)$/;"	f	file:
+find_partition	getroot.c	/^find_partition (grub_disk_t dsk __attribute__ ((unused)),$/;"	f	file:
+find_section	grub-module-verifierXX.c	/^find_section (const struct grub_module_verifier_arch *arch, Elf_Ehdr *e, const char *name)$/;"	f	file:
+find_system_device	getroot.c	/^find_system_device (const char *os_dev)$/;"	f	file:
+fini_libzfs	getroot.c	/^fini_libzfs (void)$/;"	f	file:
+finish_reloc_translation	grub-mkimagexx.c	/^finish_reloc_translation (struct translate_context *ctx, struct grub_mkimage_layout *layout,$/;"	f	file:
+finish_reloc_translation_pe	grub-mkimagexx.c	/^finish_reloc_translation_pe (struct translate_context *ctx, struct grub_mkimage_layout *layout,$/;"	f	file:
+finish_reloc_translation_raw	grub-mkimagexx.c	/^finish_reloc_translation_raw (struct translate_context *ctx, struct grub_mkimage_layout *layout,$/;"	f	file:
+first_block	setup.c	/^  struct grub_boot_blocklist *first_block, *block;$/;"	m	struct:blocklists	typeref:struct:blocklists::grub_boot_blocklist	file:
+first_fd	grub-mount.c	/^static int first_fd = 1;$/;"	v	file:
+first_reloc_section	grub-pe2elf.c	/^static int num_sections, first_reloc_section, reloc_sections_end, symtab_section, strtab_section;$/;"	v	file:
+first_sector	setup.c	/^  grub_disk_addr_t first_sector;$/;"	m	struct:blocklists	file:
+fixup_block_list	grub-mkimagexx.c	/^struct fixup_block_list$/;"	s	file:
+flag	grub-mkfont.c	/^  grub_uint16_t flag;$/;"	m	struct:gsub_lookup	file:
+flags	grub-mkfont.c	/^  int flags;$/;"	m	struct:grub_font_info	file:
+flav	grub-syslinux2cfg.c	/^  grub_syslinux_flavour_t flav;$/;"	m	struct:arguments	file:
+fname	import_gcry.py	/^                    fname = re.match ("[a-zA-Z0-9_]*", line).group ()$/;"	v
+fname	import_gcry.py	/^                fname = line[len ("cipher_extra_spec_t "):]$/;"	v
+fname	import_gcry.py	/^                fname = line[len ("md_extra_spec_t "):]$/;"	v
+fname	import_gcry.py	/^                fname = line[len ("pk_extra_spec_t "):]$/;"	v
+fname	import_gcry.py	/^                fname = line[len ("static const char \\*"):]$/;"	v
+fname	import_gcry.py	/^                fname = m.groups ()[1]$/;"	v
+fname	import_gcry.py	/^                fname = re.match ("[a-zA-Z0-9_]*", fname).group ()$/;"	v
+font	grub-mkimage.c	/^  char *font;$/;"	m	struct:arguments	file:
+font	grub-render-label.c	/^  char *font;$/;"	m	struct:arguments	file:
+font_index	grub-mkfont.c	/^  int font_index;$/;"	m	struct:arguments	file:
+font_info	grub-mkfont.c	/^  struct grub_font_info font_info;$/;"	m	struct:arguments	typeref:struct:arguments::grub_font_info	file:
+font_size	grub-mkfont.c	/^  int font_size;$/;"	m	struct:arguments	file:
+font_verbosity	grub-mkfont.c	/^static int font_verbosity;$/;"	v	file:
+force	grub-install.c	/^static int force = 0;$/;"	v	file:
+force	grub-setup.c	/^  int  force;$/;"	m	struct:arguments	file:
+force_file_id	grub-install.c	/^static int force_file_id = 0;$/;"	v	file:
+form	import_unicode.py	/^            form = 1$/;"	v
+form	import_unicode.py	/^            form = 2$/;"	v
+form	import_unicode.py	/^            form = 3$/;"	v
+form	import_unicode.py	/^            form = 4$/;"	v
+form	import_unicode.py	/^        form = 0$/;"	v
+format	grub-mkstandalone.c	/^const struct grub_install_image_target_desc *format;$/;"	v	typeref:struct:grub_install_image_target_desc
+free_dep_list	resolve.c	/^free_dep_list (struct dep_list *head)$/;"	f	file:
+free_mod_list	resolve.c	/^free_mod_list (struct mod_list *head)$/;"	f	file:
+freetype_cflags	bash-completion.d/Makefile	/^freetype_cflags = $/;"	m
+freetype_libs	bash-completion.d/Makefile	/^freetype_libs = $/;"	m
+from	grub-mkfont.c	/^  grub_uint32_t from, to;$/;"	m	struct:glyph_replace	file:
+fs	grub-mount.c	/^grub_fs_t fs = NULL;$/;"	v
+fs_probe	grub-install.c	/^static int fs_probe = 1;$/;"	v	file:
+fs_probe	grub-setup.c	/^  int  fs_probe;$/;"	m	struct:arguments	file:
+fstest	grub-fstest.c	/^fstest (int n)$/;"	f	file:
+fuse_argc	grub-mount.c	/^static int fuse_argc = 0;$/;"	v	file:
+fuse_args	grub-mount.c	/^static char **fuse_args = NULL;$/;"	v	file:
+fuse_getattr	grub-mount.c	/^fuse_getattr (const char *path, struct stat *st)$/;"	f	file:
+fuse_getattr_ctx	grub-mount.c	/^struct fuse_getattr_ctx$/;"	s	file:
+fuse_getattr_find_file	grub-mount.c	/^fuse_getattr_find_file (const char *cur_filename,$/;"	f	file:
+fuse_init	grub-mount.c	/^fuse_init (void)$/;"	f	file:
+fuse_open	grub-mount.c	/^fuse_open (const char *path, struct fuse_file_info *fi __attribute__ ((unused)))$/;"	f	file:
+fuse_opendir	grub-mount.c	/^fuse_opendir (const char *path, struct fuse_file_info *fi) $/;"	f	file:
+fuse_read	grub-mount.c	/^fuse_read (const char *path, char *buf, size_t sz, off_t off,$/;"	f	file:
+fuse_readdir	grub-mount.c	/^fuse_readdir (const char *path, void *buf,$/;"	f	file:
+fuse_readdir_call_fill	grub-mount.c	/^fuse_readdir_call_fill (const char *filename,$/;"	f	file:
+fuse_readdir_ctx	grub-mount.c	/^struct fuse_readdir_ctx$/;"	s	file:
+fuse_release	grub-mount.c	/^fuse_release (const char *path, struct fuse_file_info *fi)$/;"	f	file:
+fw	import_gcry.py	/^        fw = codecs.open (outfile, "w", "utf-8")$/;"	v
+fw	import_gcry.py	/^    fw = codecs.open (outfile, "w", "utf-8")$/;"	v
+fw	import_gcry.py	/^fw=codecs.open (outfile, "w", "utf-8")$/;"	v
+g_Alloc	mkimage.c	/^static ISzAlloc g_Alloc = { SzAlloc, SzFree };$/;"	v	file:
+get_config_line	grub-script-check.c	/^get_config_line (char **line, int cont __attribute__ ((unused)), void *data)$/;"	f	file:
+get_default_platform	grub-install.c	/^get_default_platform (void)$/;"	f	file:
+get_device_name	grub-setup.c	/^get_device_name (char *dev)$/;"	f	file:
+get_grub_code	grub-mklayout.c	/^get_grub_code (char *layout_code, int shift)$/;"	f	file:
+get_localedir	grub-install-common.c	/^get_localedir (void)$/;"	f	file:
+get_module_name	resolve.c	/^get_module_name (const char *str)$/;"	f	file:
+get_module_path	resolve.c	/^get_module_path (const char *prefix, const char *str)$/;"	f	file:
+get_rndstr	grub-install.c	/^get_rndstr (void)$/;"	f	file:
+get_symbol_address	grub-mkimagexx.c	/^SUFFIX (get_symbol_address) (Elf_Ehdr *e, Elf_Shdr *s, Elf_Word i,$/;"	f	file:
+get_symtab	grub-module-verifierXX.c	/^get_symtab (const struct grub_module_verifier_arch *arch, Elf_Ehdr *e, Elf_Word *size, Elf_Word *entsize)$/;"	f	file:
+get_target_address	grub-mkimagexx.c	/^SUFFIX (get_target_address) (Elf_Ehdr *e, Elf_Shdr *s, Elf_Addr offset,$/;"	f	file:
+get_targets_string	grub-probe.c	/^get_targets_string (void)$/;"	f	file:
+gid	grub-mkstandalone.c	/^  char gid[8];$/;"	m	struct:head	file:
+gl_LIBOBJS	bash-completion.d/Makefile	/^gl_LIBOBJS =  asnprintf.o getopt.o getopt1.o printf-args.o printf-parse.o regex.o vasnprintf.o$/;"	m
+gl_LTLIBOBJS	bash-completion.d/Makefile	/^gl_LTLIBOBJS =  asnprintf.lo getopt.lo getopt1.lo printf-args.lo printf-parse.lo regex.lo vasnprintf.lo$/;"	m
+gltests_LIBOBJS	bash-completion.d/Makefile	/^gltests_LIBOBJS = $/;"	m
+gltests_LTLIBOBJS	bash-completion.d/Makefile	/^gltests_LTLIBOBJS = $/;"	m
+gltests_WITNESS	bash-completion.d/Makefile	/^gltests_WITNESS = IN_GRUB_GNULIB_TESTS$/;"	m
+glyph_replace	grub-mkfont.c	/^struct glyph_replace$/;"	s	file:
+glyphs	grub-mkfont.c	/^  grub_uint16_t glyphs[0];$/;"	m	struct:gsub_coverage_list	file:
+glyphs_sorted	grub-mkfont.c	/^  struct grub_glyph_info *glyphs_sorted;$/;"	m	struct:grub_font_info	typeref:struct:grub_font_info::grub_glyph_info	file:
+glyphs_unsorted	grub-mkfont.c	/^  struct grub_glyph_info *glyphs_unsorted;$/;"	m	struct:grub_font_info	typeref:struct:grub_font_info::grub_glyph_info	file:
+gname	grub-mkstandalone.c	/^  char gname[32];$/;"	m	struct:head	file:
+grub	grub-mklayout.c	/^  grub_uint32_t grub;$/;"	m	struct:console_grub_equivalence	file:
+grub_arm_reloc_jump24	grub-mkimagexx.c	/^grub_arm_reloc_jump24 (grub_uint32_t *target, Elf32_Addr sym_addr)$/;"	f	file:
+grub_arm_reloc_thm_call	grub-mkimagexx.c	/^grub_arm_reloc_thm_call (grub_uint16_t *target, Elf32_Addr sym_addr)$/;"	f	file:
+grub_arm_reloc_thm_jump19	grub-mkimagexx.c	/^grub_arm_reloc_thm_jump19 (grub_uint16_t *target, Elf32_Addr sym_addr)$/;"	f	file:
+grub_bios_setup	bash-completion.d/Makefile	/^grub_bios_setup = grub-bios-setup$/;"	m
+grub_dl_ref	misc.c	/^grub_dl_ref (grub_dl_t mod)$/;"	f
+grub_dl_unref	misc.c	/^grub_dl_unref (grub_dl_t mod)$/;"	f
+grub_editenv	bash-completion.d/Makefile	/^grub_editenv = grub-editenv$/;"	m
+grub_err_printf	misc.c	/^grub_err_printf (const char *fmt, ...)$/;"	f
+grub_file	bash-completion.d/Makefile	/^grub_file = grub-file$/;"	m
+grub_font_info	grub-mkfont.c	/^struct grub_font_info$/;"	s	file:
+grub_get_libzfs_handle	getroot.c	/^grub_get_libzfs_handle (void)$/;"	f
+grub_getkey	misc.c	/^grub_getkey (void)$/;"	f
+grub_glue_efi	bash-completion.d/Makefile	/^grub_glue_efi = grub-glue-efi$/;"	m
+grub_glyph_info	grub-gen-asciih.c	/^struct grub_glyph_info$/;"	s	file:
+grub_glyph_info	grub-mkfont.c	/^struct grub_glyph_info$/;"	s	file:
+grub_host_to_target16	grub-module-verifierXX.c	53;"	d	file:
+grub_host_to_target16	setup.c	85;"	d	file:
+grub_host_to_target16	setup.c	92;"	d	file:
+grub_host_to_target16_real	grub-module-verifierXX.c	/^grub_host_to_target16_real (const struct grub_module_verifier_arch *arch,$/;"	f	file:
+grub_host_to_target32	grub-module-verifierXX.c	48;"	d	file:
+grub_host_to_target32	setup.c	86;"	d	file:
+grub_host_to_target32	setup.c	93;"	d	file:
+grub_host_to_target32_real	grub-module-verifierXX.c	/^grub_host_to_target32_real (const struct grub_module_verifier_arch *arch,$/;"	f	file:
+grub_host_to_target64	grub-module-verifierXX.c	50;"	d	file:
+grub_host_to_target64	setup.c	87;"	d	file:
+grub_host_to_target64	setup.c	94;"	d	file:
+grub_host_to_target64_real	grub-module-verifierXX.c	/^grub_host_to_target64_real (const struct grub_module_verifier_arch *arch,$/;"	f	file:
+grub_host_to_target_addr	grub-module-verifierXX.c	51;"	d	file:
+grub_host_to_target_addr_real	grub-module-verifierXX.c	/^grub_host_to_target_addr_real (const struct grub_module_verifier_arch *arch, grub_uint64_t in)$/;"	f	file:
+grub_ieee1275_note	grub-mkimagexx.c	/^struct grub_ieee1275_note$/;"	s	file:
+grub_ieee1275_note_desc	grub-mkimagexx.c	/^struct grub_ieee1275_note_desc$/;"	s	file:
+grub_install	bash-completion.d/Makefile	/^grub_install = grub-install$/;"	m
+grub_install_compress_file	grub-install-common.c	/^grub_install_compress_file (const char *in_name,$/;"	f	file:
+grub_install_copy_buffer	grub-install-common.c	/^char *grub_install_copy_buffer;$/;"	v
+grub_install_copy_file	grub-install-common.c	/^grub_install_copy_file (const char *src,$/;"	f
+grub_install_copy_files	grub-install-common.c	/^grub_install_copy_files (const char *src,$/;"	f
+grub_install_generate_image	mkimage.c	/^grub_install_generate_image (const char *dir, const char *prefix,$/;"	f
+grub_install_get_image_target	mkimage.c	/^grub_install_get_image_target (const char *arg)$/;"	f
+grub_install_get_image_targets_string	mkimage.c	/^grub_install_get_image_targets_string (void)$/;"	f
+grub_install_get_platform_cpu	grub-install-common.c	/^grub_install_get_platform_cpu (enum grub_install_plat platid)$/;"	f
+grub_install_get_platform_name	grub-install-common.c	/^grub_install_get_platform_name (enum grub_install_plat platid)$/;"	f
+grub_install_get_platform_platform	grub-install-common.c	/^grub_install_get_platform_platform (enum grub_install_plat platid)$/;"	f
+grub_install_get_platforms_string	grub-install-common.c	/^grub_install_get_platforms_string (void)$/;"	f
+grub_install_get_target	grub-install-common.c	/^grub_install_get_target (const char *src)$/;"	f
+grub_install_help_filter	grub-install-common.c	/^grub_install_help_filter (int key, const char *text,$/;"	f
+grub_install_locale_directory	grub-install-common.c	/^char *grub_install_locale_directory = NULL;$/;"	v
+grub_install_make_image_wrap	grub-install-common.c	/^grub_install_make_image_wrap (const char *dir, const char *prefix,$/;"	f
+grub_install_make_image_wrap_file	grub-install-common.c	/^grub_install_make_image_wrap_file (const char *dir, const char *prefix,$/;"	f
+grub_install_mkdir_p	grub-install-common.c	/^grub_install_mkdir_p (const char *dst)$/;"	f
+grub_install_parse	grub-install-common.c	/^grub_install_parse (int key, char *arg)$/;"	f
+grub_install_pop_module	grub-install-common.c	/^grub_install_pop_module (void)$/;"	f
+grub_install_push_module	grub-install-common.c	/^grub_install_push_module (const char *val)$/;"	f
+grub_install_source_directory	grub-install-common.c	/^char *grub_install_source_directory = NULL;$/;"	v
+grub_install_themes_directory	grub-install-common.c	/^char *grub_install_themes_directory = NULL;$/;"	v
+grub_mkconfig	bash-completion.d/Makefile	/^grub_mkconfig = grub-mkconfig$/;"	m
+grub_mkfont	bash-completion.d/Makefile	/^grub_mkfont = grub-mkfont$/;"	m
+grub_mkimage	bash-completion.d/Makefile	/^grub_mkimage = grub-mkimage$/;"	m
+grub_mkimage_generate_elf	grub-mkimagexx.c	/^SUFFIX (grub_mkimage_generate_elf) (const struct grub_install_image_target_desc *image_target,$/;"	f
+grub_mkimage_load_image	grub-mkimagexx.c	/^SUFFIX (grub_mkimage_load_image) (const char *kernel_path,$/;"	f
+grub_mklayout	bash-completion.d/Makefile	/^grub_mklayout = grub-mklayout$/;"	m
+grub_mkpasswd_pbkdf2	bash-completion.d/Makefile	/^grub_mkpasswd_pbkdf2 = grub-mkpasswd-pbkdf2$/;"	m
+grub_mkrelpath	bash-completion.d/Makefile	/^grub_mkrelpath = grub-mkrelpath$/;"	m
+grub_mkrescue	bash-completion.d/Makefile	/^grub_mkrescue = grub-mkrescue$/;"	m
+grub_mm_init_region	misc.c	/^grub_mm_init_region (void *addr __attribute__ ((unused)),$/;"	f
+grub_module_verify	grub-module-verifierXX.c	/^SUFFIX(grub_module_verify) (void *module_img, size_t size,$/;"	f
+grub_opers	grub-mount.c	/^struct fuse_operations grub_opers = {$/;"	v	typeref:struct:fuse_operations
+grub_probe	bash-completion.d/Makefile	/^grub_probe = grub-probe$/;"	m
+grub_qsort_strcmp	misc.c	/^grub_qsort_strcmp (const void *p1, const void *p2)$/;"	f
+grub_reboot	bash-completion.d/Makefile	/^grub_reboot = grub-reboot$/;"	m
+grub_refresh	misc.c	/^grub_refresh (void)$/;"	f
+grub_register_exported_symbols	misc.c	/^grub_register_exported_symbols (void)$/;"	f
+grub_render_label	bash-completion.d/Makefile	/^grub_render_label = grub-render-label$/;"	m
+grub_script_check	bash-completion.d/Makefile	/^grub_script_check = grub-script-check$/;"	m
+grub_script_execute	misc.c	/^grub_script_execute (struct grub_script *script)$/;"	f
+grub_script_execute_cmdfor	misc.c	/^grub_script_execute_cmdfor (struct grub_script_cmd *cmd __attribute__ ((unused)))$/;"	f
+grub_script_execute_cmdif	misc.c	/^grub_script_execute_cmdif (struct grub_script_cmd *cmd __attribute__ ((unused)))$/;"	f
+grub_script_execute_cmdline	misc.c	/^grub_script_execute_cmdline (struct grub_script_cmd *cmd __attribute__ ((unused)))$/;"	f
+grub_script_execute_cmdlist	misc.c	/^grub_script_execute_cmdlist (struct grub_script_cmd *cmd __attribute__ ((unused)))$/;"	f
+grub_script_execute_cmdwhile	misc.c	/^grub_script_execute_cmdwhile (struct grub_script_cmd *cmd __attribute__ ((unused)))$/;"	f
+grub_set_default	bash-completion.d/Makefile	/^grub_set_default = grub-set-default$/;"	m
+grub_sparc64_setup	bash-completion.d/Makefile	/^grub_sparc64_setup = grub-sparc64-setup$/;"	m
+grub_target_to_host	grub-module-verifierXX.c	54;"	d	file:
+grub_target_to_host16	grub-module-verifierXX.c	52;"	d	file:
+grub_target_to_host16	setup.c	82;"	d	file:
+grub_target_to_host16	setup.c	89;"	d	file:
+grub_target_to_host16_real	grub-module-verifierXX.c	/^grub_target_to_host16_real (const struct grub_module_verifier_arch *arch,$/;"	f	file:
+grub_target_to_host32	grub-module-verifierXX.c	47;"	d	file:
+grub_target_to_host32	setup.c	83;"	d	file:
+grub_target_to_host32	setup.c	90;"	d	file:
+grub_target_to_host32_real	grub-module-verifierXX.c	/^grub_target_to_host32_real (const struct grub_module_verifier_arch *arch,$/;"	f	file:
+grub_target_to_host64	grub-module-verifierXX.c	49;"	d	file:
+grub_target_to_host64	setup.c	84;"	d	file:
+grub_target_to_host64	setup.c	91;"	d	file:
+grub_target_to_host64_real	grub-module-verifierXX.c	/^grub_target_to_host64_real (const struct grub_module_verifier_arch *arch,$/;"	f	file:
+grub_target_to_host_real	grub-module-verifierXX.c	/^grub_target_to_host_real (const struct grub_module_verifier_arch *arch, grub_uint64_t in)$/;"	f	file:
+grub_util_biosdisk_get_grub_dev	getroot.c	/^grub_util_biosdisk_get_grub_dev (const char *os_dev)$/;"	f
+grub_util_biosdisk_get_grub_dev_ctx	getroot.c	/^struct grub_util_biosdisk_get_grub_dev_ctx$/;"	s	file:
+grub_util_biosdisk_is_present	getroot.c	/^grub_util_biosdisk_is_present (const char *os_dev)$/;"	f
+grub_util_create_envblk_file	editenv.c	/^grub_util_create_envblk_file (const char *name)$/;"	f
+grub_util_find_partition_start	getroot.c	/^grub_util_find_partition_start (const char *dev)$/;"	f
+grub_util_fopen	grub-mkfont.c	63;"	d	file:
+grub_util_fprint_full_disk_name	probe.c	/^grub_util_fprint_full_disk_name (FILE *f,$/;"	f
+grub_util_free_path_list	resolve.c	/^grub_util_free_path_list (struct grub_util_path_list *path_list)$/;"	f
+grub_util_get_dev_abstraction	getroot.c	/^grub_util_get_dev_abstraction (const char *os_dev)$/;"	f
+grub_util_get_grub_dev	getroot.c	/^grub_util_get_grub_dev (const char *os_dev)$/;"	f
+grub_util_get_os_disk	getroot.c	/^grub_util_get_os_disk (const char *os_dev)$/;"	f
+grub_util_get_path	misc.c	/^grub_util_get_path (const char *dir, const char *file)$/;"	f
+grub_util_get_target_dirname	mkimage.c	/^grub_util_get_target_dirname (const struct grub_install_image_target_desc *t)$/;"	f
+grub_util_get_target_name	mkimage.c	/^grub_util_get_target_name (const struct grub_install_image_target_desc *t)$/;"	f
+grub_util_glue_efi	glue-efi.c	/^grub_util_glue_efi (const char *file32, const char *file64, const char *outname)$/;"	f
+grub_util_guess_baremetal_drive	probe.c	/^grub_util_guess_baremetal_drive (const char *orig_path)$/;"	f
+grub_util_guess_bios_drive	probe.c	/^grub_util_guess_bios_drive (const char *orig_path)$/;"	f
+grub_util_guess_efi_drive	probe.c	/^grub_util_guess_efi_drive (const char *orig_path)$/;"	f
+grub_util_parse_config	config.c	/^grub_util_parse_config (FILE *f, struct grub_util_config *cfg, int simple)$/;"	f
+grub_util_pull_device	getroot.c	/^grub_util_pull_device (const char *os_dev)$/;"	f
+grub_util_read_image	misc.c	/^grub_util_read_image (const char *path)$/;"	f
+grub_util_render_label	render-label.c	/^grub_util_render_label (const char *label_font,$/;"	f
+grub_util_resolve_dependencies	resolve.c	/^grub_util_resolve_dependencies (const char *prefix,$/;"	f
+grub_util_unlink_recursive	grub-install-common.c	/^grub_util_unlink_recursive (const char *name)$/;"	f
+grub_util_write_image	misc.c	/^grub_util_write_image (const char *img, size_t size, FILE *out,$/;"	f
+grub_util_write_image_at	misc.c	/^grub_util_write_image_at (const void *img, size_t size, off_t offset, FILE *out,$/;"	f
+grub_xputs	misc.c	/^void (*grub_xputs) (const char *str) = grub_xputs_real;$/;"	v
+grub_xputs_real	misc.c	/^grub_xputs_real (const char *str)$/;"	f	file:
+grubdirname	bash-completion.d/Makefile	/^grubdirname = grub$/;"	m
+gsub_coverage_list	grub-mkfont.c	/^struct gsub_coverage_list$/;"	s	file:
+gsub_coverage_ranges	grub-mkfont.c	/^struct gsub_coverage_ranges$/;"	s	file:
+gsub_feature	grub-mkfont.c	/^struct gsub_feature$/;"	s	file:
+gsub_features	grub-mkfont.c	/^struct gsub_features$/;"	s	file:
+gsub_header	grub-mkfont.c	/^struct gsub_header$/;"	s	file:
+gsub_lookup	grub-mkfont.c	/^struct gsub_lookup$/;"	s	file:
+gsub_lookup_list	grub-mkfont.c	/^struct gsub_lookup_list$/;"	s	file:
+gsub_substitution	grub-mkfont.c	/^struct gsub_substitution$/;"	s	file:
+handle_install_list	grub-install-common.c	/^handle_install_list (struct install_list *il, const char *val,$/;"	f	file:
+has_argument	grub-mkfont.c	/^has_argument (int v)$/;"	f	file:
+have_abstractions	grub-install.c	/^static int have_abstractions = 0;$/;"	v	file:
+have_bootdev	grub-install.c	/^have_bootdev (enum grub_install_plat pl)$/;"	f	file:
+have_cryptodisk	grub-install.c	/^static int have_cryptodisk = 0;$/;"	v	file:
+have_load_cfg	grub-install.c	/^static int have_load_cfg = 0;$/;"	v	file:
+head	grub-mkstandalone.c	/^struct head$/;"	s	file:
+header	grub-mkimagexx.c	/^  Elf32_Nhdr header;$/;"	m	struct:grub_ieee1275_note	file:
+header	render-label.c	/^struct header$/;"	s	file:
+height	grub-gen-asciih.c	/^  int height;$/;"	m	struct:grub_glyph_info	file:
+height	grub-mkfont.c	/^  int height;$/;"	m	struct:grub_glyph_info	file:
+height	render-label.c	/^  grub_uint16_t height;$/;"	m	struct:header	file:
+help_filter	grub-editenv.c	/^help_filter (int key, const char *text, void *input __attribute__ ((unused)))$/;"	f	file:
+help_filter	grub-install.c	/^help_filter (int key, const char *text, void *input __attribute__ ((unused)))$/;"	f	file:
+help_filter	grub-mkimage.c	/^help_filter (int key, const char *text, void *input __attribute__ ((unused)))$/;"	f	file:
+help_filter	grub-mkrescue.c	/^help_filter (int key, const char *text, void *input __attribute__ ((unused)))$/;"	f	file:
+help_filter	grub-mkstandalone.c	/^help_filter (int key, const char *text, void *input __attribute__ ((unused)))$/;"	f	file:
+help_filter	grub-probe.c	/^help_filter (int key, const char *text, void *input __attribute__ ((unused)))$/;"	f	file:
+help_filter	grub-setup.c	/^help_filter (int key, const char *text, void *input __attribute__ ((unused)))$/;"	f	file:
+hex_hook	grub-fstest.c	/^hex_hook (grub_off_t ofs, char *buf, int len, void *arg __attribute__ ((unused)))$/;"	f	file:
+hexify	grub-mkpasswd-pbkdf2.c	/^hexify (char *hex, grub_uint8_t *bin, grub_size_t n)$/;"	f	file:
+hold	import_gcry.py	/^                hold = False$/;"	v
+hold	import_gcry.py	/^                hold = True$/;"	v
+hold	import_gcry.py	/^            hold = False$/;"	v
+hold	import_gcry.py	/^            hold = True$/;"	v
+hold	import_gcry.py	/^        hold = False$/;"	v
+hold	import_gcry.py	/^    hold = False$/;"	v
+holdline	import_gcry.py	/^                holdline = line$/;"	v
+holdline	import_gcry.py	/^            holdline = line$/;"	v
+host	bash-completion.d/Makefile	/^host = i686-pc-linux-gnu$/;"	m
+host_alias	bash-completion.d/Makefile	/^host_alias = $/;"	m
+host_cpu	bash-completion.d/Makefile	/^host_cpu = i686$/;"	m
+host_kernel	bash-completion.d/Makefile	/^host_kernel = linux$/;"	m
+host_os	bash-completion.d/Makefile	/^host_os = linux-gnu$/;"	m
+host_triplet	bash-completion.d/Makefile	/^host_triplet = i686-pc-linux-gnu$/;"	m
+host_vendor	bash-completion.d/Makefile	/^host_vendor = pc$/;"	m
+htmldir	bash-completion.d/Makefile	/^htmldir = ${docdir}$/;"	m
+identify_partmap	setup.c	/^identify_partmap (grub_disk_t disk __attribute__ ((unused)),$/;"	f	file:
+identify_partmap_ctx	setup.c	/^struct identify_partmap_ctx$/;"	s	file:
+ieee1275_palette	render-label.c	/^static struct grub_video_palette_data ieee1275_palette[256];$/;"	v	typeref:struct:grub_video_palette_data	file:
+image_base	grub-pe2elf.c	/^static grub_uint32_t offset, image_base;$/;"	v	file:
+image_target	grub-mkimage.c	/^  const struct grub_install_image_target_desc *image_target;$/;"	m	struct:arguments	typeref:struct:arguments::grub_install_image_target_desc	file:
+image_targets	mkimage.c	/^static const struct grub_install_image_target_desc image_targets[] =$/;"	v	typeref:struct:grub_install_image_target_desc	file:
+images	grub-fstest.c	/^static char **images = NULL;$/;"	v	file:
+images	grub-mount.c	/^static char **images = NULL;$/;"	v	file:
+includedir	bash-completion.d/Makefile	/^includedir = ${prefix}\/include$/;"	m
+indir	import_gcry.py	/^indir = sys.argv[1]$/;"	v
+infile	import_gcry.py	/^    infile = os.path.join (cipher_dir_in, cipher_file)$/;"	v
+infile	import_gcry.py	/^    infile = os.path.join (indir, "mpi", src)$/;"	v
+infile	import_gcry.py	/^    infile = os.path.join (indir, "src", src)$/;"	v
+infile	import_gcry.py	/^infile = os.path.join (cipher_dir_in, "ChangeLog")$/;"	v
+infile	import_unicode.py	/^infile = open (sys.argv[1], "r")$/;"	v
+infile	import_unicode.py	/^infile = open (sys.argv[2], "r")$/;"	v
+infile	import_unicode.py	/^infile = open (sys.argv[3], "r")$/;"	v
+infodir	bash-completion.d/Makefile	/^infodir = ${datarootdir}\/info$/;"	m
+initfile	import_gcry.py	/^initfile = codecs.open (os.path.join (cipher_dir_out, "init.c"), "w", "utf-8")$/;"	v
+input	grub-mkfont.c	/^  void *input;$/;"	m	struct:my_argp_state	file:
+input	grub-mklayout.c	/^  char *input;$/;"	m	struct:arguments	file:
+input	grub-render-label.c	/^  char *input;$/;"	m	struct:arguments	file:
+input	grub-syslinux2cfg.c	/^  char *input;$/;"	m	struct:arguments	file:
+input32	grub-glue-efi.c	/^  char *input32;$/;"	m	struct:arguments	file:
+input64	grub-glue-efi.c	/^  char *input64;$/;"	m	struct:arguments	file:
+insert_string	grub-pe2elf.c	/^insert_string (const char *name)$/;"	f	file:
+install_bootsector	grub-install.c	/^static int install_bootsector = 1;$/;"	v	file:
+install_device	grub-install.c	/^static char *install_device = NULL;$/;"	v	file:
+install_fonts	grub-install-common.c	/^struct install_list install_fonts = { 1, 0, 0, 0 };$/;"	v	typeref:struct:install_list
+install_list	grub-install-common.c	/^struct install_list$/;"	s	file:
+install_locales	grub-install-common.c	/^struct install_list install_locales = { 1, 0, 0, 0 };$/;"	v	typeref:struct:install_list
+install_modules	grub-install-common.c	/^struct install_list install_modules = { 1, 0, 0, 0 };$/;"	v	typeref:struct:install_list
+install_sh	bash-completion.d/Makefile	/^install_sh = ${SHELL} \/android\/tow\/grub\/build-aux\/install-sh$/;"	m
+install_sh_DATA	bash-completion.d/Makefile	/^install_sh_DATA = $(install_sh) -c -m 644$/;"	m
+install_sh_PROGRAM	bash-completion.d/Makefile	/^install_sh_PROGRAM = $(install_sh) -c$/;"	m
+install_sh_SCRIPT	bash-completion.d/Makefile	/^install_sh_SCRIPT = $(install_sh) -c$/;"	m
+install_themes	grub-install-common.c	/^struct install_list install_themes = { 1, 0, 0, 0 };$/;"	v	typeref:struct:install_list
+is_bss_section	grub-mkimagexx.c	/^SUFFIX (is_bss_section) (Elf_Shdr *s, const struct grub_install_image_target_desc *image_target)$/;"	f	file:
+is_data_section	grub-mkimagexx.c	/^SUFFIX (is_data_section) (Elf_Shdr *s, const struct grub_install_image_target_desc *image_target)$/;"	f	file:
+is_default	grub-install-common.c	/^  int is_default;$/;"	m	struct:install_list	file:
+is_path_separator	grub-install-common.c	/^is_path_separator (char c)$/;"	f	file:
+is_prep_empty	grub-install.c	/^is_prep_empty (grub_device_t dev)$/;"	f	file:
+is_prep_partition	grub-install.c	/^is_prep_partition (grub_device_t dev)$/;"	f	file:
+is_relocatable	grub-mkimagexx.c	/^is_relocatable (const struct grub_install_image_target_desc *image_target)$/;"	f	file:
+is_same_disk	grub-install.c	/^is_same_disk (const char *a, const char *b)$/;"	f	file:
+is_symbol_local	grub-module-verifierXX.c	/^is_symbol_local(Elf_Sym *sym)$/;"	f	file:
+is_text_section	grub-mkimagexx.c	/^SUFFIX (is_text_section) (Elf_Shdr *s, const struct grub_install_image_target_desc *image_target)$/;"	f	file:
+is_whitelisted	grub-module-verifierXX.c	/^is_whitelisted (const char *modname, const char **whitelist)$/;"	f	file:
+isc	import_gcry.py	/^        isc = re.match (".*\\.c$", cipher_file)$/;"	v
+iscipher	import_gcry.py	/^                    iscipher = False$/;"	v
+iscipher	import_gcry.py	/^                iscipher = True$/;"	v
+iscipher	import_gcry.py	/^        iscipher = False$/;"	v
+iscomma	import_gcry.py	/^                iscomma = not re.search (",$", line) is None$/;"	v
+iscomma	import_gcry.py	/^        iscomma = False$/;"	v
+iscryptostart	import_gcry.py	/^                    iscryptostart = False$/;"	v
+iscryptostart	import_gcry.py	/^                iscryptostart = True$/;"	v
+iscryptostart	import_gcry.py	/^        iscryptostart = False$/;"	v
+isglue	import_gcry.py	/^                isglue = True$/;"	v
+isglue	import_gcry.py	/^        isglue = False$/;"	v
+ismd	import_gcry.py	/^                    ismd = False$/;"	v
+ismd	import_gcry.py	/^                ismd = True$/;"	v
+ismd	import_gcry.py	/^        ismd = False$/;"	v
+iso9660_dir	grub-mkrescue.c	/^static char *iso9660_dir;$/;"	v	file:
+iso_uuid	grub-mkrescue.c	/^static char *iso_uuid;$/;"	v	file:
+ispk	import_gcry.py	/^                    ispk = False$/;"	v
+ispk	import_gcry.py	/^                ispk = True$/;"	v
+ispk	import_gcry.py	/^        ispk = False$/;"	v
+joining	import_unicode.py	/^joining = {}$/;"	v
+label_bgcolor	grub-install.c	/^static char *label_bgcolor;$/;"	v	file:
+label_bgcolor	grub-mkrescue.c	/^static char *label_bgcolor;$/;"	v	file:
+label_color	grub-install.c	/^static char *label_color;$/;"	v	file:
+label_color	grub-mkrescue.c	/^static char *label_color;$/;"	v	file:
+label_font	grub-install.c	/^static char *label_font;$/;"	v	file:
+label_font	grub-mkrescue.c	/^static char *label_font;$/;"	v	file:
+last_length	setup.c	/^  grub_uint16_t last_length;$/;"	m	struct:blocklists	file:
+lastbiditype	import_unicode.py	/^    lastbiditype = curbiditype$/;"	v
+lastbiditype	import_unicode.py	/^lastbiditype = "X"$/;"	v
+lastcode	import_unicode.py	/^    lastcode = curcode$/;"	v
+lastcode	import_unicode.py	/^lastcode = -2$/;"	v
+lastcombtype	import_unicode.py	/^    lastcombtype = curcombtype$/;"	v
+lastcombtype	import_unicode.py	/^lastcombtype = -1$/;"	v
+lastjoin	import_unicode.py	/^    lastjoin = curjoin$/;"	v
+lastmirrortype	import_unicode.py	/^    lastmirrortype = curmirrortype$/;"	v
+lastmirrortype	import_unicode.py	/^lastmirrortype = False$/;"	v
+layout	grub-mklayout.c	/^  const char *layout;$/;"	m	struct:console_grub_equivalence	file:
+leng	grub-fstest.c	/^static grub_disk_addr_t skip, leng;$/;"	v	file:
+libdir	bash-completion.d/Makefile	/^libdir = ${exec_prefix}\/lib$/;"	m
+libexecdir	bash-completion.d/Makefile	/^libexecdir = ${exec_prefix}\/libexec$/;"	m
+line	import_gcry.py	/^            line = line$/;"	v
+line	import_unicode.py	/^    line = line.replace (" ", "")$/;"	v
+line	import_unicode.py	/^    line = line.replace ("\\n", "")$/;"	v
+line	import_unicode.py	/^    line = re.sub ("#.*$", "", line)$/;"	v
+lineno	grub-script-check.c	/^  int lineno;$/;"	m	struct:main_ctx	file:
+linkname	grub-mkstandalone.c	/^  char linkname[100];$/;"	m	struct:head	file:
+linux_to_usb_map	grub-mklayout.c	/^static grub_uint8_t linux_to_usb_map[128] = {$/;"	v	file:
+lispdir	bash-completion.d/Makefile	/^lispdir = ${datarootdir}\/emacs\/site-lisp$/;"	m
+list	resolve.c	/^  struct mod_list *list;$/;"	m	struct:dep_list	typeref:struct:dep_list::mod_list	file:
+list_variables	grub-editenv.c	/^list_variables (const char *name)$/;"	f	file:
+load_base	grub-mkimagexx.c	/^  grub_uint32_t load_base;$/;"	m	struct:grub_ieee1275_note_desc	file:
+load_cfg	grub-install.c	/^static char *load_cfg;$/;"	v	file:
+load_cfg_f	grub-install.c	/^static FILE * load_cfg_f = NULL;$/;"	v	file:
+localedir	bash-completion.d/Makefile	/^localedir = ${datarootdir}\/locale$/;"	m
+localstatedir	bash-completion.d/Makefile	/^localstatedir = ${prefix}\/var$/;"	m
+locate_sections	grub-mkimagexx.c	/^SUFFIX (locate_sections) (Elf_Ehdr *e, const char *kernel_path,$/;"	f	file:
+lookup	grub-mklayout.c	/^lookup (char *code, int shift)$/;"	f	file:
+lookupcount	grub-mkfont.c	/^  grub_uint16_t lookupcount;$/;"	m	struct:gsub_feature	file:
+lookupindices	grub-mkfont.c	/^  grub_uint16_t lookupindices[0];$/;"	m	struct:gsub_feature	file:
+lookups_off	grub-mkfont.c	/^  grub_uint16_t lookups_off;$/;"	m	struct:gsub_header	file:
+lp	spkmodem-recv.c	/^static int lp = 0;$/;"	v	file:
+lst	grub-mkimagexx.c	/^  struct fixup_block_list *lst, *lst0;$/;"	m	struct:translate_context	typeref:struct:translate_context::fixup_block_list	file:
+lst0	grub-mkimagexx.c	/^  struct fixup_block_list *lst, *lst0;$/;"	m	struct:translate_context	typeref:struct:translate_context::	file:
+m	import_gcry.py	/^            m = re.match ("# *include <(.*)>", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("(static byte|static unsigned char) (weak_keys_chksum)\\[[0-9]*\\] =", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("(static const char( |)\\*|static gpg_err_code_t|void|static int|static gcry_err_code_t|static gcry_mpi_t|static void|void|static elliptic_curve_t) *$", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("cipher_extra_spec_t", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("gcry_cipher_spec_t", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("gcry_md_spec_t", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("gcry_pk_spec_t", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("md_extra_spec_t", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("pk_extra_spec_t", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static (int|void) test_keys .*;$", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static const char \\*selftest.*;$", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static const char sample_public_key", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static const char sample_secret_key", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static gcry_mpi_t gen_k .*;$", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static int tripledes_set2keys \\(", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static int tripledes_set2keys \\(.*\\);", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static int tripledes_set3keys \\(", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static int tripledes_set3keys \\(.*\\);", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static void \\(\\*progress_cb\\).*;$", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static void \\*progress_cb_data.*;$", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static void secret .*;$", line)$/;"	v
+m	import_gcry.py	/^            m = re.match ("static void sign|static gpg_err_code_t sign|static gpg_err_code_t generate",$/;"	v
+m	import_gcry.py	/^        m = re.match ("#include \\"mod-source-info\\.h\\"", line)$/;"	v
+m	import_gcry.py	/^        m = re.match ("(const char( |)\\*|void) *$", line)$/;"	v
+macppcdir	grub-install.c	/^static char *macppcdir = NULL;$/;"	v	file:
+magic	grub-mkstandalone.c	/^  char magic[6];$/;"	m	struct:head	file:
+magic	render-label.c	/^  grub_uint8_t magic;$/;"	m	struct:header	file:
+main	bin2h.c	/^main (int argc, char *argv[])$/;"	f
+main	garbage-gen.c	/^main (int argc, char **argv)$/;"	f
+main	grub-editenv.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-file.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-fstest.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-gen-asciih.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-gen-widthspec.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-glue-efi.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-install.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-macbless.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-macho2img.c	/^main (int argc, char **argv)$/;"	f
+main	grub-menulst2cfg.c	/^main (int argc, char **argv)$/;"	f
+main	grub-mkfont.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-mkimage.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-mklayout.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-mknetdir.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-mkpasswd-pbkdf2.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-mkrelpath.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-mkrescue.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-mkstandalone.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-module-verifier.c	/^main (int argc, char **argv)$/;"	f
+main	grub-mount.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-pe2elf.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-probe.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-render-label.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-script-check.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-setup.c	/^main (int argc, char *argv[])$/;"	f
+main	grub-syslinux2cfg.c	/^main (int argc, char *argv[])$/;"	f
+main	ieee1275/grub-ofpathname.c	/^int main(int argc, char **argv)$/;"	f
+main	spkmodem-recv.c	/^main ()$/;"	f
+main_ctx	grub-script-check.c	/^struct main_ctx$/;"	s	file:
+make_device_name	getroot.c	/^make_device_name (const char *drive)$/;"	f	file:
+make_image	grub-mkrescue.c	/^make_image (enum grub_install_plat plat,$/;"	f	file:
+make_image_abs	grub-mkrescue.c	/^make_image_abs (enum grub_install_plat plat,$/;"	f	file:
+make_image_fwdisk	grub-mkrescue.c	/^make_image_fwdisk (enum grub_install_plat plat,$/;"	f	file:
+make_image_fwdisk_abs	grub-mkrescue.c	/^make_image_fwdisk_abs (enum grub_install_plat plat,$/;"	f	file:
+make_reloc_section	grub-mkimagexx.c	/^make_reloc_section (Elf_Ehdr *e, struct grub_mkimage_layout *layout,$/;"	f	file:
+mandir	bash-completion.d/Makefile	/^mandir = ${datarootdir}\/man$/;"	m
+max_height	grub-mkfont.c	/^  int max_height;$/;"	m	struct:grub_font_info	file:
+max_width	grub-mkfont.c	/^  int max_width;$/;"	m	struct:grub_font_info	file:
+max_y	grub-mkfont.c	/^  int max_y;$/;"	m	struct:grub_font_info	file:
+mdarg	import_gcry.py	/^                    mdarg = 0$/;"	v
+mdarg	import_gcry.py	/^                mdarg = 0$/;"	v
+mdarg	import_gcry.py	/^                mdarg = mdarg + len (spl) - 1$/;"	v
+mdarg	import_gcry.py	/^        mdarg = 0$/;"	v
+mdblocksizes	import_gcry.py	/^mdblocksizes = {"_gcry_digest_spec_crc32" : 64,$/;"	v
+mdctxsizes	import_gcry.py	/^        mdctxsizes = []$/;"	v
+mdname	import_gcry.py	/^                mdname = line [len ("gcry_md_spec_t"):].strip ()$/;"	v
+mdname	import_gcry.py	/^                mdname = re.match("[a-zA-Z0-9_]*",mdname).group ()$/;"	v
+mdnames	import_gcry.py	/^        mdnames = []$/;"	v
+memdisk	grub-mkimage.c	/^  char *memdisk;$/;"	m	struct:arguments	file:
+memdisk	grub-mkstandalone.c	/^static FILE *memdisk;$/;"	v	file:
+min_y	grub-mkfont.c	/^  int min_y;$/;"	m	struct:grub_font_info	file:
+mkdir_p	bash-completion.d/Makefile	/^mkdir_p = $(MKDIR_P)$/;"	m
+mkimage_target	grub-mknetdir.c	/^  const char *mkimage_target;$/;"	m	struct:__anon6	file:
+mkinstalldirs	bash-completion.d/Makefile	/^mkinstalldirs = $(install_sh) -d$/;"	m
+mod_list	resolve.c	/^struct mod_list$/;"	s	file:
+mode	grub-mkstandalone.c	/^  char mode[8];$/;"	m	struct:head	file:
+modfiles	import_gcry.py	/^                    % (cipher_file, cipher_file.replace ("-glue.c", ".c"))$/;"	v
+modfiles	import_gcry.py	/^                modfiles = "lib\/libgcrypt-grub\/cipher\/%s" % cipher_file$/;"	v
+modname	import_gcry.py	/^                modname = modname.replace ("-glue", "")$/;"	v
+modname	import_gcry.py	/^            modname = "gcry_%s" % modname$/;"	v
+modname	import_gcry.py	/^            modname = cipher_file [0:len(cipher_file) - 2]$/;"	v
+modules	grub-install-common.c	/^struct install_list modules = { 1, 0, 0, 0 };$/;"	v	typeref:struct:install_list
+modules	grub-mkimage.c	/^  char **modules;$/;"	m	struct:arguments	file:
+modules_max	grub-mkimage.c	/^  size_t modules_max;$/;"	m	struct:arguments	file:
+modules_sym_md	import_gcry.py	/^modules_sym_md = []$/;"	v
+mount_crypt	grub-fstest.c	/^static int mount_crypt = 0;$/;"	v	file:
+mount_crypt	grub-mount.c	/^static int mount_crypt = 0;$/;"	v	file:
+mpidir	import_gcry.py	/^mpidir =  os.path.join (basedir, "mpi")$/;"	v
+mtime	grub-mkstandalone.c	/^  char mtime[12];$/;"	m	struct:head	file:
+multiple_partmaps	setup.c	/^  int multiple_partmaps;$/;"	m	struct:identify_partmap_ctx	file:
+my_argp_parse	grub-mkfont.c	965;"	d	file:
+my_argp_parse	grub-mkfont.c	976;"	d	file:
+my_argp_parse_real	grub-mkfont.c	/^my_argp_parse_real (int argc, char **argv, void *st)$/;"	f	file:
+my_argp_state	grub-mkfont.c	/^struct my_argp_state$/;"	s	file:
+my_argp_state	grub-mkfont.c	969;"	d	file:
+my_error_t	grub-mkfont.c	967;"	d	file:
+my_error_t	grub-mkfont.c	973;"	d	file:
+n_alloc	grub-install-common.c	/^  size_t n_alloc;$/;"	m	struct:install_list	file:
+n_entries	grub-install-common.c	/^  size_t n_entries;$/;"	m	struct:install_list	file:
+name	grub-mkfont.c	/^  const char *name;$/;"	m	struct:grub_font_info	file:
+name	grub-mkimagexx.c	/^  char name[ALIGN_UP(sizeof (GRUB_IEEE1275_NOTE_NAME), 4)];$/;"	m	struct:grub_ieee1275_note	file:
+name	grub-mkstandalone.c	/^  char name[100];$/;"	m	struct:head	file:
+name	resolve.c	/^  const char *name;$/;"	m	struct:dep_list	file:
+name	resolve.c	/^  const char *name;$/;"	m	struct:mod_list	file:
+nch	import_gcry.py	/^                        nch = True                        $/;"	v
+nch	import_gcry.py	/^                    nch = True$/;"	v
+nch	import_gcry.py	/^                nch = True$/;"	v
+nch	import_gcry.py	/^    nch = False$/;"	v
+ndevices	grub-probe.c	/^  size_t ndevices;$/;"	m	struct:arguments	file:
+netmodule	grub-mknetdir.c	/^  const char *netmodule;$/;"	m	struct:__anon6	file:
+next	grub-mkfont.c	/^  struct glyph_replace *next;$/;"	m	struct:glyph_replace	typeref:struct:glyph_replace::glyph_replace	file:
+next	grub-mkfont.c	/^  struct grub_glyph_info *next;$/;"	m	struct:grub_glyph_info	typeref:struct:grub_glyph_info::grub_glyph_info	file:
+next	grub-mkimagexx.c	/^  struct fixup_block_list *next;$/;"	m	struct:fixup_block_list	typeref:struct:fixup_block_list::fixup_block_list	file:
+next	grub-mkimagexx.c	/^  struct raw_reloc *next;$/;"	m	struct:raw_reloc	typeref:struct:raw_reloc::raw_reloc	file:
+next	resolve.c	/^  struct dep_list *next;$/;"	m	struct:dep_list	typeref:struct:dep_list::dep_list	file:
+next	resolve.c	/^  struct mod_list *next;$/;"	m	struct:mod_list	typeref:struct:mod_list::mod_list	file:
+nfiles	grub-mkfont.c	/^  size_t nfiles;$/;"	m	struct:arguments	file:
+nfiles	grub-mkstandalone.c	/^static int nfiles;$/;"	v	file:
+nmodules	grub-mkimage.c	/^  size_t nmodules;$/;"	m	struct:arguments	file:
+note	grub-mkimage.c	/^  int note;$/;"	m	struct:arguments	file:
+nparm	grub-fstest.c	/^static int nparm = 0;$/;"	v	file:
+npubkeys	grub-install-common.c	/^static size_t npubkeys;$/;"	v	file:
+npubkeys	grub-mkimage.c	/^  size_t npubkeys;$/;"	m	struct:arguments	file:
+num_disks	grub-fstest.c	/^static int num_disks = 1;$/;"	v	file:
+num_disks	grub-mount.c	/^static int num_disks = 0;$/;"	v	file:
+num_glyphs	grub-mkfont.c	/^  int num_glyphs;$/;"	m	struct:grub_font_info	file:
+num_range	grub-mkfont.c	/^  int num_range;$/;"	m	struct:grub_font_info	file:
+num_sections	grub-pe2elf.c	/^static int num_sections, first_reloc_section, reloc_sections_end, symtab_section, strtab_section;$/;"	v	file:
+offset	grub-mkfont.c	/^    grub_uint16_t offset;$/;"	m	struct:gsub_features::__anon10	file:
+offset	grub-mkimagexx.c	/^  grub_uint32_t offset;$/;"	m	struct:raw_reloc	file:
+offset	grub-pe2elf.c	/^static grub_uint32_t offset, image_base;$/;"	v	file:
+offsets	grub-mkfont.c	/^  grub_uint16_t offsets[0];$/;"	m	struct:gsub_lookup_list	file:
+oldincludedir	bash-completion.d/Makefile	/^oldincludedir = \/usr\/include$/;"	m
+open_envblk_file	grub-editenv.c	/^open_envblk_file (const char *name)$/;"	f	file:
+option_is_end	grub-mkrescue.c	/^option_is_end (const struct argp_option *opt)$/;"	f	file:
+options	grub-editenv.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-fstest.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-glue-efi.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-install.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-macbless.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mkfont.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mkimage.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mklayout.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mknetdir.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mkpasswd-pbkdf2.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mkrelpath.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mkrescue.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mkstandalone.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-mount.c	/^static struct argp_option options[] = {  $/;"	v	typeref:struct:argp_option	file:
+options	grub-probe.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-render-label.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-script-check.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-setup.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+options	grub-syslinux2cfg.c	/^static struct argp_option options[] = {$/;"	v	typeref:struct:argp_option	file:
+outdir	import_gcry.py	/^outdir = sys.argv[2]$/;"	v
+outfile	import_gcry.py	/^    outfile = os.path.join (basedir, "mpi", src)$/;"	v
+outfile	import_gcry.py	/^    outfile = os.path.join (basedir, "src", src)$/;"	v
+outfile	import_gcry.py	/^    outfile = os.path.join (cipher_dir_out, cipher_file)$/;"	v
+outfile	import_gcry.py	/^outfile = os.path.join (cipher_dir_out, "ChangeLog")$/;"	v
+outfile	import_gcry.py	/^outfile = os.path.join (cipher_dir_out, "cipher.h")$/;"	v
+outfile	import_gcry.py	/^outfile = os.path.join (cipher_dir_out, "g10lib.h")$/;"	v
+outfile	import_gcry.py	/^outfile = os.path.join (cipher_dir_out, "memory.h")$/;"	v
+outfile	import_gcry.py	/^outfile = os.path.join (cipher_dir_out, "types.h")$/;"	v
+outfile	import_unicode.py	/^outfile = open (sys.argv[4], "w")$/;"	v
+output	grub-glue-efi.c	/^  char *output;$/;"	m	struct:arguments	file:
+output	grub-mkimage.c	/^  char *output;$/;"	m	struct:arguments	file:
+output	grub-mklayout.c	/^  char *output;$/;"	m	struct:arguments	file:
+output	grub-render-label.c	/^  char *output;$/;"	m	struct:arguments	file:
+output	grub-syslinux2cfg.c	/^  char *output;$/;"	m	struct:arguments	file:
+output_file	grub-mkfont.c	/^  char *output_file;$/;"	m	struct:arguments	file:
+output_image	grub-mkrescue.c	/^static char *output_image;$/;"	v	file:
+output_image	grub-mkstandalone.c	/^static char *output_image;$/;"	v	file:
+pad	grub-mkstandalone.c	/^  char pad[12];$/;"	m	struct:head	file:
+params	grub-mkfont.c	/^  grub_uint16_t params;$/;"	m	struct:gsub_feature	file:
+partname	getroot.c	/^  char *partname;$/;"	m	struct:grub_util_biosdisk_get_grub_dev_ctx	file:
+path	grub-mount.c	/^  const char *path;$/;"	m	struct:fuse_readdir_ctx	file:
+pathname	grub-mkrelpath.c	/^  char *pathname;$/;"	m	struct:arguments	file:
+pdfdir	bash-completion.d/Makefile	/^pdfdir = ${docdir}$/;"	m
+pkgdatadir	bash-completion.d/Makefile	/^pkgdatadir = $(datadir)\/grub$/;"	m
+pkgincludedir	bash-completion.d/Makefile	/^pkgincludedir = $(includedir)\/grub$/;"	m
+pkglibdir	bash-completion.d/Makefile	/^pkglibdir = $(libdir)\/grub$/;"	m
+pkglibexecdir	bash-completion.d/Makefile	/^pkglibexecdir = ${libexecdir}\/${PACKAGE}$/;"	m
+pkname	import_gcry.py	/^                pkname = line [len ("gcry_pk_spec_t"):].strip ()$/;"	v
+pkname	import_gcry.py	/^                pkname = re.match("[a-zA-Z0-9_]*",pkname).group ()$/;"	v
+pknames	import_gcry.py	/^        pknames = []$/;"	v
+platform	bash-completion.d/Makefile	/^platform = pc$/;"	m
+platform	grub-install-common.c	/^  const char *platform;$/;"	m	struct:__anon1	file:
+platform	grub-module-verifier.c	/^  const char *platform;$/;"	m	struct:platform_whitelist	file:
+platform_whitelist	grub-module-verifier.c	/^struct platform_whitelist {$/;"	s	file:
+platforms	grub-install-common.c	/^} platforms[GRUB_INSTALL_PLATFORM_MAX] =$/;"	v	typeref:struct:__anon1	file:
+pos	spkmodem-recv.c	/^static int pos, f1, f2;$/;"	v	file:
+ppc	grub-macbless.c	/^  int ppc;$/;"	m	struct:arguments	file:
+prefix	bash-completion.d/Makefile	/^prefix = \/usr\/local$/;"	m
+prefix	grub-mkimage.c	/^  char *prefix;$/;"	m	struct:arguments	file:
+prefix	grub-mkstandalone.c	/^  char prefix[155];$/;"	m	struct:head	file:
+print	grub-probe.c	/^static int print = PRINT_FS;$/;"	v	file:
+print_glyphs	grub-mkfont.c	/^print_glyphs (struct grub_font_info *font_info)$/;"	f	file:
+print_var	grub-editenv.c	/^print_var (const char *varname, const char *value,$/;"	f	file:
+print_version	grub-editenv.c	/^print_version (FILE *stream, struct argp_state *state)$/;"	f	file:
+print_version	grub-fstest.c	/^print_version (FILE *stream, struct argp_state *state)$/;"	f	file:
+print_version	grub-mount.c	/^print_version (FILE *stream, struct argp_state *state)$/;"	f	file:
+probe	grub-probe.c	/^probe (const char *path, char **device_names, char delim)$/;"	f	file:
+probe_abstraction	grub-probe.c	/^probe_abstraction (grub_disk_t disk, char delim)$/;"	f	file:
+probe_cryptodisk_uuid	grub-install.c	/^probe_cryptodisk_uuid (grub_disk_t disk)$/;"	f	file:
+probe_cryptodisk_uuid	grub-probe.c	/^probe_cryptodisk_uuid (grub_disk_t disk, char delim)$/;"	f	file:
+probe_mods	grub-install.c	/^probe_mods (grub_disk_t disk)$/;"	f	file:
+probe_partmap	grub-probe.c	/^probe_partmap (grub_disk_t disk, char delim)$/;"	f	file:
+probe_raid_level	grub-install.c	/^probe_raid_level (grub_disk_t disk)$/;"	f	file:
+probe_raid_level	grub-probe.c	/^probe_raid_level (grub_disk_t disk)$/;"	f	file:
+process_cursive	grub-mkfont.c	/^process_cursive (struct gsub_feature *feature,$/;"	f	file:
+process_input_dir	grub-mknetdir.c	/^process_input_dir (const char *input_dir, enum grub_install_plat platform)$/;"	f	file:
+product_name	grub-mkrescue.c	/^static char *product_name;$/;"	v	file:
+product_version	grub-install.c	/^static char *product_version;$/;"	v	file:
+product_version	grub-mkrescue.c	/^static char *product_version;$/;"	v	file:
+program_name	misc.c	/^const char *program_name = GRUB_BUILD_PROGRAM_NAME;$/;"	v
+program_transform_name	bash-completion.d/Makefile	/^program_transform_name = s,x,x,$/;"	m
+psdir	bash-completion.d/Makefile	/^psdir = ${docdir}$/;"	m
+pubkeys	grub-install-common.c	/^static char **pubkeys;$/;"	v	file:
+pubkeys	grub-mkimage.c	/^  char **pubkeys;$/;"	m	struct:arguments	file:
+pulse	spkmodem-recv.c	/^static signed short pulse[2 * SAMPLES_PER_TRAME];$/;"	v	file:
+push_cryptodisk_module	grub-install.c	/^push_cryptodisk_module (const char *mod, void *data __attribute__ ((unused)))$/;"	f	file:
+push_partmap_module	grub-install.c	/^push_partmap_module (const char *map, void *data __attribute__ ((unused)))$/;"	f	file:
+put_section	grub-mkimagexx.c	/^SUFFIX (put_section) (Elf_Shdr *s, int i,$/;"	f	file:
+ranges	grub-mkfont.c	/^  grub_uint32_t *ranges;$/;"	m	struct:grub_font_info	file:
+ranges	grub-mkfont.c	/^  } GRUB_PACKED ranges[0];$/;"	m	struct:gsub_coverage_ranges	typeref:struct:gsub_coverage_ranges::__anon13	file:
+raw_reloc	grub-mkimagexx.c	/^struct raw_reloc$/;"	s	file:
+raw_reloc_type	grub-mkimagexx.c	/^  enum raw_reloc_type {$/;"	g	struct:raw_reloc	file:
+raw_relocs	grub-mkimagexx.c	/^  struct raw_reloc *raw_relocs;$/;"	m	struct:translate_context	typeref:struct:translate_context::raw_reloc	file:
+read_dep_list	resolve.c	/^read_dep_list (FILE *fp)$/;"	f	file:
+read_file	grub-fstest.c	/^read_file (char *pathname, int (*hook) (grub_off_t ofs, char *buf, int len, void *hook_arg), void *hook_arg)$/;"	f	file:
+read_sample	spkmodem-recv.c	/^read_sample (void)$/;"	f	file:
+real_base	grub-mkimagexx.c	/^  grub_uint32_t real_base;$/;"	m	struct:grub_ieee1275_note_desc	file:
+real_mode	grub-mkimagexx.c	/^  grub_uint32_t real_mode;$/;"	m	struct:grub_ieee1275_note_desc	file:
+real_size	grub-mkimagexx.c	/^  grub_uint32_t real_size;$/;"	m	struct:grub_ieee1275_note_desc	file:
+recheck	grub-install.c	/^static int recheck = 0;$/;"	v	file:
+reloc_sections_end	grub-pe2elf.c	/^static int num_sections, first_reloc_section, reloc_sections_end, symtab_section, strtab_section;$/;"	v	file:
+relocate_addresses	grub-mkimagexx.c	/^SUFFIX (relocate_addresses) (Elf_Ehdr *e, Elf_Shdr *sections,$/;"	f	file:
+relocate_symbols	grub-mkimagexx.c	/^SUFFIX (relocate_symbols) (Elf_Ehdr *e, Elf_Shdr *sections,$/;"	f	file:
+removable	grub-install.c	/^static int removable = 0;$/;"	v	file:
+repl	grub-mkfont.c	/^      grub_uint16_t repl[0];$/;"	m	struct:gsub_substitution::__anon11::__anon12	file:
+result	grub-gen-widthspec.c	/^static unsigned char result[MAX_CODE \/ 8];$/;"	v	file:
+ringpos	spkmodem-recv.c	/^static int ringpos = 0;$/;"	v	file:
+rom_directory	grub-mkrescue.c	/^static char *rom_directory;$/;"	v	file:
+root	grub-fstest.c	/^static const char *root = NULL;$/;"	v	file:
+root	grub-mount.c	/^static const char *root = NULL;$/;"	v	file:
+root	grub-syslinux2cfg.c	/^  char *root;$/;"	m	struct:arguments	file:
+rootdir	grub-install.c	/^static char *rootdir = NULL;$/;"	v	file:
+rootdir	grub-mknetdir.c	/^static char *rootdir = NULL, *subdir = NULL;$/;"	v	file:
+s	import_gcry.py	/^                s = re.search (" *\\"([A-Z0-9_a-z]*)\\"", line)$/;"	v
+saltlen	grub-mkpasswd-pbkdf2.c	/^  unsigned int saltlen;$/;"	m	struct:arguments	file:
+save_blocklists	setup.c	/^save_blocklists (grub_disk_addr_t sector, unsigned offset, unsigned length,$/;"	f	file:
+sbindir	bash-completion.d/Makefile	/^sbindir = ${exec_prefix}\/sbin$/;"	m
+scripts_off	grub-mkfont.c	/^  grub_uint16_t scripts_off;$/;"	m	struct:gsub_header	file:
+section_check_relocations	grub-module-verifierXX.c	/^section_check_relocations (const struct grub_module_verifier_arch *arch, void *ehdr,$/;"	f	file:
+set_tar_value	grub-mkstandalone.c	/^set_tar_value (char *field, grub_uint32_t val,$/;"	f	file:
+set_variables	grub-editenv.c	/^set_variables (const char *name, int argc, char *argv[])$/;"	f	file:
+sg	import_gcry.py	/^                    sg = s.groups()[0]$/;"	v
+sharedstatedir	bash-completion.d/Makefile	/^sharedstatedir = ${prefix}\/com$/;"	m
+shdr	grub-pe2elf.c	/^static Elf_Shdr *shdr;$/;"	v	file:
+size	grub-mkfont.c	/^  int size;$/;"	m	struct:grub_font_info	file:
+size	grub-mkstandalone.c	/^  char size[12];$/;"	m	struct:head	file:
+skip	grub-fstest.c	/^static grub_disk_addr_t skip, leng;$/;"	v	file:
+skip	import_gcry.py	/^                        skip = 3$/;"	v
+skip	import_gcry.py	/^                    skip = 1$/;"	v
+skip	import_gcry.py	/^                    skip = skip - 1$/;"	v
+skip	import_gcry.py	/^                skip = 1$/;"	v
+skip	import_gcry.py	/^                skip = skip - 1$/;"	v
+skip	import_gcry.py	/^        skip = 0$/;"	v
+skip	import_gcry.py	/^    skip = 0$/;"	v
+skip2	import_gcry.py	/^                    skip2 = False$/;"	v
+skip2	import_gcry.py	/^                skip2 = True$/;"	v
+skip2	import_gcry.py	/^        skip2 = False$/;"	v
+skip_statement	import_gcry.py	/^                    skip_statement = False$/;"	v
+skip_statement	import_gcry.py	/^                skip_statement = True$/;"	v
+skip_statement	import_gcry.py	/^        skip_statement = False$/;"	v
+source_dirs	grub-mkrescue.c	/^static char *source_dirs[GRUB_INSTALL_PLATFORM_MAX];$/;"	v	file:
+sp	import_unicode.py	/^    sp = line.split (";")$/;"	v
+spl	import_gcry.py	/^                spl = line.split (",")$/;"	v
+srcdir	bash-completion.d/Makefile	/^srcdir = .$/;"	m
+srcdir	import_gcry.py	/^srcdir =  os.path.join (basedir, "src")$/;"	v
+start	getroot.c	/^  grub_disk_addr_t start;$/;"	m	struct:grub_util_biosdisk_get_grub_dev_ctx	file:
+start	grub-mkfont.c	/^    grub_uint16_t start;$/;"	m	struct:gsub_coverage_ranges::__anon13	file:
+start_index	grub-mkfont.c	/^    grub_uint16_t start_index;$/;"	m	struct:gsub_coverage_ranges::__anon13	file:
+state	grub-mkimagexx.c	/^  int state;$/;"	m	struct:fixup_block_list	file:
+strtab	grub-pe2elf.c	/^static char *strtab;$/;"	v	file:
+strtab_len	grub-pe2elf.c	/^static int strtab_max, strtab_len;$/;"	v	file:
+strtab_max	grub-pe2elf.c	/^static int strtab_max, strtab_len;$/;"	v	file:
+strtab_section	grub-pe2elf.c	/^static int num_sections, first_reloc_section, reloc_sections_end, symtab_section, strtab_section;$/;"	v	file:
+style	grub-mkfont.c	/^  int style;$/;"	m	struct:grub_font_info	file:
+subdir	bash-completion.d/Makefile	/^subdir = util\/bash-completion.d$/;"	m
+subdir	grub-mknetdir.c	/^static char *rootdir = NULL, *subdir = NULL;$/;"	v	file:
+subst	grub-mkfont.c	/^subst (const struct gsub_substitution *sub, grub_uint32_t glyph,$/;"	f	file:
+subst_leftjoin	grub-mkfont.c	/^struct glyph_replace *subst_rightjoin, *subst_leftjoin, *subst_medijoin;$/;"	v	typeref:struct:
+subst_medijoin	grub-mkfont.c	/^struct glyph_replace *subst_rightjoin, *subst_leftjoin, *subst_medijoin;$/;"	v	typeref:struct:
+subst_rightjoin	grub-mkfont.c	/^struct glyph_replace *subst_rightjoin, *subst_leftjoin, *subst_medijoin;$/;"	v	typeref:struct:glyph_replace
+subtablecount	grub-mkfont.c	/^  grub_uint16_t subtablecount;$/;"	m	struct:gsub_lookup	file:
+subtables	grub-mkfont.c	/^  grub_uint16_t subtables[0];$/;"	m	struct:gsub_lookup	file:
+symtab_section	grub-pe2elf.c	/^static int num_sections, first_reloc_section, reloc_sections_end, symtab_section, strtab_section;$/;"	v	file:
+sysconfdir	bash-completion.d/Makefile	/^sysconfdir = ${prefix}\/etc$/;"	m
+system_area	grub-mkrescue.c	/^} system_area = SYS_AREA_AUTO;$/;"	v	typeref:enum:__anon4
+target	bash-completion.d/Makefile	/^target = i686-pc-linux-gnu$/;"	m
+target	grub-install.c	/^static char *target;$/;"	v	file:
+target_alias	bash-completion.d/Makefile	/^target_alias = $/;"	m
+target_cpu	bash-completion.d/Makefile	/^target_cpu = i386$/;"	m
+target_cwd	grub-syslinux2cfg.c	/^  char *target_cwd;$/;"	m	struct:arguments	file:
+target_os	bash-completion.d/Makefile	/^target_os = linux-gnu$/;"	m
+target_root	grub-syslinux2cfg.c	/^  char *target_root;$/;"	m	struct:arguments	file:
+target_triplet	bash-completion.d/Makefile	/^target_triplet = i686-pc-linux-gnu$/;"	m
+target_vendor	bash-completion.d/Makefile	/^target_vendor = pc$/;"	m
+targets	grub-mknetdir.c	/^} targets[GRUB_INSTALL_PLATFORM_MAX] =$/;"	v	typeref:struct:__anon6	file:
+targets	grub-probe.c	/^static const char *targets[] =$/;"	v	file:
+text	grub-render-label.c	/^  char *text;$/;"	m	struct:arguments	file:
+to	grub-mkfont.c	/^  grub_uint32_t from, to;$/;"	m	struct:glyph_replace	file:
+top_build_prefix	bash-completion.d/Makefile	/^top_build_prefix = ..\/..\/$/;"	m
+top_builddir	bash-completion.d/Makefile	/^top_builddir = ..\/..$/;"	m
+top_srcdir	bash-completion.d/Makefile	/^top_srcdir = ..\/..$/;"	m
+trame	spkmodem-recv.c	/^static signed short trame[2 * SAMPLES_PER_TRAME];$/;"	v	file:
+transform	bash-completion.d/Makefile	/^transform = $(program_transform_name)$/;"	m
+translate_context	grub-mkimagexx.c	/^struct translate_context$/;"	s	file:
+translate_error	grub-mount.c	/^translate_error (void)$/;"	f	file:
+translate_reloc_start	grub-mkimagexx.c	/^translate_reloc_start (struct translate_context *ctx,$/;"	f	file:
+translate_relocation	grub-mkimagexx.c	/^translate_relocation (struct translate_context *ctx,$/;"	f	file:
+translate_relocation_pe	grub-mkimagexx.c	/^translate_relocation_pe (struct translate_context *ctx,$/;"	f	file:
+translate_relocation_raw	grub-mkimagexx.c	/^translate_relocation_raw (struct translate_context *ctx,$/;"	f	file:
+type	grub-mkfont.c	/^  grub_uint16_t type;$/;"	m	struct:gsub_coverage_list	file:
+type	grub-mkfont.c	/^  grub_uint16_t type;$/;"	m	struct:gsub_coverage_ranges	file:
+type	grub-mkfont.c	/^  grub_uint16_t type;$/;"	m	struct:gsub_lookup	file:
+type	grub-mkfont.c	/^  grub_uint16_t type;$/;"	m	struct:gsub_substitution	file:
+type	grub-mkimagexx.c	/^  } type;$/;"	m	struct:raw_reloc	typeref:enum:raw_reloc::raw_reloc_type	file:
+typeflag	grub-mkstandalone.c	/^  char typeflag;$/;"	m	struct:head	file:
+uid	grub-mkstandalone.c	/^  char uid[8];$/;"	m	struct:head	file:
+uname	grub-mkstandalone.c	/^  char uname[32];$/;"	m	struct:head	file:
+uncompress	grub-fstest.c	/^static int uncompress = 0;$/;"	v	file:
+unset_variables	grub-editenv.c	/^unset_variables (const char *name, int argc, char *argv[])$/;"	f	file:
+update_nvram	grub-install.c	/^static int update_nvram = 1;$/;"	v	file:
+verbose	grub-script-check.c	/^  int verbose;$/;"	m	struct:arguments	file:
+verbosity	grub-glue-efi.c	/^  int verbosity;$/;"	m	struct:arguments	file:
+verbosity	grub-mklayout.c	/^  int verbosity;$/;"	m	struct:arguments	file:
+verbosity	grub-render-label.c	/^  int verbosity;$/;"	m	struct:arguments	file:
+verbosity	grub-syslinux2cfg.c	/^  int verbosity;$/;"	m	struct:arguments	file:
+version	grub-mkfont.c	/^  grub_uint32_t version;$/;"	m	struct:gsub_header	file:
+version	grub-mkstandalone.c	/^  char version[2];$/;"	m	struct:head	file:
+virt_base	grub-mkimagexx.c	/^  grub_uint32_t virt_base;$/;"	m	struct:grub_ieee1275_note_desc	file:
+virt_size	grub-mkimagexx.c	/^  grub_uint32_t virt_size;$/;"	m	struct:grub_ieee1275_note_desc	file:
+whitelist_empty	grub-module-verifier.c	/^  const char **whitelist_empty;$/;"	m	struct:platform_whitelist	file:
+whitelists	grub-module-verifier.c	/^static struct platform_whitelist whitelists[] = {$/;"	v	typeref:struct:platform_whitelist	file:
+width	grub-gen-asciih.c	/^  int width;$/;"	m	struct:grub_glyph_info	file:
+width	grub-mkfont.c	/^  int width;$/;"	m	struct:grub_glyph_info	file:
+width	render-label.c	/^  grub_uint16_t width;$/;"	m	struct:header	file:
+write_be16_section	grub-mkfont.c	/^write_be16_section (const char *name, grub_uint16_t data, int* offset,$/;"	f	file:
+write_envblk	grub-editenv.c	/^write_envblk (const char *name, grub_envblk_t envblk)$/;"	f	file:
+write_fat	glue-efi.c	/^write_fat (FILE *in32, FILE *in64, FILE *out, const char *out_filename,$/;"	f	file:
+write_file	grub-mklayout.c	/^write_file (FILE *out, const char *fname, struct grub_keyboard_layout *layout)$/;"	f	file:
+write_font_ascii_bitmap	grub-gen-asciih.c	/^write_font_ascii_bitmap (FILE *file, FT_Face face)$/;"	f	file:
+write_font_pf2	grub-mkfont.c	/^write_font_pf2 (struct grub_font_info *font_info, char *output_file)$/;"	f	file:
+write_keymaps	grub-mklayout.c	/^write_keymaps (FILE *in, FILE *out, const char *out_filename)$/;"	f	file:
+write_pad	grub-mkstandalone.c	/^write_pad (unsigned sz)$/;"	f	file:
+write_part	grub-mkrescue.c	/^write_part (FILE *f, const char *srcdir)$/;"	f	file:
+write_reloc_section	grub-pe2elf.c	/^write_reloc_section (FILE* fp, const char *name, char *image,$/;"	f	file:
+write_rootdev	setup.c	/^write_rootdev (grub_device_t root_dev,$/;"	f	file:
+write_section_data	grub-pe2elf.c	/^write_section_data (FILE* fp, const char *name, char *image,$/;"	f	file:
+write_section_header	grub-pe2elf.c	/^write_section_header (FILE *fp, const char *name)$/;"	f	file:
+write_string_section	grub-mkfont.c	/^write_string_section (const char *name, const char *str,$/;"	f	file:
+write_string_table	grub-pe2elf.c	/^write_string_table (FILE *fp, const char *name)$/;"	f	file:
+write_symbol_table	grub-pe2elf.c	/^write_symbol_table (FILE* fp, const char *name, char *image,$/;"	f	file:
+write_to_disk	grub-install.c	/^write_to_disk (grub_device_t dev, const char *fn)$/;"	f	file:
+write_zeros	grub-mkstandalone.c	/^write_zeros (unsigned rsz)$/;"	f	file:
+x_ofs	grub-gen-asciih.c	/^  int x_ofs;$/;"	m	struct:grub_glyph_info	file:
+x_ofs	grub-mkfont.c	/^  int x_ofs;$/;"	m	struct:grub_glyph_info	file:
+xorriso	grub-mkrescue.c	/^static char *xorriso;$/;"	v	file:
+xorriso_arg_alloc	grub-mkrescue.c	/^static int xorriso_arg_alloc;$/;"	v	file:
+xorriso_argc	grub-mkrescue.c	/^static int xorriso_argc;$/;"	v	file:
+xorriso_argv	grub-mkrescue.c	/^static char **xorriso_argv;$/;"	v	file:
+xorriso_link	grub-mkrescue.c	/^xorriso_link (const char *from, const char *to)$/;"	f	file:
+xorriso_push	grub-mkrescue.c	/^xorriso_push (const char *val)$/;"	f	file:
+y_ofs	grub-gen-asciih.c	/^  int y_ofs;$/;"	m	struct:grub_glyph_info	file:
+y_ofs	grub-mkfont.c	/^  int y_ofs;$/;"	m	struct:grub_glyph_info	file:
+zero_delim	grub-probe.c	/^  int zero_delim;$/;"	m	struct:arguments	file:
